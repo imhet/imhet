@@ -129,10 +129,11 @@ def fetch_blog_entries():
 
 
 if __name__ == "__main__":
-    readme = root / "README.md"
-
+    real_root = pathlib.Path(__file__).parent.parent.resolve()
+    readme = real_root / "README.md"
+    
     # 发布的项目
-    project_releases = root / "src" / "releases.md"
+    project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
