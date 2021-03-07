@@ -143,7 +143,7 @@ if __name__ == "__main__":
         ]
     )
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "recent_releases", md)
+    # rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
     # github 仓库更新统计
     project_releases_md = "\n".join(
@@ -166,17 +166,17 @@ if __name__ == "__main__":
 
     code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
 
-    rewritten = replace_chunk(rewritten, "code_time", code_time_text)
+    # rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
     # 豆瓣   
-    doubans = fetch_douban()[:5]
+    doubans = fetch_douban()[:10]
     doubans_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
     )
-    rewritten = replace_chunk(rewritten, "douban", doubans_md)
+    rewritten = replace_chunk(readme_contents, "douban", doubans_md)
 
     # 博客更新
-    entries = fetch_blog_entries()[:5]
+    entries = fetch_blog_entries()[:10]
     entries_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
     )
