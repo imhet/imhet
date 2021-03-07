@@ -133,7 +133,7 @@ if __name__ == "__main__":
     readme = real_root / "README.md"
     
     # 发布的项目
-    project_releases = root / "releases.md"
+    project_releases = root / "release-projects.md"
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
