@@ -117,7 +117,7 @@ def fetch_douban():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://tw93.github.io/feed.xml")["entries"]
+    entries = feedparser.parse("https://heyitao.com/feed")["entries"]
     return [
         {
             "title": entry["title"],
