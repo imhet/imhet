@@ -26,11 +26,11 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 #### 🤹‍♀️ <a href="https://heyitao.com/" target="_blank">博客更新</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
-* <a href='https://tw93.github.io/2020-06-28/zaozaoliao.html' target='_blank'>早早聊微前端专题分享</a> - 2020-06-28
-* <a href='https://tw93.github.io/2020-05-27/good-app.html' target='_blank'>我的 2020 🔥软件分享</a> - 2020-05-27
-* <a href='https://tw93.github.io/2020-04-21/one.html' target='_blank'>飞猪统一运营工作台的解决方案</a> - 2020-04-21
-* <a href='https://tw93.github.io/2020-03-30/serverless-two.html' target='_blank'>飞猪 Serverless 体系建设（S2）</a> - 2020-03-30
+* <a href='http://heyitao.com/post/reading-lgygtx' target='_blank'>新加坡国父点评天下大势 - 读《李光耀观天下》</a> - 2021-01-02
+* <a href='http://heyitao.com/post/reading-2020' target='_blank'>我的 2020 读书小结 - 顺带推荐 10 本好书</a> - 2020-12-29
+* <a href='http://heyitao.com/post/reading-chonglai3' target='_blank'>如何跳出忙碌的怪圈？</a> - 2020-12-27
+* <a href='http://heyitao.com/post/reading-rhbsqzdzh' target='_blank'>如何把事情做到最好？</a> - 2020-11-16
+* <a href='http://heyitao.com/post/reading-yantangzhi' target='_blank'>我们是如何变胖的? - 读《盐糖脂》</a> - 2020-10-06
 <!-- blog ends -->
 
 </td>
