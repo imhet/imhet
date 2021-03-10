@@ -23,7 +23,8 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 def format_date(timestamp):
-    return datetime.datetime.strptime(timestamp, '%a, %d %b %Y %H:%M:%S GMT') + datetime.timedelta(hours=8).date()
+    dateStr = datetime.datetime.strptime(timestamp, '%a, %d %b %Y %H:%M:%S GMT') + datetime.timedelta(hours=8)
+    return dateStr.date()
 
 
 def fetch_douban():
