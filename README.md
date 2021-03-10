@@ -11,6 +11,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 #### 🤾‍♂️  <a href="https://www.douban.com/people/heyitao/" target="_blank">最近在看</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/27148168/' target='_blank'>看过赘婿</a> - 2021-03-10
 * <a href='https://book.douban.com/subject/35182454/' target='_blank'>读过内在动机</a> - 2021-03-04
 * <a href='https://book.douban.com/subject/27177909/' target='_blank'>读过单核工作法图解</a> - 2021-02-25
 * <a href='https://book.douban.com/subject/30216767/' target='_blank'>读过我们仨</a> - 2021-02-17
@@ -20,7 +21,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 * <a href='http://movie.douban.com/subject/30170833/' target='_blank'>看过荞麦疯长</a> - 2021-02-13
 * <a href='http://movie.douban.com/subject/35295915/' target='_blank'>看过少林寺之得宝传奇</a> - 2021-02-12
 * <a href='https://book.douban.com/subject/2035171/' target='_blank'>读过人生的枷锁</a> - 2021-02-04
-* <a href='https://book.douban.com/subject/33385402/' target='_blank'>读过事实</a> - 2021-01-23
 <!-- douban ends -->
 
 </td>
