@@ -29,6 +29,7 @@ def format_date(timestamp):
 def fetch_douban():
     return [
         {
+            "action": item["title"][0:2],
             "title": item["title"],
             "url": item["link"].split("#")[0],
             "published": format_date(item["published"])
@@ -40,6 +41,7 @@ def fetch_douban():
 def fetch_blog_entries():
     return [
         {
+            "action": "发布",
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
             "published": entry["updated"].split("T")[0],
@@ -53,17 +55,20 @@ if __name__ == "__main__":
     readme = real_root / "README.md"
     readme_contents = readme.open().read()
 
+    table_header = "| | |\n |:------------- | -------------: |\n"
+    table_item = "| {action} <a href='{url}' target='_blank'>{title}</a> | {published} |"
+
     # 豆瓣   
     doubans = fetch_douban()[:10]
-    doubans_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
+    doubans_md = table_header + "\n".join(
+        [table_item.format(**item) for item in doubans]
     )
     rewritten = replace_chunk(readme_contents, "douban", doubans_md)
 
     # 博客更新
     entries = fetch_blog_entries()[:10]
-    entries_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
+    entries_md = table_header + "\n".join(
+        [table_item.format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
