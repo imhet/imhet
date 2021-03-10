@@ -31,7 +31,7 @@ def fetch_douban():
     return [
         {
             "action": item["title"][0:2],
-            "title": item["title"],
+            "title": item["title"][2:],
             "url": item["link"].split("#")[0],
             "published": format_date(item["published"])
         }
