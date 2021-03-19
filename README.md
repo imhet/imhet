@@ -34,6 +34,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/reading-shishi' target='_blank'>这个世界不像你想的那么差</a> | 2021-03-18 |
 | 发布 <a href='http://heyitao.com/post/reading-lgygtx' target='_blank'>新加坡国父点评天下大势 - 读《李光耀观天下》</a> | 2021-01-02 |
 | 发布 <a href='http://heyitao.com/post/reading-2020' target='_blank'>我的 2020 读书小结 - 顺带推荐 10 本好书</a> | 2020-12-29 |
 | 发布 <a href='http://heyitao.com/post/reading-chonglai3' target='_blank'>如何跳出忙碌的怪圈？</a> | 2020-12-27 |
@@ -43,7 +44,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-rwmlhjdsthy' target='_blank'>只有男科医生知道的性知识</a> | 2020-09-25 |
 | 发布 <a href='http://heyitao.com/post/training-grjjdqgrzgj' target='_blank'>采铜《个人精进的七个认知工具》培训笔记</a> | 2020-08-20 |
 | 发布 <a href='http://heyitao.com/post/reading-gggtx' target='_blank'>凡事先从本质开始思考 - 读《硅谷钢铁侠》</a> | 2020-07-19 |
-| 发布 <a href='http://heyitao.com/post/reading-btydyq' target='_blank'>自由的代价就是被人讨厌 - 读《被讨厌的勇气》</a> | 2020-06-25 |
 <!-- blog ends -->
 
 </td>
