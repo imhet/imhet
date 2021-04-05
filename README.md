@@ -12,6 +12,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/30292777/' target='_blank'>阳光普照</a> | 2021-04-05 |
 | 读过 <a href='https://book.douban.com/subject/7007241/' target='_blank'>2001：太空漫游</a> | 2021-04-02 |
 | 看过 <a href='http://movie.douban.com/subject/30482003/' target='_blank'>安家</a> | 2021-04-02 |
 | 看过 <a href='http://movie.douban.com/subject/6538866/' target='_blank'>极速车王</a> | 2021-03-27 |
@@ -21,7 +22,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/27148168/' target='_blank'>赘婿</a> | 2021-03-10 |
 | 读过 <a href='https://book.douban.com/subject/35182454/' target='_blank'>内在动机</a> | 2021-03-04 |
 | 读过 <a href='https://book.douban.com/subject/27177909/' target='_blank'>单核工作法图解</a> | 2021-02-25 |
-| 读过 <a href='https://book.douban.com/subject/30216767/' target='_blank'>我们仨</a> | 2021-02-17 |
 <!-- douban ends -->
 
 </td>
