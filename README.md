@@ -12,6 +12,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/25750969/' target='_blank'>夜行者</a> | 2021-04-15 |
 | 读过 <a href='https://book.douban.com/subject/27624390/' target='_blank'>云彩收集者手册</a> | 2021-04-11 |
 | 看过 <a href='http://movie.douban.com/subject/26826330/' target='_blank'>刺杀小说家</a> | 2021-04-10 |
 | 看过 <a href='http://movie.douban.com/subject/30292777/' target='_blank'>阳光普照</a> | 2021-04-05 |
@@ -21,7 +22,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/5243775/' target='_blank'>聪明的投资者</a> | 2021-03-25 |
 | 看过 <a href='http://movie.douban.com/subject/27073752/' target='_blank'>神奇女侠1984</a> | 2021-03-14 |
 | 读过 <a href='https://book.douban.com/subject/35009826/' target='_blank'>一生的旅程</a> | 2021-03-11 |
-| 看过 <a href='http://movie.douban.com/subject/27148168/' target='_blank'>赘婿</a> | 2021-03-10 |
 <!-- douban ends -->
 
 </td>
