@@ -2,6 +2,9 @@
 
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
+---
+> 君子坐而论道，少年起而行之。
+---
 
 <table width="900px">
 <tr>
