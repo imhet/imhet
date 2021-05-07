@@ -4,6 +4,7 @@ import pathlib
 import re
 import os
 import datetime
+import ssl
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -25,6 +26,12 @@ def replace_chunk(content, marker, chunk, inline=False):
 def format_date(timestamp):
     dateStr = datetime.datetime.strptime(timestamp, '%a, %d %b %Y %H:%M:%S GMT') + datetime.timedelta(hours=8)
     return dateStr.date()
+
+
+def make_ssl_unverify():
+    if hasattr(ssl, '_create_unverified_context'):
+        ssl._create_default_https_context = ssl._create_unverified_context
+    pass
 
 
 def fetch_douban():
@@ -58,6 +65,8 @@ if __name__ == "__main__":
 
     table_header = "| | |\n |:------------- | -------------: |\n"
     table_item = "| {action} <a href='{url}' target='_blank'>{title}</a> | {published} |"
+
+    make_ssl_unverify()
 
     # 豆瓣   
     doubans = fetch_douban()[:10]

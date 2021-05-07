@@ -15,8 +15,8 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 #### 🤾‍♂️  <a href="https://www.douban.com/people/heyitao/" target="_blank">我在豆瓣</a>
 
 <!-- douban starts -->
-| | |
- |:------------- | -------------: |
+|  | |
+|:------------- | -------------: |
 | 读过 <a href='https://book.douban.com/subject/1022936/' target='_blank'>基业长青</a> | 2021-04-29 |
 | 想看 <a href='http://movie.douban.com/subject/32579283/' target='_blank'>后翼弃兵</a> | 2021-04-22 |
 | 想看 <a href='http://movie.douban.com/subject/27121248/' target='_blank'>六人-泰坦尼克上的中国幸存者</a> | 2021-04-22 |
