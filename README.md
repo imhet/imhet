@@ -15,8 +15,10 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 #### 🤾‍♂️  <a href="https://www.douban.com/people/heyitao/" target="_blank">我在豆瓣</a>
 
 <!-- douban starts -->
-|  | |
-|:------------- | -------------: |
+| | |
+ |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35022074/' target='_blank'>龙岭迷窟之最后的搬山道人</a> | 2021-05-06 |
+| 看过 <a href='http://movie.douban.com/subject/33438451/' target='_blank'>城市的边缘</a> | 2021-05-06 |
 | 读过 <a href='https://book.douban.com/subject/1022936/' target='_blank'>基业长青</a> | 2021-04-29 |
 | 想看 <a href='http://movie.douban.com/subject/32579283/' target='_blank'>后翼弃兵</a> | 2021-04-22 |
 | 想看 <a href='http://movie.douban.com/subject/27121248/' target='_blank'>六人-泰坦尼克上的中国幸存者</a> | 2021-04-22 |
@@ -25,8 +27,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/27624390/' target='_blank'>云彩收集者手册</a> | 2021-04-11 |
 | 看过 <a href='http://movie.douban.com/subject/26826330/' target='_blank'>刺杀小说家</a> | 2021-04-10 |
 | 看过 <a href='http://movie.douban.com/subject/30292777/' target='_blank'>阳光普照</a> | 2021-04-05 |
-| 读过 <a href='https://book.douban.com/subject/7007241/' target='_blank'>2001：太空漫游</a> | 2021-04-02 |
-| 看过 <a href='http://movie.douban.com/subject/30482003/' target='_blank'>安家</a> | 2021-04-02 |
 <!-- douban ends -->
 
 </td>
