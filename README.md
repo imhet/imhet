@@ -17,6 +17,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/33439323/' target='_blank'>精进2</a> | 2021-05-16 |
 | 看过 <a href='http://movie.douban.com/subject/30458949/' target='_blank'>无依之地</a> | 2021-05-12 |
 | 读过 <a href='https://book.douban.com/subject/30278560/' target='_blank'>创始人手记</a> | 2021-05-09 |
 | 读过 <a href='https://book.douban.com/subject/30475767/' target='_blank'>人生海海</a> | 2021-05-09 |
@@ -26,7 +27,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想看 <a href='http://movie.douban.com/subject/32579283/' target='_blank'>后翼弃兵</a> | 2021-04-22 |
 | 想看 <a href='http://movie.douban.com/subject/27121248/' target='_blank'>六人-泰坦尼克上的中国幸存者</a> | 2021-04-22 |
 | 看过 <a href='http://movie.douban.com/subject/2297265/' target='_blank'>浪潮</a> | 2021-04-17 |
-| 看过 <a href='http://movie.douban.com/subject/25750969/' target='_blank'>夜行者</a> | 2021-04-15 |
 <!-- douban ends -->
 
 </td>
