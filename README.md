@@ -17,7 +17,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-
+| 看过 <a href='http://movie.douban.com/subject/30228394/' target='_blank'>觉醒年代</a> | 2021-06-06 |
+| 读过 <a href='https://book.douban.com/subject/26417039/' target='_blank'>废物星球</a> | 2021-05-25 |
+| 读过 <a href='https://book.douban.com/subject/34917698/' target='_blank'>童年的秘密</a> | 2021-05-23 |
+| 看过 <a href='http://movie.douban.com/subject/27128108/' target='_blank'>玛利亚·蒙台梭利</a> | 2021-05-18 |
+| 读过 <a href='https://book.douban.com/subject/33439323/' target='_blank'>精进2</a> | 2021-05-16 |
+| 看过 <a href='http://movie.douban.com/subject/30458949/' target='_blank'>无依之地</a> | 2021-05-12 |
+| 读过 <a href='https://book.douban.com/subject/30278560/' target='_blank'>创始人手记</a> | 2021-05-09 |
+| 读过 <a href='https://book.douban.com/subject/30475767/' target='_blank'>人生海海</a> | 2021-05-09 |
+| 看过 <a href='http://movie.douban.com/subject/35022074/' target='_blank'>龙岭迷窟之最后的搬山道人</a> | 2021-05-06 |
+| 看过 <a href='http://movie.douban.com/subject/33438451/' target='_blank'>城市的边缘</a> | 2021-05-06 |
 <!-- douban ends -->
 
 </td>
