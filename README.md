@@ -17,6 +17,8 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/25977027/' target='_blank'>小姐</a> | 2021-06-26 |
+| 看过 <a href='http://movie.douban.com/subject/25806638/' target='_blank'>半泽直树2</a> | 2021-06-25 |
 | 看过 <a href='http://movie.douban.com/subject/24697949/' target='_blank'>半泽直树</a> | 2021-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/21759697/' target='_blank'>舞乐传奇</a> | 2021-06-20 |
 | 读过 <a href='https://book.douban.com/subject/1491567/' target='_blank'>西行漫记</a> | 2021-06-12 |
@@ -25,8 +27,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/26417039/' target='_blank'>废物星球</a> | 2021-05-25 |
 | 读过 <a href='https://book.douban.com/subject/34917698/' target='_blank'>童年的秘密</a> | 2021-05-23 |
 | 看过 <a href='http://movie.douban.com/subject/27128108/' target='_blank'>玛利亚·蒙台梭利</a> | 2021-05-18 |
-| 读过 <a href='https://book.douban.com/subject/33439323/' target='_blank'>精进2</a> | 2021-05-16 |
-| 看过 <a href='http://movie.douban.com/subject/30458949/' target='_blank'>无依之地</a> | 2021-05-12 |
 <!-- douban ends -->
 
 </td>
