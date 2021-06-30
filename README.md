@@ -17,6 +17,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/10586741/' target='_blank'>关键对话</a> | 2021-06-30 |
 | 看过 <a href='http://movie.douban.com/subject/25977027/' target='_blank'>小姐</a> | 2021-06-26 |
 | 看过 <a href='http://movie.douban.com/subject/25806638/' target='_blank'>半泽直树2</a> | 2021-06-25 |
 | 看过 <a href='http://movie.douban.com/subject/24697949/' target='_blank'>半泽直树</a> | 2021-06-23 |
@@ -26,7 +27,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/30228394/' target='_blank'>觉醒年代</a> | 2021-06-06 |
 | 读过 <a href='https://book.douban.com/subject/26417039/' target='_blank'>废物星球</a> | 2021-05-25 |
 | 读过 <a href='https://book.douban.com/subject/34917698/' target='_blank'>童年的秘密</a> | 2021-05-23 |
-| 看过 <a href='http://movie.douban.com/subject/27128108/' target='_blank'>玛利亚·蒙台梭利</a> | 2021-05-18 |
 <!-- douban ends -->
 
 </td>
