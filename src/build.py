@@ -81,7 +81,6 @@ if __name__ == "__main__":
 
     # 每日一句
     juzi_update = fetch_random_juzi(real_root / "src" / "juzi.txt")
-    print(juzi_update)
     rewritten = replace_chunk(readme_contents, "juzi", "```\n" + juzi_update + "\n```")
 
     # 豆瓣   
@@ -89,7 +88,7 @@ if __name__ == "__main__":
     doubans_update = table_header + "\n".join(
         [table_item.format(**item) for item in doubans]
     )
-    rewritten = replace_chunk(readme_contents, "douban", doubans_update)
+    rewritten = replace_chunk(rewritten, "douban", doubans_update)
 
     # 博客更新
     entries = fetch_blog_entries()[:10]
@@ -98,6 +97,5 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(rewritten, "blog", entries_update)
 
-    print(rewritten)
     # 写入 README    
     readme.open("w").write(rewritten)
