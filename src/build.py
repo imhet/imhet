@@ -80,7 +80,9 @@ if __name__ == "__main__":
     make_ssl_unverify()
 
     # 每日一句
+    print(readme)
     juzi_update = fetch_random_juzi(real_root / "src" / "juzi.txt")
+    print(juzi_update)
     rewritten = replace_chunk(readme_contents, "juzi", "```\n" + juzi_update + "\n```")
 
 
