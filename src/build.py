@@ -5,6 +5,7 @@ import re
 import os
 import datetime
 import ssl
+import random
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -58,6 +59,16 @@ def fetch_blog_entries():
     ]
 
 
+def fetch_random_juzi(juzi_file):
+    r = []
+    with open(juzi_file, 'r', encoding="utf-8") as f:
+        result = f.readlines()
+    for s in result:
+        if s.strip():
+            r.append(s.strip())
+    return r[random.randint(0, len(r) - 1)]
+
+
 if __name__ == "__main__":
     real_root = pathlib.Path(__file__).parent.parent.resolve()
     readme = real_root / "README.md"
@@ -68,19 +79,24 @@ if __name__ == "__main__":
 
     make_ssl_unverify()
 
+    # 每日一句
+    juzi_update = fetch_random_juzi(real_root / "src" / "juzi.txt")
+    rewritten = replace_chunk(readme_contents, "juzi", "```\n" + juzi_update + "\n```")
+
+
     # 豆瓣   
     doubans = fetch_douban()[:10]
-    doubans_md = table_header + "\n".join(
+    doubans_update = table_header + "\n".join(
         [table_item.format(**item) for item in doubans]
     )
-    rewritten = replace_chunk(readme_contents, "douban", doubans_md)
+    rewritten = replace_chunk(readme_contents, "douban", doubans_update)
 
     # 博客更新
     entries = fetch_blog_entries()[:10]
-    entries_md = table_header + "\n".join(
+    entries_update = table_header + "\n".join(
         [table_item.format(**entry) for entry in entries]
     )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
+    rewritten = replace_chunk(rewritten, "blog", entries_update)
 
     # 写入 README    
     readme.open("w").write(rewritten)
