@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-物品要用才有价值，是为断。物品在此时当下，应出现在需要它的地方，是为舍。物品处于恰当的位置，才能展现美感，是为离。断绝不需要的东西，舍弃多余的废物，脱离对物品的执着，是为断舍离。通过不断重复断和舍，最后达到离。
+这些来自社会底层的老百姓有个特点，就个体而言，似乎胆小如鼠。 如果有人登高一呼，则立刻应者如云，血脉贲张，勇气能呈几何级数地增长，关键是谁先做出头的椽子。人人都希望别人去出头，自己随大溜。如对手过于强大，先出头的椽子被砍了，他们便作鸟兽散，当初慷慨激昂的誓言，万夫不挡的勇气全不提了。反之，若是对手稍露软弱的征兆，他们便增添了十倍的勇气，进发出百倍的破坏力。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/26985299/' target='_blank'>小岛经济学</a> | 2021-07-04 |
 | 读过 <a href='https://book.douban.com/subject/10586741/' target='_blank'>关键对话</a> | 2021-06-30 |
 | 看过 <a href='http://movie.douban.com/subject/25977027/' target='_blank'>小姐</a> | 2021-06-26 |
 | 看过 <a href='http://movie.douban.com/subject/25806638/' target='_blank'>半泽直树2</a> | 2021-06-25 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/33447642/' target='_blank'>沉默的真相</a> | 2021-06-12 |
 | 看过 <a href='http://movie.douban.com/subject/30228394/' target='_blank'>觉醒年代</a> | 2021-06-06 |
 | 读过 <a href='https://book.douban.com/subject/26417039/' target='_blank'>废物星球</a> | 2021-05-25 |
-| 读过 <a href='https://book.douban.com/subject/34917698/' target='_blank'>童年的秘密</a> | 2021-05-23 |
 <!-- douban ends -->
 
 </td>
