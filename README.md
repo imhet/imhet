@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果问在人生中最重要的才能是什么？那么回答则是：第一，无所畏惧；第二，无所畏惧；第三，还是无所畏惧。
+宽容不是道德，而是认识。唯有深刻地认识事物，才能对人和世界的复杂性了解和体谅，才有不轻易责难和赞美的思维习惯。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/26661229/' target='_blank'>隧道尽头</a> | 2021-07-10 |
 | 读过 <a href='https://book.douban.com/subject/26985299/' target='_blank'>小岛经济学</a> | 2021-07-04 |
 | 读过 <a href='https://book.douban.com/subject/10586741/' target='_blank'>关键对话</a> | 2021-06-30 |
 | 看过 <a href='http://movie.douban.com/subject/25977027/' target='_blank'>小姐</a> | 2021-06-26 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/1491567/' target='_blank'>西行漫记</a> | 2021-06-12 |
 | 看过 <a href='http://movie.douban.com/subject/33447642/' target='_blank'>沉默的真相</a> | 2021-06-12 |
 | 看过 <a href='http://movie.douban.com/subject/30228394/' target='_blank'>觉醒年代</a> | 2021-06-06 |
-| 读过 <a href='https://book.douban.com/subject/26417039/' target='_blank'>废物星球</a> | 2021-05-25 |
 <!-- douban ends -->
 
 </td>
