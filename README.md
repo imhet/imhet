@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-爱情就像在海滩上捡贝壳，不要捡最大的， 也不要捡最漂亮的，要捡就捡自己最喜欢的，最重要的是捡到了自己喜欢的 就永远不要再去海边了。
+我们期望生活给予什么并不重要，重要的是生活对我们有什么期望。我们不应该再问生活的意义是什么，而应该像那些每时每刻都被生活质问的人那样去思考自身。人需要做的，不是像某些存在主义哲学家所教导的那样去忍受生命的无意义，而是忍受自己不能以合理的方式去把我生命之无限意义。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35143790/' target='_blank'>蛤蟆先生去看心理医生</a> | 2021-07-11 |
 | 看过 <a href='http://movie.douban.com/subject/26661229/' target='_blank'>隧道尽头</a> | 2021-07-10 |
 | 读过 <a href='https://book.douban.com/subject/26985299/' target='_blank'>小岛经济学</a> | 2021-07-04 |
 | 读过 <a href='https://book.douban.com/subject/10586741/' target='_blank'>关键对话</a> | 2021-06-30 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/21759697/' target='_blank'>舞乐传奇</a> | 2021-06-20 |
 | 读过 <a href='https://book.douban.com/subject/1491567/' target='_blank'>西行漫记</a> | 2021-06-12 |
 | 看过 <a href='http://movie.douban.com/subject/33447642/' target='_blank'>沉默的真相</a> | 2021-06-12 |
-| 看过 <a href='http://movie.douban.com/subject/30228394/' target='_blank'>觉醒年代</a> | 2021-06-06 |
 <!-- douban ends -->
 
 </td>
