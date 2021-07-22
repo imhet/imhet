@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-生活的不确定性正是我们希望的来源。
+为什么每个人年轻时都会颓废堕落一段时间？因为现实否定了我们内心的世界观。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/30318116/' target='_blank'>利刃出鞘</a> | 2021-07-22 |
 | 读过 <a href='https://book.douban.com/subject/35143790/' target='_blank'>蛤蟆先生去看心理医生</a> | 2021-07-11 |
 | 看过 <a href='http://movie.douban.com/subject/26661229/' target='_blank'>隧道尽头</a> | 2021-07-10 |
 | 读过 <a href='https://book.douban.com/subject/26985299/' target='_blank'>小岛经济学</a> | 2021-07-04 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/24697949/' target='_blank'>半泽直树</a> | 2021-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/21759697/' target='_blank'>舞乐传奇</a> | 2021-06-20 |
 | 读过 <a href='https://book.douban.com/subject/1491567/' target='_blank'>西行漫记</a> | 2021-06-12 |
-| 看过 <a href='http://movie.douban.com/subject/33447642/' target='_blank'>沉默的真相</a> | 2021-06-12 |
 <!-- douban ends -->
 
 </td>
