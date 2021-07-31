@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-无论明日，有多落魄，至少今天，没有蹉跎。
+真正的狼性，不在于吼叫和撕咬，而在于围猎前的隐忍。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/20390695/' target='_blank'>银河帝国8：我，机器人</a> | 2021-07-30 |
 | 读过 <a href='https://book.douban.com/subject/27023900/' target='_blank'>睡眠革命</a> | 2021-07-23 |
 | 看过 <a href='http://movie.douban.com/subject/30318116/' target='_blank'>利刃出鞘</a> | 2021-07-22 |
 | 读过 <a href='https://book.douban.com/subject/35143790/' target='_blank'>蛤蟆先生去看心理医生</a> | 2021-07-11 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/25977027/' target='_blank'>小姐</a> | 2021-06-26 |
 | 看过 <a href='http://movie.douban.com/subject/25806638/' target='_blank'>半泽直树2</a> | 2021-06-25 |
 | 看过 <a href='http://movie.douban.com/subject/24697949/' target='_blank'>半泽直树</a> | 2021-06-23 |
-| 看过 <a href='http://movie.douban.com/subject/21759697/' target='_blank'>舞乐传奇</a> | 2021-06-20 |
 <!-- douban ends -->
 
 </td>
