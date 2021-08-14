@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-爱情的反讽之一，你越不喜欢一个人，你越能够信心百倍、轻而易举地吸引他，强烈的欲望使人丧失了爱情游戏中必不可少的一种漫不经心，你如被人吸引，就会产生自卑情结，因为我们总是把最完美的品质赋予我们深爱的人。
+人生的高度，不是你看清了多少事，而是你看轻了多少事。心灵的宽度，不是你认识了多少人，而是你包容了多少人。做人如山，望万物，而容万物。做人似水，能进退，而知进退。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35044449/' target='_blank'>高效写作</a> | 2021-08-13 |
 | 读过 <a href='https://book.douban.com/subject/2147562/' target='_blank'>棋与人生</a> | 2021-08-06 |
 | 看过 <a href='http://movie.douban.com/subject/25945379/' target='_blank'>无节制消费的元凶 第一季</a> | 2021-07-31 |
 | 读过 <a href='https://book.douban.com/subject/20390695/' target='_blank'>银河帝国8：我，机器人</a> | 2021-07-30 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/26661229/' target='_blank'>隧道尽头</a> | 2021-07-10 |
 | 读过 <a href='https://book.douban.com/subject/26985299/' target='_blank'>小岛经济学</a> | 2021-07-04 |
 | 读过 <a href='https://book.douban.com/subject/10586741/' target='_blank'>关键对话</a> | 2021-06-30 |
-| 看过 <a href='http://movie.douban.com/subject/25977027/' target='_blank'>小姐</a> | 2021-06-26 |
 <!-- douban ends -->
 
 </td>
