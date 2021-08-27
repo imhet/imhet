@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-不随便评价他人，是修养；不活在别人的评价里，是修行。
+感恩可以解锁其他所有美德，也是你能做得更好的一件事情。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,9 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35188521/' target='_blank'>项塔兰3</a> | 2021-08-27 |
+| 读过 <a href='https://book.douban.com/subject/30231914/' target='_blank'>项塔兰2</a> | 2021-08-27 |
+| 读过 <a href='https://book.douban.com/subject/3673771/' target='_blank'>项塔兰</a> | 2021-08-27 |
 | 读过 <a href='https://book.douban.com/subject/35044449/' target='_blank'>高效写作</a> | 2021-08-13 |
 | 读过 <a href='https://book.douban.com/subject/2147562/' target='_blank'>棋与人生</a> | 2021-08-06 |
 | 看过 <a href='http://movie.douban.com/subject/25945379/' target='_blank'>无节制消费的元凶 第一季</a> | 2021-07-31 |
@@ -25,9 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/27023900/' target='_blank'>睡眠革命</a> | 2021-07-23 |
 | 看过 <a href='http://movie.douban.com/subject/30318116/' target='_blank'>利刃出鞘</a> | 2021-07-22 |
 | 读过 <a href='https://book.douban.com/subject/35143790/' target='_blank'>蛤蟆先生去看心理医生</a> | 2021-07-11 |
-| 看过 <a href='http://movie.douban.com/subject/26661229/' target='_blank'>隧道尽头</a> | 2021-07-10 |
-| 读过 <a href='https://book.douban.com/subject/26985299/' target='_blank'>小岛经济学</a> | 2021-07-04 |
-| 读过 <a href='https://book.douban.com/subject/10586741/' target='_blank'>关键对话</a> | 2021-06-30 |
 <!-- douban ends -->
 
 </td>
