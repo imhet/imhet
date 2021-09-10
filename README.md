@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-世界上最困难的事情是知道如何做一件事，然后看着别人做错而不加评论。
+如果你渴望得到某样东西，你得让它自由，如果它回到你身边，它就是属于你的，如果它不会回来，你就从未拥有过它。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/34842793/' target='_blank'>薄世宁医学通识讲义</a> | 2021-09-10 |
 | 读过 <a href='https://book.douban.com/subject/35188521/' target='_blank'>项塔兰3</a> | 2021-08-27 |
 | 读过 <a href='https://book.douban.com/subject/30231914/' target='_blank'>项塔兰2</a> | 2021-08-27 |
 | 读过 <a href='https://book.douban.com/subject/3673771/' target='_blank'>项塔兰</a> | 2021-08-27 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/20390695/' target='_blank'>银河帝国8：我，机器人</a> | 2021-07-30 |
 | 读过 <a href='https://book.douban.com/subject/27023900/' target='_blank'>睡眠革命</a> | 2021-07-23 |
 | 看过 <a href='http://movie.douban.com/subject/30318116/' target='_blank'>利刃出鞘</a> | 2021-07-22 |
-| 读过 <a href='https://book.douban.com/subject/35143790/' target='_blank'>蛤蟆先生去看心理医生</a> | 2021-07-11 |
 <!-- douban ends -->
 
 </td>
