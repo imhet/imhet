@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果你渴望得到某样东西，你得让它自由，如果它回到你身边，它就是属于你的，如果它不会回来，你就从未拥有过它。
+兴趣是最好的老师，其次是耻辱。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/1291822/' target='_blank'>卢旺达饭店</a> | 2021-09-11 |
 | 读过 <a href='https://book.douban.com/subject/34842793/' target='_blank'>薄世宁医学通识讲义</a> | 2021-09-10 |
 | 读过 <a href='https://book.douban.com/subject/35188521/' target='_blank'>项塔兰3</a> | 2021-08-27 |
 | 读过 <a href='https://book.douban.com/subject/30231914/' target='_blank'>项塔兰2</a> | 2021-08-27 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/25945379/' target='_blank'>无节制消费的元凶 第一季</a> | 2021-07-31 |
 | 读过 <a href='https://book.douban.com/subject/20390695/' target='_blank'>银河帝国8：我，机器人</a> | 2021-07-30 |
 | 读过 <a href='https://book.douban.com/subject/27023900/' target='_blank'>睡眠革命</a> | 2021-07-23 |
-| 看过 <a href='http://movie.douban.com/subject/30318116/' target='_blank'>利刃出鞘</a> | 2021-07-22 |
 <!-- douban ends -->
 
 </td>
