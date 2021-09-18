@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-在路上，我们永远年轻，永远热泪盈眶。
+人的认识能力是有限的，对事物的感知是相对的，所以我们的很多常识其实是经不起推敲的。因此。一个人想要活的明白，首先必须学会怀疑，其次学会独立思考，这样才不会在社会和其他人灌输给我们的错误观念中稀里糊涂地过一辈子。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/27601926/' target='_blank'>斯坦福大学人生设计课</a> | 2021-09-17 |
 | 看过 <a href='http://movie.douban.com/subject/1291822/' target='_blank'>卢旺达饭店</a> | 2021-09-11 |
 | 读过 <a href='https://book.douban.com/subject/34842793/' target='_blank'>薄世宁医学通识讲义</a> | 2021-09-10 |
 | 读过 <a href='https://book.douban.com/subject/35188521/' target='_blank'>项塔兰3</a> | 2021-08-27 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/2147562/' target='_blank'>棋与人生</a> | 2021-08-06 |
 | 看过 <a href='http://movie.douban.com/subject/25945379/' target='_blank'>无节制消费的元凶 第一季</a> | 2021-07-31 |
 | 读过 <a href='https://book.douban.com/subject/20390695/' target='_blank'>银河帝国8：我，机器人</a> | 2021-07-30 |
-| 读过 <a href='https://book.douban.com/subject/27023900/' target='_blank'>睡眠革命</a> | 2021-07-23 |
 <!-- douban ends -->
 
 </td>
