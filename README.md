@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我能抵抗一切，除了诱惑。
+一同学对老师说:“老师，你教的都是没用的东西。”结果老师回答说:“我不允许你这么说自己。”
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/7000947/' target='_blank'>人际网络</a> | 2021-09-20 |
 | 读过 <a href='https://book.douban.com/subject/26807576/' target='_blank'>赡养人类</a> | 2021-09-18 |
 | 读过 <a href='https://book.douban.com/subject/27601926/' target='_blank'>斯坦福大学人生设计课</a> | 2021-09-17 |
 | 看过 <a href='http://movie.douban.com/subject/1291822/' target='_blank'>卢旺达饭店</a> | 2021-09-11 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/3673771/' target='_blank'>项塔兰</a> | 2021-08-27 |
 | 读过 <a href='https://book.douban.com/subject/35044449/' target='_blank'>高效写作</a> | 2021-08-13 |
 | 读过 <a href='https://book.douban.com/subject/2147562/' target='_blank'>棋与人生</a> | 2021-08-06 |
-| 看过 <a href='http://movie.douban.com/subject/25945379/' target='_blank'>无节制消费的元凶 第一季</a> | 2021-07-31 |
 <!-- douban ends -->
 
 </td>
