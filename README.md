@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-盐于律己，甜以待人。
+成熟的标志，不是对这个世界有把握，而是对自己有信心。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/reading-smgm' target='_blank'>如何提升睡眠质量 - 读《睡眠革命》</a> | 2021-08-14 |
 | 发布 <a href='http://heyitao.com/post/reading-hmxsqkxlys' target='_blank'>人际沟通分析入门 - 读《蛤蟆先生去看心理医生》</a> | 2021-07-11 |
 | 发布 <a href='http://heyitao.com/post/reading-neizaidongji' target='_blank'>如何自主掌控你的人生？-读《内在动机》</a> | 2021-06-27 |
 | 发布 <a href='http://heyitao.com/post/reading-xinliu' target='_blank'>如何在日常生活中达到真正的快乐？-读《心流》</a> | 2021-05-01 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-2020' target='_blank'>我的 2020 读书小结 - 顺带推荐 10 本好书</a> | 2020-12-29 |
 | 发布 <a href='http://heyitao.com/post/reading-chonglai3' target='_blank'>如何跳出忙碌的怪圈？</a> | 2020-12-27 |
 | 发布 <a href='http://heyitao.com/post/reading-rhbsqzdzh' target='_blank'>如何把事情做到最好？</a> | 2020-11-16 |
-| 发布 <a href='http://heyitao.com/post/reading-yantangzhi' target='_blank'>我们是如何变胖的? - 读《盐糖脂》</a> | 2020-10-06 |
 <!-- blog ends -->
 
 </td>
