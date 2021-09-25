@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-成熟的标志，不是对这个世界有把握，而是对自己有信心。
+人到一定岁数，自己就得是那个屋檐，再也无法另找地方躲雨了。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/26842702/' target='_blank'>燃烧</a> | 2021-09-25 |
 | 看过 <a href='http://movie.douban.com/subject/30192401/' target='_blank'>气球</a> | 2021-09-23 |
 | 读过 <a href='https://book.douban.com/subject/7000947/' target='_blank'>人际网络</a> | 2021-09-20 |
 | 读过 <a href='https://book.douban.com/subject/26807576/' target='_blank'>赡养人类</a> | 2021-09-18 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35188521/' target='_blank'>项塔兰3</a> | 2021-08-27 |
 | 读过 <a href='https://book.douban.com/subject/30231914/' target='_blank'>项塔兰2</a> | 2021-08-27 |
 | 读过 <a href='https://book.douban.com/subject/3673771/' target='_blank'>项塔兰</a> | 2021-08-27 |
-| 读过 <a href='https://book.douban.com/subject/35044449/' target='_blank'>高效写作</a> | 2021-08-13 |
 <!-- douban ends -->
 
 </td>
