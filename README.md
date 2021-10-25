@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人的情绪和脑力在一天之中会有所波动。对于大多数人来说，情绪变化遵循共同的模式：高峰、低谷和反弹。这有助于塑造一种双重能力模式。早晨，在脑力高峰期间，大多数人都擅长解决“琳达问题”，即分析型的工作，这类工作需要敏锐、警觉和注意力高度集中。一天中的晚些时候，在情绪回升期，大多数人会更善于解决硬币难题，即需要较少抑制和专注的洞察力问题（只有极少数人在午间低谷时更善于解决此类问题，我将在下一章进行解释）。我们就像德梅朗的那盆含羞草，能力遵循着身体的生物钟自觉开合，不受主观控制。
+人们宁愿去关心一个蹩脚电影演员的吃喝拉撒和鸡毛蒜皮，而不愿了解一个普通人波涛汹涌的内心世界。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/27136643/' target='_blank'>父母的语言：3000万词汇塑造更强大的学习型大脑</a> | 2021-10-25 |
 | 看过 <a href='http://movie.douban.com/subject/26842702/' target='_blank'>燃烧</a> | 2021-09-25 |
 | 看过 <a href='http://movie.douban.com/subject/30192401/' target='_blank'>气球</a> | 2021-09-23 |
 | 读过 <a href='https://book.douban.com/subject/7000947/' target='_blank'>人际网络</a> | 2021-09-20 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/34842793/' target='_blank'>薄世宁医学通识讲义</a> | 2021-09-10 |
 | 读过 <a href='https://book.douban.com/subject/35188521/' target='_blank'>项塔兰3</a> | 2021-08-27 |
 | 读过 <a href='https://book.douban.com/subject/30231914/' target='_blank'>项塔兰2</a> | 2021-08-27 |
-| 读过 <a href='https://book.douban.com/subject/3673771/' target='_blank'>项塔兰</a> | 2021-08-27 |
 <!-- douban ends -->
 
 </td>
