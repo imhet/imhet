@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-这短短的一生，我们最终都会失去。你不妨大胆一些，爱一个人，攀一座山，追一个梦。
+如果打算爱一个人，你要想清楚，是否愿意为了他，放弃如上帝般自由的心灵，从此心甘情愿有了羁绊。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35265358/' target='_blank'>第一性原理</a> | 2021-12-19 |
 | 读过 <a href='https://book.douban.com/subject/1464593/' target='_blank'>目标</a> | 2021-11-30 |
 | 读过 <a href='https://book.douban.com/subject/30246268/' target='_blank'>给忙碌者的天体物理学</a> | 2021-11-12 |
 | 读过 <a href='https://book.douban.com/subject/27136643/' target='_blank'>父母的语言：3000万词汇塑造更强大的学习型大脑</a> | 2021-10-25 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/26807576/' target='_blank'>赡养人类</a> | 2021-09-18 |
 | 读过 <a href='https://book.douban.com/subject/27601926/' target='_blank'>斯坦福大学人生设计课</a> | 2021-09-17 |
 | 看过 <a href='http://movie.douban.com/subject/1291822/' target='_blank'>卢旺达饭店</a> | 2021-09-11 |
-| 读过 <a href='https://book.douban.com/subject/34842793/' target='_blank'>薄世宁医学通识讲义</a> | 2021-09-10 |
 <!-- douban ends -->
 
 </td>
