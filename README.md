@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-兴趣是最好的老师，其次是耻辱。
+江南有杨柳、桃花，有燕子、金鱼……汉人中有的是英俊勇武的少年，倜傥潇洒的少年……但这个美丽的姑娘就像古高昌国人那样固执：“那些都是很好很好的，可是我偏偏不喜欢。”
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/30348435/' target='_blank'>如何想到又做到</a> | 2021-12-28 |
 | 读过 <a href='https://book.douban.com/subject/35265358/' target='_blank'>第一性原理</a> | 2021-12-19 |
 | 读过 <a href='https://book.douban.com/subject/1464593/' target='_blank'>目标</a> | 2021-11-30 |
 | 读过 <a href='https://book.douban.com/subject/30246268/' target='_blank'>给忙碌者的天体物理学</a> | 2021-11-12 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/7000947/' target='_blank'>人际网络</a> | 2021-09-20 |
 | 读过 <a href='https://book.douban.com/subject/26807576/' target='_blank'>赡养人类</a> | 2021-09-18 |
 | 读过 <a href='https://book.douban.com/subject/27601926/' target='_blank'>斯坦福大学人生设计课</a> | 2021-09-17 |
-| 看过 <a href='http://movie.douban.com/subject/1291822/' target='_blank'>卢旺达饭店</a> | 2021-09-11 |
 <!-- douban ends -->
 
 </td>
