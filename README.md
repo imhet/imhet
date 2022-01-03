@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-在大多数情况下，要说服一个人，从这个人的利益出发最有效。
+如果一个人活得足够久，那么在晚年时候将会逐一参加朋友们的葬礼，这未免太残忍了。还不如年轻时多结点仇家，这样晚年时将会迎来一个又一个喜讯。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/26734559/' target='_blank'>棋王·树王·孩子王</a> | 2022-01-02 |
 | 读过 <a href='https://book.douban.com/subject/30348435/' target='_blank'>如何想到又做到</a> | 2021-12-28 |
 | 读过 <a href='https://book.douban.com/subject/35265358/' target='_blank'>第一性原理</a> | 2021-12-19 |
 | 读过 <a href='https://book.douban.com/subject/1464593/' target='_blank'>目标</a> | 2021-11-30 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/30192401/' target='_blank'>气球</a> | 2021-09-23 |
 | 读过 <a href='https://book.douban.com/subject/7000947/' target='_blank'>人际网络</a> | 2021-09-20 |
 | 读过 <a href='https://book.douban.com/subject/26807576/' target='_blank'>赡养人类</a> | 2021-09-18 |
-| 读过 <a href='https://book.douban.com/subject/27601926/' target='_blank'>斯坦福大学人生设计课</a> | 2021-09-17 |
 <!-- douban ends -->
 
 </td>
