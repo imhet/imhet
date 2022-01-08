@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-“有些事努力了未必有结果，但不努力的话……” “至少很轻松。”
+道德用于自律时，好过一切法律；道德用于律人时，坏过一切私刑。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/3633461/' target='_blank'>一句顶一万句</a> | 2022-01-07 |
 | 读过 <a href='https://book.douban.com/subject/26734559/' target='_blank'>棋王·树王·孩子王</a> | 2022-01-02 |
 | 读过 <a href='https://book.douban.com/subject/30348435/' target='_blank'>如何想到又做到</a> | 2021-12-28 |
 | 读过 <a href='https://book.douban.com/subject/35265358/' target='_blank'>第一性原理</a> | 2021-12-19 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/26842702/' target='_blank'>燃烧</a> | 2021-09-25 |
 | 看过 <a href='http://movie.douban.com/subject/30192401/' target='_blank'>气球</a> | 2021-09-23 |
 | 读过 <a href='https://book.douban.com/subject/7000947/' target='_blank'>人际网络</a> | 2021-09-20 |
-| 读过 <a href='https://book.douban.com/subject/26807576/' target='_blank'>赡养人类</a> | 2021-09-18 |
 <!-- douban ends -->
 
 </td>
