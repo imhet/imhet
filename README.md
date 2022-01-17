@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-成熟的人做该做的事，而非只做喜欢的事。
+时间杠杆：将自己的时间做成好产品，无限复制；资本杠杆：能够撬动远超自身的资源，以小博大；婚姻杠杆：通过感情这种莫测的工具，捷径逆袭。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/26292964/' target='_blank'>世界小史</a> | 2022-01-16 |
 | 读过 <a href='https://book.douban.com/subject/3633461/' target='_blank'>一句顶一万句</a> | 2022-01-07 |
 | 读过 <a href='https://book.douban.com/subject/26734559/' target='_blank'>棋王·树王·孩子王</a> | 2022-01-02 |
 | 读过 <a href='https://book.douban.com/subject/30348435/' target='_blank'>如何想到又做到</a> | 2021-12-28 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/27136643/' target='_blank'>父母的语言：3000万词汇塑造更强大的学习型大脑</a> | 2021-10-25 |
 | 看过 <a href='http://movie.douban.com/subject/26842702/' target='_blank'>燃烧</a> | 2021-09-25 |
 | 看过 <a href='http://movie.douban.com/subject/30192401/' target='_blank'>气球</a> | 2021-09-23 |
-| 读过 <a href='https://book.douban.com/subject/7000947/' target='_blank'>人际网络</a> | 2021-09-20 |
 <!-- douban ends -->
 
 </td>
