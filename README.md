@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-在一回首间，才忽然发现，原来，我一生的种种努力，不过只为了周遭的人对我满意而已。为了搏得他人的称许与微笑，我战战兢兢地将自己套入所有的模式所有的桎梏。走到途中才忽然发现，我只剩下一副模糊的面目，和一条不能回头的路。
+慢慢来，比较快。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35030210/' target='_blank'>飞轮效应</a> | 2022-02-02 |
 | 读过 <a href='https://book.douban.com/subject/26292964/' target='_blank'>世界小史</a> | 2022-01-16 |
 | 读过 <a href='https://book.douban.com/subject/3633461/' target='_blank'>一句顶一万句</a> | 2022-01-07 |
 | 读过 <a href='https://book.douban.com/subject/26734559/' target='_blank'>棋王·树王·孩子王</a> | 2022-01-02 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/30246268/' target='_blank'>给忙碌者的天体物理学</a> | 2021-11-12 |
 | 读过 <a href='https://book.douban.com/subject/27136643/' target='_blank'>父母的语言：3000万词汇塑造更强大的学习型大脑</a> | 2021-10-25 |
 | 看过 <a href='http://movie.douban.com/subject/26842702/' target='_blank'>燃烧</a> | 2021-09-25 |
-| 看过 <a href='http://movie.douban.com/subject/30192401/' target='_blank'>气球</a> | 2021-09-23 |
 <!-- douban ends -->
 
 </td>
