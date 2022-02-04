@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-慢慢来，比较快。
+爱情的反讽之一，你越不喜欢一个人，你越能够信心百倍、轻而易举地吸引他，强烈的欲望使人丧失了爱情游戏中必不可少的一种漫不经心，你如被人吸引，就会产生自卑情结，因为我们总是把最完美的品质赋予我们深爱的人。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35376457/' target='_blank'>爱情神话</a> | 2022-02-04 |
 | 读过 <a href='https://book.douban.com/subject/35030210/' target='_blank'>飞轮效应</a> | 2022-02-02 |
 | 读过 <a href='https://book.douban.com/subject/26292964/' target='_blank'>世界小史</a> | 2022-01-16 |
 | 读过 <a href='https://book.douban.com/subject/3633461/' target='_blank'>一句顶一万句</a> | 2022-01-07 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/1464593/' target='_blank'>目标</a> | 2021-11-30 |
 | 读过 <a href='https://book.douban.com/subject/30246268/' target='_blank'>给忙碌者的天体物理学</a> | 2021-11-12 |
 | 读过 <a href='https://book.douban.com/subject/27136643/' target='_blank'>父母的语言：3000万词汇塑造更强大的学习型大脑</a> | 2021-10-25 |
-| 看过 <a href='http://movie.douban.com/subject/26842702/' target='_blank'>燃烧</a> | 2021-09-25 |
 <!-- douban ends -->
 
 </td>
