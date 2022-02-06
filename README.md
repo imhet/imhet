@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-爱欲之人，犹如执炬，逆风而行，必有烧手之患。
+缺点和缺陷，如果一一去数，势将没完没了。可是优点肯定也有一些。我们只能凭着手头现有的东西去面对世界。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35652715/' target='_blank'>杰伊·比姆</a> | 2022-02-06 |
 | 看过 <a href='http://movie.douban.com/subject/34865507/' target='_blank'>小人物</a> | 2022-02-05 |
 | 看过 <a href='http://movie.douban.com/subject/35376457/' target='_blank'>爱情神话</a> | 2022-02-04 |
 | 读过 <a href='https://book.douban.com/subject/35030210/' target='_blank'>飞轮效应</a> | 2022-02-02 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/30348435/' target='_blank'>如何想到又做到</a> | 2021-12-28 |
 | 读过 <a href='https://book.douban.com/subject/35265358/' target='_blank'>第一性原理</a> | 2021-12-19 |
 | 读过 <a href='https://book.douban.com/subject/1464593/' target='_blank'>目标</a> | 2021-11-30 |
-| 读过 <a href='https://book.douban.com/subject/30246268/' target='_blank'>给忙碌者的天体物理学</a> | 2021-11-12 |
 <!-- douban ends -->
 
 </td>
