@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-孤独是半身浸江，秋水生凉。寂寞是全身如林，寒意渐深。
+歌者的歌、舞者的舞、剑客的剑、文人的笔、英雄的壮志，都是这样子。只要是不死，就不能放弃。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35546622/' target='_blank'>置身事内</a> | 2022-02-15 |
 | 想读 <a href='https://book.douban.com/subject/34845997/' target='_blank'>模型中的世界</a> | 2022-02-10 |
 | 看过 <a href='http://movie.douban.com/subject/35652715/' target='_blank'>杰伊·比姆</a> | 2022-02-06 |
 | 看过 <a href='http://movie.douban.com/subject/34865507/' target='_blank'>小人物</a> | 2022-02-05 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/3633461/' target='_blank'>一句顶一万句</a> | 2022-01-07 |
 | 读过 <a href='https://book.douban.com/subject/26734559/' target='_blank'>棋王·树王·孩子王</a> | 2022-01-02 |
 | 读过 <a href='https://book.douban.com/subject/30348435/' target='_blank'>如何想到又做到</a> | 2021-12-28 |
-| 读过 <a href='https://book.douban.com/subject/35265358/' target='_blank'>第一性原理</a> | 2021-12-19 |
 <!-- douban ends -->
 
 </td>
