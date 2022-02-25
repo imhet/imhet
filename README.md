@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-手里有把锤子，看什么都是钉子。
+失败并不代表你是个失败者，它只表明你尚未成功。失败并不代表你一无所获，它只表明你吸取了一次教训。失败并不代表你低人一等，它只表明你并非完人。失败并不代表成功永不属于你，它只表明你要付出更多的时间。失败并不代表上帝已经抛弃你，它只表明上帝还有更好的主意。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/25903621/' target='_blank'>写作这回事</a> | 2022-02-25 |
 | 读过 <a href='https://book.douban.com/subject/35546622/' target='_blank'>置身事内</a> | 2022-02-15 |
 | 想读 <a href='https://book.douban.com/subject/34845997/' target='_blank'>模型中的世界</a> | 2022-02-10 |
 | 看过 <a href='http://movie.douban.com/subject/35652715/' target='_blank'>杰伊·比姆</a> | 2022-02-06 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/26292964/' target='_blank'>世界小史</a> | 2022-01-16 |
 | 读过 <a href='https://book.douban.com/subject/3633461/' target='_blank'>一句顶一万句</a> | 2022-01-07 |
 | 读过 <a href='https://book.douban.com/subject/26734559/' target='_blank'>棋王·树王·孩子王</a> | 2022-01-02 |
-| 读过 <a href='https://book.douban.com/subject/30348435/' target='_blank'>如何想到又做到</a> | 2021-12-28 |
 <!-- douban ends -->
 
 </td>
