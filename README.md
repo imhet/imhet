@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你知道他们不是坏人。他们只是没受过教育，不谙世故，没出过远门，不道德，不文明。外加愚蠢。
+想要摸清一个人的真正意图，请他就刚才所说再深入一些，如此反复，直到第三遍，你所得到的就近于真相了。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/reading-xiezuozhejianshi' target='_blank'>写出我心 - 读《写作这件事》</a> | 2022-02-27 |
 | 发布 <a href='http://heyitao.com/post/reading-smgm' target='_blank'>如何提升睡眠质量 - 读《睡眠革命》</a> | 2021-08-14 |
 | 发布 <a href='http://heyitao.com/post/reading-hmxsqkxlys' target='_blank'>人际沟通分析入门 - 读《蛤蟆先生去看心理医生》</a> | 2021-07-11 |
 | 发布 <a href='http://heyitao.com/post/reading-neizaidongji' target='_blank'>如何自主掌控你的人生？-读《内在动机》</a> | 2021-06-27 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-lgygtx' target='_blank'>新加坡国父点评天下大势 - 读《李光耀观天下》</a> | 2021-01-02 |
 | 发布 <a href='http://heyitao.com/post/reading-2020' target='_blank'>我的 2020 读书小结 - 顺带推荐 10 本好书</a> | 2020-12-29 |
 | 发布 <a href='http://heyitao.com/post/reading-chonglai3' target='_blank'>如何跳出忙碌的怪圈？</a> | 2020-12-27 |
-| 发布 <a href='http://heyitao.com/post/reading-rhbsqzdzh' target='_blank'>如何把事情做到最好？</a> | 2020-11-16 |
 <!-- blog ends -->
 
 </td>
