@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-感恩可以解锁其他所有美德，也是你能做得更好的一件事情。
+金钱的作用被高估了。真正的创新很少需要大量资金，否则大公司将垄断创新。相反，几乎所有的突破都是由那些缺乏钱的人实现的，正是因为他们资源有限，才被迫进行创新，依靠自己的热情、毅力和独创性来寻找新的方法。资源不足是创新的优势。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,8 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35006761/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
+| 想看 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
 | 读过 <a href='https://book.douban.com/subject/25903621/' target='_blank'>写作这回事</a> | 2022-02-25 |
 | 读过 <a href='https://book.douban.com/subject/35546622/' target='_blank'>置身事内</a> | 2022-02-15 |
 | 想读 <a href='https://book.douban.com/subject/34845997/' target='_blank'>模型中的世界</a> | 2022-02-10 |
@@ -26,8 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35376457/' target='_blank'>爱情神话</a> | 2022-02-04 |
 | 读过 <a href='https://book.douban.com/subject/35030210/' target='_blank'>飞轮效应</a> | 2022-02-02 |
 | 读过 <a href='https://book.douban.com/subject/26292964/' target='_blank'>世界小史</a> | 2022-01-16 |
-| 读过 <a href='https://book.douban.com/subject/3633461/' target='_blank'>一句顶一万句</a> | 2022-01-07 |
-| 读过 <a href='https://book.douban.com/subject/26734559/' target='_blank'>棋王·树王·孩子王</a> | 2022-01-02 |
 <!-- douban ends -->
 
 </td>
