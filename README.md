@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-承认和直面自己的结局就像洗了个冷水澡一样，会让你顿时打起精神，充满动力，促使你纠正过去的错误，然后再度启程前行。这会让你更加精明，更加了解自己，变得更好。
+无论明日，有多落魄，至少今天，没有蹉跎。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/27087788/' target='_blank'>虎啸龙吟</a> | 2022-03-20 |
 | 读过 <a href='https://book.douban.com/subject/35006761/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
 | 想看 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
 | 读过 <a href='https://book.douban.com/subject/25903621/' target='_blank'>写作这回事</a> | 2022-02-25 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/34865507/' target='_blank'>小人物</a> | 2022-02-05 |
 | 看过 <a href='http://movie.douban.com/subject/35376457/' target='_blank'>爱情神话</a> | 2022-02-04 |
 | 读过 <a href='https://book.douban.com/subject/35030210/' target='_blank'>飞轮效应</a> | 2022-02-02 |
-| 读过 <a href='https://book.douban.com/subject/26292964/' target='_blank'>世界小史</a> | 2022-01-16 |
 <!-- douban ends -->
 
 </td>
