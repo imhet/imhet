@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如今我走到人生十字路口，我知道哪条路是对的，毫无例外，我就知道，但我从不走，为什么？因为他妈的太苦了！
+我们终其一生，就是要摆脱他人的期待，找到真正的自己。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/27202818/' target='_blank'>婚姻故事</a> | 2022-03-28 |
 | 看过 <a href='http://movie.douban.com/subject/27087788/' target='_blank'>虎啸龙吟</a> | 2022-03-20 |
 | 读过 <a href='https://book.douban.com/subject/35006761/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
 | 想看 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35652715/' target='_blank'>杰伊·比姆</a> | 2022-02-06 |
 | 看过 <a href='http://movie.douban.com/subject/34865507/' target='_blank'>小人物</a> | 2022-02-05 |
 | 看过 <a href='http://movie.douban.com/subject/35376457/' target='_blank'>爱情神话</a> | 2022-02-04 |
-| 读过 <a href='https://book.douban.com/subject/35030210/' target='_blank'>飞轮效应</a> | 2022-02-02 |
 <!-- douban ends -->
 
 </td>
