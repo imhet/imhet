@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果说我们是浪漫主义者，是不可救药的理想主义分子，我们想的都是不可能的事情，那么，我们将一千零一次地回答说，是的，我们就是这样的人。让我们郑重承诺：永不放弃，直至梦想实现。让我们忠于理想，让我们面对现实。
+有人没见过江河，把江湖当做最壮阔的风景；而有的人，一片落叶，就能知道整个秋天。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/26594369/' target='_blank'>德雷尔一家 第一季</a> | 2022-04-07 |
 | 看过 <a href='http://movie.douban.com/subject/27202818/' target='_blank'>婚姻故事</a> | 2022-03-28 |
 | 看过 <a href='http://movie.douban.com/subject/27087788/' target='_blank'>虎啸龙吟</a> | 2022-03-20 |
 | 读过 <a href='https://book.douban.com/subject/35006761/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想读 <a href='https://book.douban.com/subject/34845997/' target='_blank'>模型中的世界</a> | 2022-02-10 |
 | 看过 <a href='http://movie.douban.com/subject/35652715/' target='_blank'>杰伊·比姆</a> | 2022-02-06 |
 | 看过 <a href='http://movie.douban.com/subject/34865507/' target='_blank'>小人物</a> | 2022-02-05 |
-| 看过 <a href='http://movie.douban.com/subject/35376457/' target='_blank'>爱情神话</a> | 2022-02-04 |
 <!-- douban ends -->
 
 </td>
