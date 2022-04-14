@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我从来没有想到原来婚姻是这么复杂，还以为一个人做的好就行了，可是两个人在一起，单是自己做的好是不够的。
+爱情就像在海滩上捡贝壳，不要捡最大的， 也不要捡最漂亮的，要捡就捡自己最喜欢的，最重要的是捡到了自己喜欢的 就永远不要再去海边了。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35503571/' target='_blank'>卡片笔记写作法</a> | 2022-04-13 |
 | 看过 <a href='http://movie.douban.com/subject/26800981/' target='_blank'>德雷尔一家 第二季</a> | 2022-04-09 |
 | 看过 <a href='http://movie.douban.com/subject/26594369/' target='_blank'>德雷尔一家 第一季</a> | 2022-04-07 |
 | 看过 <a href='http://movie.douban.com/subject/27202818/' target='_blank'>婚姻故事</a> | 2022-03-28 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/25903621/' target='_blank'>写作这回事</a> | 2022-02-25 |
 | 读过 <a href='https://book.douban.com/subject/35546622/' target='_blank'>置身事内</a> | 2022-02-15 |
 | 想读 <a href='https://book.douban.com/subject/34845997/' target='_blank'>模型中的世界</a> | 2022-02-10 |
-| 看过 <a href='http://movie.douban.com/subject/35652715/' target='_blank'>杰伊·比姆</a> | 2022-02-06 |
 <!-- douban ends -->
 
 </td>
