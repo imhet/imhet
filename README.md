@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果被别人拒绝了，别往心里去。假设他们和你一样忙，一样腾不出手来，一样无暇分心。稍后再试一次。第二次的成功率超乎你想象。
+如果快乐太难，那我祝你平安。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/27070655/' target='_blank'>德雷尔一家 第三季</a> | 2022-04-17 |
 | 读过 <a href='https://book.douban.com/subject/35503571/' target='_blank'>卡片笔记写作法</a> | 2022-04-13 |
 | 看过 <a href='http://movie.douban.com/subject/26800981/' target='_blank'>德雷尔一家 第二季</a> | 2022-04-09 |
 | 看过 <a href='http://movie.douban.com/subject/26594369/' target='_blank'>德雷尔一家 第一季</a> | 2022-04-07 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想看 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
 | 读过 <a href='https://book.douban.com/subject/25903621/' target='_blank'>写作这回事</a> | 2022-02-25 |
 | 读过 <a href='https://book.douban.com/subject/35546622/' target='_blank'>置身事内</a> | 2022-02-15 |
-| 想读 <a href='https://book.douban.com/subject/34845997/' target='_blank'>模型中的世界</a> | 2022-02-10 |
 <!-- douban ends -->
 
 </td>
