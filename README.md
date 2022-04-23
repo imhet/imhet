@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-手里有把锤子，看什么都是钉子。
+礼义廉耻，可以律己，不可以绳人。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/reading-kpbjxzf' target='_blank'>用卡片笔记法打造高效的写作系统</a> | 2022-04-22 |
 | 发布 <a href='http://heyitao.com/post/reading-xiezuozhejianshi' target='_blank'>写出我心 - 读《写作这件事》</a> | 2022-02-27 |
 | 发布 <a href='http://heyitao.com/post/reading-smgm' target='_blank'>如何提升睡眠质量 - 读《睡眠革命》</a> | 2021-08-14 |
 | 发布 <a href='http://heyitao.com/post/reading-hmxsqkxlys' target='_blank'>人际沟通分析入门 - 读《蛤蟆先生去看心理医生》</a> | 2021-07-11 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-shishi' target='_blank'>这个世界不像你想的那么差</a> | 2021-03-18 |
 | 发布 <a href='http://heyitao.com/post/reading-lgygtx' target='_blank'>新加坡国父点评天下大势 - 读《李光耀观天下》</a> | 2021-01-02 |
 | 发布 <a href='http://heyitao.com/post/reading-2020' target='_blank'>我的 2020 读书小结 - 顺带推荐 10 本好书</a> | 2020-12-29 |
-| 发布 <a href='http://heyitao.com/post/reading-chonglai3' target='_blank'>如何跳出忙碌的怪圈？</a> | 2020-12-27 |
 <!-- blog ends -->
 
 </td>
