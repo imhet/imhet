@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果打算爱一个人，你要想清楚，是否愿意为了他，放弃如上帝般自由的心灵，从此心甘情愿有了羁绊。
+善于倾听是一种超能力。倾听你所喜欢的人时，要不时地追问「还有吗」，直到他们没有更多东西可讲。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35436582/' target='_blank'>爱，死亡和机器人 第三季</a> | 2022-05-25 |
 | 看过 <a href='http://movie.douban.com/subject/26889177/' target='_blank'>异物志</a> | 2022-05-22 |
 | 看过 <a href='http://movie.douban.com/subject/1441238/' target='_blank'>面纱</a> | 2022-05-15 |
 | 看过 <a href='http://movie.douban.com/subject/30234228/' target='_blank'>德雷尔一家 第四季</a> | 2022-04-30 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/26594369/' target='_blank'>德雷尔一家 第一季</a> | 2022-04-07 |
 | 看过 <a href='http://movie.douban.com/subject/27202818/' target='_blank'>婚姻故事</a> | 2022-03-28 |
 | 看过 <a href='http://movie.douban.com/subject/27087788/' target='_blank'>虎啸龙吟</a> | 2022-03-20 |
-| 读过 <a href='https://book.douban.com/subject/35006761/' target='_blank'>孤筏重洋</a> | 2022-03-07 |
 <!-- douban ends -->
 
 </td>
