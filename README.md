@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-永远不要用信用卡去透支。唯一可接受的透支或负债，应该用来获取那些极可能增值的事物。绝大多数事物在你买下它的那一刻起就开始贬值了。别为那些没有未来的事物而透支。
+我慢慢地、慢慢地了解到，所谓父女母子一场，只不过意味着，你和他的缘分就是今生今世不断地在目送他的背影渐行渐远。你站在小路的这一端，看着他逐渐消失在小路转弯的地方，而且，他用背影默默告诉你：不必追。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/27167270/' target='_blank'>像哲学家一样生活</a> | 2022-05-29 |
 | 看过 <a href='http://movie.douban.com/subject/35436582/' target='_blank'>爱，死亡和机器人 第三季</a> | 2022-05-25 |
 | 看过 <a href='http://movie.douban.com/subject/26889177/' target='_blank'>异物志</a> | 2022-05-22 |
 | 看过 <a href='http://movie.douban.com/subject/1441238/' target='_blank'>面纱</a> | 2022-05-15 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/26800981/' target='_blank'>德雷尔一家 第二季</a> | 2022-04-09 |
 | 看过 <a href='http://movie.douban.com/subject/26594369/' target='_blank'>德雷尔一家 第一季</a> | 2022-04-07 |
 | 看过 <a href='http://movie.douban.com/subject/27202818/' target='_blank'>婚姻故事</a> | 2022-03-28 |
-| 看过 <a href='http://movie.douban.com/subject/27087788/' target='_blank'>虎啸龙吟</a> | 2022-03-20 |
 <!-- douban ends -->
 
 </td>
