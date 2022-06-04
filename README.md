@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我慢慢地、慢慢地了解到，所谓父女母子一场，只不过意味着，你和他的缘分就是今生今世不断地在目送他的背影渐行渐远。你站在小路的这一端，看着他逐渐消失在小路转弯的地方，而且，他用背影默默告诉你：不必追。
+我往宇宙撒了把盐，如果三点前还睡不着，今晚就吃盐焗小星球。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/25958717/' target='_blank'>海蒂和爷爷</a> | 2022-06-04 |
 | 读过 <a href='https://book.douban.com/subject/27167270/' target='_blank'>像哲学家一样生活</a> | 2022-05-29 |
 | 看过 <a href='http://movie.douban.com/subject/35436582/' target='_blank'>爱，死亡和机器人 第三季</a> | 2022-05-25 |
 | 看过 <a href='http://movie.douban.com/subject/26889177/' target='_blank'>异物志</a> | 2022-05-22 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35503571/' target='_blank'>卡片笔记写作法</a> | 2022-04-13 |
 | 看过 <a href='http://movie.douban.com/subject/26800981/' target='_blank'>德雷尔一家 第二季</a> | 2022-04-09 |
 | 看过 <a href='http://movie.douban.com/subject/26594369/' target='_blank'>德雷尔一家 第一季</a> | 2022-04-07 |
-| 看过 <a href='http://movie.douban.com/subject/27202818/' target='_blank'>婚姻故事</a> | 2022-03-28 |
 <!-- douban ends -->
 
 </td>
