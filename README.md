@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-这世上，本就没有任何一句话，可以让你醍醐灌顶。真正让你醍醐灌顶的，只能是一段经历。而那句话，只是火药仓库内划燃的一根火柴。
+大张旗鼓的离开其实都是试探，真正的离开是没有告别的，从来扯着嗓门喊着要走的人，都是最后自己把摔了一地的玻璃碎片，闷头弯腰一片一片拾了起来。而真正想离开的人，只是挑了一个风和日丽的下午，裹了件最常穿的大衣，出了门，然后就再也没有回来过。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35313227/' target='_blank'>刘擎西方现代思想讲义</a> | 2022-06-19 |
 | 读过 <a href='https://book.douban.com/subject/35876121/' target='_blank'>纳瓦尔宝典</a> | 2022-06-15 |
 | 看过 <a href='http://movie.douban.com/subject/25958717/' target='_blank'>海蒂和爷爷</a> | 2022-06-04 |
 | 读过 <a href='https://book.douban.com/subject/27167270/' target='_blank'>像哲学家一样生活</a> | 2022-05-29 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/30234228/' target='_blank'>德雷尔一家 第四季</a> | 2022-04-30 |
 | 看过 <a href='http://movie.douban.com/subject/27070655/' target='_blank'>德雷尔一家 第三季</a> | 2022-04-17 |
 | 读过 <a href='https://book.douban.com/subject/35503571/' target='_blank'>卡片笔记写作法</a> | 2022-04-13 |
-| 看过 <a href='http://movie.douban.com/subject/26800981/' target='_blank'>德雷尔一家 第二季</a> | 2022-04-09 |
 <!-- douban ends -->
 
 </td>
