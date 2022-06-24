@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我没想要赢，我只是不想输。
+难过的时候，就把自己当成别人吧。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/30302000/' target='_blank'>你的第一本保险指南</a> | 2022-06-24 |
 | 读过 <a href='https://book.douban.com/subject/35313227/' target='_blank'>刘擎西方现代思想讲义</a> | 2022-06-19 |
 | 读过 <a href='https://book.douban.com/subject/35876121/' target='_blank'>纳瓦尔宝典</a> | 2022-06-15 |
 | 看过 <a href='http://movie.douban.com/subject/25958717/' target='_blank'>海蒂和爷爷</a> | 2022-06-04 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/1441238/' target='_blank'>面纱</a> | 2022-05-15 |
 | 看过 <a href='http://movie.douban.com/subject/30234228/' target='_blank'>德雷尔一家 第四季</a> | 2022-04-30 |
 | 看过 <a href='http://movie.douban.com/subject/27070655/' target='_blank'>德雷尔一家 第三季</a> | 2022-04-17 |
-| 读过 <a href='https://book.douban.com/subject/35503571/' target='_blank'>卡片笔记写作法</a> | 2022-04-13 |
 <!-- douban ends -->
 
 </td>
