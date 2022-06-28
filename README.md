@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-娶了红玫瑰，久而久之，红玫瑰就变成墙上的一抹蚊子血，白玫瑰还是床前明月光；娶了白玫瑰，白玫瑰就是衣服上的一粒饭渣子，红的还是心口上的一颗朱砂痣。
+礼义廉耻，可以律己，不可以绳人。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,8 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35231822/' target='_blank'>梦华录</a> | 2022-06-28 |
+| 读过 <a href='https://book.douban.com/subject/35167939/' target='_blank'>鳗鱼的旅行</a> | 2022-06-28 |
 | 读过 <a href='https://book.douban.com/subject/30302000/' target='_blank'>你的第一本保险指南</a> | 2022-06-24 |
 | 读过 <a href='https://book.douban.com/subject/35313227/' target='_blank'>刘擎西方现代思想讲义</a> | 2022-06-19 |
 | 读过 <a href='https://book.douban.com/subject/35876121/' target='_blank'>纳瓦尔宝典</a> | 2022-06-15 |
@@ -26,8 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35436582/' target='_blank'>爱，死亡和机器人 第三季</a> | 2022-05-25 |
 | 看过 <a href='http://movie.douban.com/subject/26889177/' target='_blank'>异物志</a> | 2022-05-22 |
 | 看过 <a href='http://movie.douban.com/subject/1441238/' target='_blank'>面纱</a> | 2022-05-15 |
-| 看过 <a href='http://movie.douban.com/subject/30234228/' target='_blank'>德雷尔一家 第四季</a> | 2022-04-30 |
-| 看过 <a href='http://movie.douban.com/subject/27070655/' target='_blank'>德雷尔一家 第三季</a> | 2022-04-17 |
 <!-- douban ends -->
 
 </td>
