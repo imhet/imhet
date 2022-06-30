@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-小时候以为最浪漫的事，是一个人走很远的路去看另一个人，现在明白最浪漫的事，是一个人不管走多远的路，心里想的念的都是同一个人。
+人们常觉得准备的阶段是在浪费时间，只有当真正机会来临，而自己没有能力把握的时候，才能觉悟自己平时没有准备才是浪费了时间。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-06-30 |
 | 看过 <a href='http://movie.douban.com/subject/35231822/' target='_blank'>梦华录</a> | 2022-06-28 |
 | 读过 <a href='https://book.douban.com/subject/35167939/' target='_blank'>鳗鱼的旅行</a> | 2022-06-28 |
 | 读过 <a href='https://book.douban.com/subject/30302000/' target='_blank'>你的第一本保险指南</a> | 2022-06-24 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/27167270/' target='_blank'>像哲学家一样生活</a> | 2022-05-29 |
 | 看过 <a href='http://movie.douban.com/subject/35436582/' target='_blank'>爱，死亡和机器人 第三季</a> | 2022-05-25 |
 | 看过 <a href='http://movie.douban.com/subject/26889177/' target='_blank'>异物志</a> | 2022-05-22 |
-| 看过 <a href='http://movie.douban.com/subject/1441238/' target='_blank'>面纱</a> | 2022-05-15 |
 <!-- douban ends -->
 
 </td>
