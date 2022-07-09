@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果文明是要我们卑躬屈膝，那我就让你们看见野蛮的骄傲!
+广告诱惑我们买车子，衣服，于是拼命工作买不需要的东西，我们是被历史遗忘的一代，没有目的，没有地位，没有世界大战，没有经济大恐慌，我们的大战只是心灵之战，我们的恐慌只是我们的生活。我们从小看电视，相信有一天会成为富翁，明星或摇滚巨星，但是，我们不会。那是我们逐渐面对着的现实，所以我们非常愤怒。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/21351469/' target='_blank'>十月围城</a> | 2022-07-08 |
 | 读过 <a href='https://book.douban.com/subject/26781120/' target='_blank'>优秀到不能被忽视</a> | 2022-07-08 |
 | 看过 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-06-30 |
 | 看过 <a href='http://movie.douban.com/subject/35231822/' target='_blank'>梦华录</a> | 2022-06-28 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35876121/' target='_blank'>纳瓦尔宝典</a> | 2022-06-15 |
 | 看过 <a href='http://movie.douban.com/subject/25958717/' target='_blank'>海蒂和爷爷</a> | 2022-06-04 |
 | 读过 <a href='https://book.douban.com/subject/27167270/' target='_blank'>像哲学家一样生活</a> | 2022-05-29 |
-| 看过 <a href='http://movie.douban.com/subject/35436582/' target='_blank'>爱，死亡和机器人 第三季</a> | 2022-05-25 |
 <!-- douban ends -->
 
 </td>
