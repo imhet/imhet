@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我慢慢地、慢慢地了解到，所谓父女母子一场，只不过意味着，你和他的缘分就是今生今世不断地在目送他的背影渐行渐远。你站在小路的这一端，看着他逐渐消失在小路转弯的地方，而且，他用背影默默告诉你：不必追。
+什么叫做救自己呢？就是忠实自己的感觉，认真做每一件事，不要烦，不要放弃，不要敷衍。哪怕写文章时标点符号弄清楚，不要有错别字——这就是我所谓的自己救自己。我们都得一步一步救自己。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/1303948/' target='_blank'>包法利夫人</a> | 2022-07-17 |
 | 看过 <a href='http://movie.douban.com/subject/4826419/' target='_blank'>金福南杀人事件始末</a> | 2022-07-16 |
 | 看过 <a href='http://movie.douban.com/subject/21351469/' target='_blank'>十月围城</a> | 2022-07-08 |
 | 读过 <a href='https://book.douban.com/subject/26781120/' target='_blank'>优秀到不能被忽视</a> | 2022-07-08 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/30302000/' target='_blank'>你的第一本保险指南</a> | 2022-06-24 |
 | 读过 <a href='https://book.douban.com/subject/35313227/' target='_blank'>刘擎西方现代思想讲义</a> | 2022-06-19 |
 | 读过 <a href='https://book.douban.com/subject/35876121/' target='_blank'>纳瓦尔宝典</a> | 2022-06-15 |
-| 看过 <a href='http://movie.douban.com/subject/25958717/' target='_blank'>海蒂和爷爷</a> | 2022-06-04 |
 <!-- douban ends -->
 
 </td>
