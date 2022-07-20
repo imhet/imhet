@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-成年之后，许多人和事让我领教和懂得沉默的力量，亲密的弊端，不轻易寄希望和依赖于他人的快活，距离的优点，界限的重要，还有，适时给我一盆冷水，让我保持清醒的头脑。
+人们常觉得准备的阶段是在浪费时间，只有当真正机会来临，而自己没有能力把握的时候，才能觉悟自己平时没有准备才是浪费了时间。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35140470/' target='_blank'>洞见</a> | 2022-07-20 |
 | 看过 <a href='http://movie.douban.com/subject/1303948/' target='_blank'>包法利夫人</a> | 2022-07-17 |
 | 看过 <a href='http://movie.douban.com/subject/4826419/' target='_blank'>金福南杀人事件始末</a> | 2022-07-16 |
 | 看过 <a href='http://movie.douban.com/subject/21351469/' target='_blank'>十月围城</a> | 2022-07-08 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35167939/' target='_blank'>鳗鱼的旅行</a> | 2022-06-28 |
 | 读过 <a href='https://book.douban.com/subject/30302000/' target='_blank'>你的第一本保险指南</a> | 2022-06-24 |
 | 读过 <a href='https://book.douban.com/subject/35313227/' target='_blank'>刘擎西方现代思想讲义</a> | 2022-06-19 |
-| 读过 <a href='https://book.douban.com/subject/35876121/' target='_blank'>纳瓦尔宝典</a> | 2022-06-15 |
 <!-- douban ends -->
 
 </td>
