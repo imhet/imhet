@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你在广告公司干的活大多只是日常的例行公事。要是干得不错，你会得到一步步的升迁。但是只有在出现突出的时机的时候，你才会有最可贵的机会。诀窍是重大时机出现的时候你要能识别它、抓住它。
+未建水库的河流，遭逢大雨，就会引发洪涝，而连日干旱，河水就会枯竭。因此要建水库蓄水，使水量保持在一定范围之内，免受天气和环境的影响。企业经营也一样，景气时要为萧条期做好储备，经营应该留有余裕。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/2210001/' target='_blank'>大明王朝1566</a> | 2022-07-30 |
 | 读过 <a href='https://book.douban.com/subject/35140470/' target='_blank'>洞见</a> | 2022-07-20 |
 | 看过 <a href='http://movie.douban.com/subject/1303948/' target='_blank'>包法利夫人</a> | 2022-07-17 |
 | 看过 <a href='http://movie.douban.com/subject/4826419/' target='_blank'>金福南杀人事件始末</a> | 2022-07-16 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35231822/' target='_blank'>梦华录</a> | 2022-06-28 |
 | 读过 <a href='https://book.douban.com/subject/35167939/' target='_blank'>鳗鱼的旅行</a> | 2022-06-28 |
 | 读过 <a href='https://book.douban.com/subject/30302000/' target='_blank'>你的第一本保险指南</a> | 2022-06-24 |
-| 读过 <a href='https://book.douban.com/subject/35313227/' target='_blank'>刘擎西方现代思想讲义</a> | 2022-06-19 |
 <!-- douban ends -->
 
 </td>
