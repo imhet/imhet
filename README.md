@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-宽容不是道德，而是认识。唯有深刻地认识事物，才能对人和世界的复杂性了解和体谅，才有不轻易责难和赞美的思维习惯。
+生命本没有意义，你要能给他什么意义，他就有什么意义。与其终日冥想人生有何意义，不如试用此生做点有意义的事。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/34978587/' target='_blank'>光明共和国</a> | 2022-08-07 |
 | 看过 <a href='http://movie.douban.com/subject/2210001/' target='_blank'>大明王朝1566</a> | 2022-07-30 |
 | 读过 <a href='https://book.douban.com/subject/35140470/' target='_blank'>洞见</a> | 2022-07-20 |
 | 看过 <a href='http://movie.douban.com/subject/1303948/' target='_blank'>包法利夫人</a> | 2022-07-17 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-06-30 |
 | 看过 <a href='http://movie.douban.com/subject/35231822/' target='_blank'>梦华录</a> | 2022-06-28 |
 | 读过 <a href='https://book.douban.com/subject/35167939/' target='_blank'>鳗鱼的旅行</a> | 2022-06-28 |
-| 读过 <a href='https://book.douban.com/subject/30302000/' target='_blank'>你的第一本保险指南</a> | 2022-06-24 |
 <!-- douban ends -->
 
 </td>
