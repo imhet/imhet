@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你要藏好软弱，世界大雨滂沱，万物苟且而活，无人为你背负更多。
+金钱的作用被高估了。真正的创新很少需要大量资金，否则大公司将垄断创新。相反，几乎所有的突破都是由那些缺乏钱的人实现的，正是因为他们资源有限，才被迫进行创新，依靠自己的热情、毅力和独创性来寻找新的方法。资源不足是创新的优势。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/25986662/' target='_blank'>疯狂的外星人</a> | 2022-08-10 |
 | 读过 <a href='https://book.douban.com/subject/34978587/' target='_blank'>光明共和国</a> | 2022-08-07 |
 | 看过 <a href='http://movie.douban.com/subject/2210001/' target='_blank'>大明王朝1566</a> | 2022-07-30 |
 | 读过 <a href='https://book.douban.com/subject/35140470/' target='_blank'>洞见</a> | 2022-07-20 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/26781120/' target='_blank'>优秀到不能被忽视</a> | 2022-07-08 |
 | 看过 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-06-30 |
 | 看过 <a href='http://movie.douban.com/subject/35231822/' target='_blank'>梦华录</a> | 2022-06-28 |
-| 读过 <a href='https://book.douban.com/subject/35167939/' target='_blank'>鳗鱼的旅行</a> | 2022-06-28 |
 <!-- douban ends -->
 
 </td>
