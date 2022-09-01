@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果你只是迫切需要一份工作，那么对老板来说，你不过是又一个问题。如果你能解决老板的很多问题，那你自然能得到这份工作。要得到一份工作，需要像老板一样去想问题。
+首先他们会忽略你，接着他们会嘲笑你，然后他们会打你，最后他们会输给你。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/27019726/' target='_blank'>10人以下小团队管理手册</a> | 2022-09-01 |
 | 看过 <a href='http://movie.douban.com/subject/25986662/' target='_blank'>疯狂的外星人</a> | 2022-08-10 |
 | 读过 <a href='https://book.douban.com/subject/34978587/' target='_blank'>光明共和国</a> | 2022-08-07 |
 | 看过 <a href='http://movie.douban.com/subject/2210001/' target='_blank'>大明王朝1566</a> | 2022-07-30 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/21351469/' target='_blank'>十月围城</a> | 2022-07-08 |
 | 读过 <a href='https://book.douban.com/subject/26781120/' target='_blank'>优秀到不能被忽视</a> | 2022-07-08 |
 | 看过 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-06-30 |
-| 看过 <a href='http://movie.douban.com/subject/35231822/' target='_blank'>梦华录</a> | 2022-06-28 |
 <!-- douban ends -->
 
 </td>
