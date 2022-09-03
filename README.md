@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-感恩可以解锁其他所有美德，也是你能做得更好的一件事情。
+年轻的时候以为不读书不足以了解人生，直到后来才发现如果不了解人生，是读不懂书的。读书的意义大概就是用生活所感去读书，用读书所得去生活吧。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35452438/' target='_blank'>星汉灿烂·月升沧海</a> | 2022-09-03 |
 | 读过 <a href='https://book.douban.com/subject/27019726/' target='_blank'>10人以下小团队管理手册</a> | 2022-09-01 |
 | 看过 <a href='http://movie.douban.com/subject/25986662/' target='_blank'>疯狂的外星人</a> | 2022-08-10 |
 | 读过 <a href='https://book.douban.com/subject/34978587/' target='_blank'>光明共和国</a> | 2022-08-07 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/4826419/' target='_blank'>金福南杀人事件始末</a> | 2022-07-16 |
 | 看过 <a href='http://movie.douban.com/subject/21351469/' target='_blank'>十月围城</a> | 2022-07-08 |
 | 读过 <a href='https://book.douban.com/subject/26781120/' target='_blank'>优秀到不能被忽视</a> | 2022-07-08 |
-| 看过 <a href='http://movie.douban.com/subject/5155128/' target='_blank'>孤筏重洋</a> | 2022-06-30 |
 <!-- douban ends -->
 
 </td>
