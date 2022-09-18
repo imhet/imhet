@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我们终其一生，就是要摆脱他人的期待，找到真正的自己。
+你瞧这些白云聚了又散，散了又聚，人生离合，亦复如此。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/30181230/' target='_blank'>我们与恶的距离</a> | 2022-09-17 |
 | 读过 <a href='https://book.douban.com/subject/30224687/' target='_blank'>哈佛商学院最受欢迎的营销课</a> | 2022-09-13 |
 | 看过 <a href='http://movie.douban.com/subject/26779426/' target='_blank'>欢乐颂3</a> | 2022-09-04 |
 | 看过 <a href='http://movie.douban.com/subject/35452438/' target='_blank'>星汉灿烂·月升沧海</a> | 2022-09-03 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/2210001/' target='_blank'>大明王朝1566</a> | 2022-07-30 |
 | 读过 <a href='https://book.douban.com/subject/35140470/' target='_blank'>洞见</a> | 2022-07-20 |
 | 看过 <a href='http://movie.douban.com/subject/1303948/' target='_blank'>包法利夫人</a> | 2022-07-17 |
-| 看过 <a href='http://movie.douban.com/subject/4826419/' target='_blank'>金福南杀人事件始末</a> | 2022-07-16 |
 <!-- douban ends -->
 
 </td>
