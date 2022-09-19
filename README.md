@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你瞧这些白云聚了又散，散了又聚，人生离合，亦复如此。
+如今我走到人生十字路口，我知道哪条路是对的，毫无例外，我就知道，但我从不走，为什么？因为他妈的太苦了！
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/1084257/' target='_blank'>别闹了，费曼先生</a> | 2022-09-18 |
 | 看过 <a href='http://movie.douban.com/subject/30181230/' target='_blank'>我们与恶的距离</a> | 2022-09-17 |
 | 读过 <a href='https://book.douban.com/subject/30224687/' target='_blank'>哈佛商学院最受欢迎的营销课</a> | 2022-09-13 |
 | 看过 <a href='http://movie.douban.com/subject/26779426/' target='_blank'>欢乐颂3</a> | 2022-09-04 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/34978587/' target='_blank'>光明共和国</a> | 2022-08-07 |
 | 看过 <a href='http://movie.douban.com/subject/2210001/' target='_blank'>大明王朝1566</a> | 2022-07-30 |
 | 读过 <a href='https://book.douban.com/subject/35140470/' target='_blank'>洞见</a> | 2022-07-20 |
-| 看过 <a href='http://movie.douban.com/subject/1303948/' target='_blank'>包法利夫人</a> | 2022-07-17 |
 <!-- douban ends -->
 
 </td>
