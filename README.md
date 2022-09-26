@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-对未来的真正慷慨，是把一切献给现在。
+知道自己知道什么，也知道自己不知道什么，这就是真正的知识。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/26425831/' target='_blank'>斯通纳</a> | 2022-09-25 |
 | 读过 <a href='https://book.douban.com/subject/1084257/' target='_blank'>别闹了，费曼先生</a> | 2022-09-18 |
 | 看过 <a href='http://movie.douban.com/subject/30181230/' target='_blank'>我们与恶的距离</a> | 2022-09-17 |
 | 读过 <a href='https://book.douban.com/subject/30224687/' target='_blank'>哈佛商学院最受欢迎的营销课</a> | 2022-09-13 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/25986662/' target='_blank'>疯狂的外星人</a> | 2022-08-10 |
 | 读过 <a href='https://book.douban.com/subject/34978587/' target='_blank'>光明共和国</a> | 2022-08-07 |
 | 看过 <a href='http://movie.douban.com/subject/2210001/' target='_blank'>大明王朝1566</a> | 2022-07-30 |
-| 读过 <a href='https://book.douban.com/subject/35140470/' target='_blank'>洞见</a> | 2022-07-20 |
 <!-- douban ends -->
 
 </td>
