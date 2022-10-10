@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如今我走到人生十字路口，我知道哪条路是对的，毫无例外，我就知道，但我从不走，为什么？因为他妈的太苦了！
+唯有深刻地认识事物，才能对任何世界的复杂性有了解和体谅，才有不轻易责难和赞美的思维习惯。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/27121221/' target='_blank'>飞狐外传</a> | 2022-10-09 |
 | 读过 <a href='https://book.douban.com/subject/26425831/' target='_blank'>斯通纳</a> | 2022-09-25 |
 | 读过 <a href='https://book.douban.com/subject/1084257/' target='_blank'>别闹了，费曼先生</a> | 2022-09-18 |
 | 看过 <a href='http://movie.douban.com/subject/30181230/' target='_blank'>我们与恶的距离</a> | 2022-09-17 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/27019726/' target='_blank'>10人以下小团队管理手册</a> | 2022-09-01 |
 | 看过 <a href='http://movie.douban.com/subject/25986662/' target='_blank'>疯狂的外星人</a> | 2022-08-10 |
 | 读过 <a href='https://book.douban.com/subject/34978587/' target='_blank'>光明共和国</a> | 2022-08-07 |
-| 看过 <a href='http://movie.douban.com/subject/2210001/' target='_blank'>大明王朝1566</a> | 2022-07-30 |
 <!-- douban ends -->
 
 </td>
