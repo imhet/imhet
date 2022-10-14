@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-最容易令人感到温暖和惊喜的是陌生人，因为你对他没有期望。最容易令人感到心寒和悲哀的是亲人，因为你爱他们。
+一个男人若是能活六十年，至少有十年光阴是白白浪费了的。这十年中，起码有五年是在等女人换衣服。还有五年，是在等女人脱衣服。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35026474/' target='_blank'>卡拉马佐夫兄弟</a> | 2022-10-14 |
 | 看过 <a href='http://movie.douban.com/subject/27121221/' target='_blank'>飞狐外传</a> | 2022-10-09 |
 | 读过 <a href='https://book.douban.com/subject/26425831/' target='_blank'>斯通纳</a> | 2022-09-25 |
 | 读过 <a href='https://book.douban.com/subject/1084257/' target='_blank'>别闹了，费曼先生</a> | 2022-09-18 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35452438/' target='_blank'>星汉灿烂·月升沧海</a> | 2022-09-03 |
 | 读过 <a href='https://book.douban.com/subject/27019726/' target='_blank'>10人以下小团队管理手册</a> | 2022-09-01 |
 | 看过 <a href='http://movie.douban.com/subject/25986662/' target='_blank'>疯狂的外星人</a> | 2022-08-10 |
-| 读过 <a href='https://book.douban.com/subject/34978587/' target='_blank'>光明共和国</a> | 2022-08-07 |
 <!-- douban ends -->
 
 </td>
