@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-不要温和地走入那良夜，老年人应该燃烧着并对着日暮呼喊，怒斥、怒斥那光明的微灭。
+跑步时浮上脑际的思绪，很像天际的云朵，形状各异，大小不同。它们飘然而来，又飘然而去。然而天空犹自是天空，一成不变。云朵不过是匆匆过客，它穿过天空，来了去了。唯有天空留存下来。所谓天空，是既在又不在的东西，既是实体又不是实体。对于天空这种广漠容器般的存在状态，我们唯有照单收下，全盘接受。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/reading-klmzfxd' target='_blank'>世界小说的巅峰《卡拉马佐夫兄弟》读书笔记</a> | 2022-10-14 |
 | 发布 <a href='http://heyitao.com/post/reading-kpbjxzf' target='_blank'>用卡片笔记法打造高效的写作系统</a> | 2022-04-22 |
 | 发布 <a href='http://heyitao.com/post/reading-xiezuozhejianshi' target='_blank'>写出我心 - 读《写作这件事》</a> | 2022-02-27 |
 | 发布 <a href='http://heyitao.com/post/reading-smgm' target='_blank'>如何提升睡眠质量 - 读《睡眠革命》</a> | 2021-08-14 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-jiyechangqing' target='_blank'>如何创建一家百年老店？-读《基业长青》</a> | 2021-05-01 |
 | 发布 <a href='http://heyitao.com/post/reading-shishi' target='_blank'>这个世界不像你想的那么差</a> | 2021-03-18 |
 | 发布 <a href='http://heyitao.com/post/reading-lgygtx' target='_blank'>新加坡国父点评天下大势 - 读《李光耀观天下》</a> | 2021-01-02 |
-| 发布 <a href='http://heyitao.com/post/reading-2020' target='_blank'>我的 2020 读书小结 - 顺带推荐 10 本好书</a> | 2020-12-29 |
 <!-- blog ends -->
 
 </td>
