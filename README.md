@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人生就是电影，钱就是电影票，很多人一直在倒腾电影票，电影没好好看。
+其实不用担心，你们中的很多人一辈子都不会遇见你梦想的真爱。只会因为害怕孤独地死去而选择随便找个人，互相饲养。对成功者而言，能够抛弃无用的东西是必须具备的能力。 忙碌的人忙于任何事情，除了生活。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/20444535/' target='_blank'>遇见王沥川</a> | 2022-10-19 |
 | 读过 <a href='https://book.douban.com/subject/35026474/' target='_blank'>卡拉马佐夫兄弟</a> | 2022-10-14 |
 | 看过 <a href='http://movie.douban.com/subject/27121221/' target='_blank'>飞狐外传</a> | 2022-10-09 |
 | 读过 <a href='https://book.douban.com/subject/26425831/' target='_blank'>斯通纳</a> | 2022-09-25 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/26779426/' target='_blank'>欢乐颂3</a> | 2022-09-04 |
 | 看过 <a href='http://movie.douban.com/subject/35452438/' target='_blank'>星汉灿烂·月升沧海</a> | 2022-09-03 |
 | 读过 <a href='https://book.douban.com/subject/27019726/' target='_blank'>10人以下小团队管理手册</a> | 2022-09-01 |
-| 看过 <a href='http://movie.douban.com/subject/25986662/' target='_blank'>疯狂的外星人</a> | 2022-08-10 |
 <!-- douban ends -->
 
 </td>
