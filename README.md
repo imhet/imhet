@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-其实不用担心，你们中的很多人一辈子都不会遇见你梦想的真爱。只会因为害怕孤独地死去而选择随便找个人，互相饲养。对成功者而言，能够抛弃无用的东西是必须具备的能力。 忙碌的人忙于任何事情，除了生活。
+要想征服天空，你需要的不是一双翅膀，而是一个想飞的梦。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/reading-sitongna' target='_blank'>一位学者追求自我的一生 - 读《斯通纳》</a> | 2022-10-19 |
 | 发布 <a href='http://heyitao.com/post/reading-klmzfxd' target='_blank'>世界小说的巅峰《卡拉马佐夫兄弟》读书笔记</a> | 2022-10-14 |
 | 发布 <a href='http://heyitao.com/post/reading-kpbjxzf' target='_blank'>用卡片笔记法打造高效的写作系统</a> | 2022-04-22 |
 | 发布 <a href='http://heyitao.com/post/reading-xiezuozhejianshi' target='_blank'>写出我心 - 读《写作这件事》</a> | 2022-02-27 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-xinliu' target='_blank'>如何在日常生活中达到真正的快乐？-读《心流》</a> | 2021-05-01 |
 | 发布 <a href='http://heyitao.com/post/reading-jiyechangqing' target='_blank'>如何创建一家百年老店？-读《基业长青》</a> | 2021-05-01 |
 | 发布 <a href='http://heyitao.com/post/reading-shishi' target='_blank'>这个世界不像你想的那么差</a> | 2021-03-18 |
-| 发布 <a href='http://heyitao.com/post/reading-lgygtx' target='_blank'>新加坡国父点评天下大势 - 读《李光耀观天下》</a> | 2021-01-02 |
 <!-- blog ends -->
 
 </td>
