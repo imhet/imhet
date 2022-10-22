@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-谁想看清尘世就应当同它保持必要的距离。
+我们期望生活给予什么并不重要，重要的是生活对我们有什么期望。我们不应该再问生活的意义是什么，而应该像那些每时每刻都被生活质问的人那样去思考自身。人需要做的，不是像某些存在主义哲学家所教导的那样去忍受生命的无意义，而是忍受自己不能以合理的方式去把我生命之无限意义。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/34906442/' target='_blank'>肥胖代码</a> | 2022-10-22 |
 | 看过 <a href='http://movie.douban.com/subject/20444535/' target='_blank'>遇见王沥川</a> | 2022-10-19 |
 | 读过 <a href='https://book.douban.com/subject/35026474/' target='_blank'>卡拉马佐夫兄弟</a> | 2022-10-14 |
 | 看过 <a href='http://movie.douban.com/subject/27121221/' target='_blank'>飞狐外传</a> | 2022-10-09 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/30224687/' target='_blank'>哈佛商学院最受欢迎的营销课</a> | 2022-09-13 |
 | 看过 <a href='http://movie.douban.com/subject/26779426/' target='_blank'>欢乐颂3</a> | 2022-09-04 |
 | 看过 <a href='http://movie.douban.com/subject/35452438/' target='_blank'>星汉灿烂·月升沧海</a> | 2022-09-03 |
-| 读过 <a href='https://book.douban.com/subject/27019726/' target='_blank'>10人以下小团队管理手册</a> | 2022-09-01 |
 <!-- douban ends -->
 
 </td>
