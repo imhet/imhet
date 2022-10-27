@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你在广告公司干的活大多只是日常的例行公事。要是干得不错，你会得到一步步的升迁。但是只有在出现突出的时机的时候，你才会有最可贵的机会。诀窍是重大时机出现的时候你要能识别它、抓住它。
+成不成为leader不在于称呼而在于你愿意承担的责任和你是否具有更好的解决问题的能力，恰恰这两点是很多人欠缺的。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/34813209/' target='_blank'>蝲蛄吟唱的地方</a> | 2022-10-26 |
 | 想读 <a href='https://book.douban.com/subject/1320282/' target='_blank'>什么是数学</a> | 2022-10-22 |
 | 读过 <a href='https://book.douban.com/subject/34906442/' target='_blank'>肥胖代码</a> | 2022-10-22 |
 | 看过 <a href='http://movie.douban.com/subject/20444535/' target='_blank'>遇见王沥川</a> | 2022-10-19 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/1084257/' target='_blank'>别闹了，费曼先生</a> | 2022-09-18 |
 | 看过 <a href='http://movie.douban.com/subject/30181230/' target='_blank'>我们与恶的距离</a> | 2022-09-17 |
 | 读过 <a href='https://book.douban.com/subject/30224687/' target='_blank'>哈佛商学院最受欢迎的营销课</a> | 2022-09-13 |
-| 看过 <a href='http://movie.douban.com/subject/26779426/' target='_blank'>欢乐颂3</a> | 2022-09-04 |
 <!-- douban ends -->
 
 </td>
