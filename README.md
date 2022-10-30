@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你既可以专注于服务你的客户或听众，也可以专注于打败你的竞争对手。两者都行得通。但专注于服务你的客户会让你走得更远。
+学会在人群中保持一定程度上的孤独，不要有什么想法就立马告诉别人。另外，对别人所说的话千万不要太过当真。不能对别人有太多的期待，无论在道德上抑或在思想上。对于别人的看法，应锻炼出一副淡漠、无动于衷的态度，因为这是培养值得称道的宽容的一个最切实可行的手段。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/2997052/' target='_blank'>吾栖之肤</a> | 2022-10-30 |
 | 读过 <a href='https://book.douban.com/subject/34813209/' target='_blank'>蝲蛄吟唱的地方</a> | 2022-10-26 |
 | 想读 <a href='https://book.douban.com/subject/1320282/' target='_blank'>什么是数学</a> | 2022-10-22 |
 | 读过 <a href='https://book.douban.com/subject/34906442/' target='_blank'>肥胖代码</a> | 2022-10-22 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/26425831/' target='_blank'>斯通纳</a> | 2022-09-25 |
 | 读过 <a href='https://book.douban.com/subject/1084257/' target='_blank'>别闹了，费曼先生</a> | 2022-09-18 |
 | 看过 <a href='http://movie.douban.com/subject/30181230/' target='_blank'>我们与恶的距离</a> | 2022-09-17 |
-| 读过 <a href='https://book.douban.com/subject/30224687/' target='_blank'>哈佛商学院最受欢迎的营销课</a> | 2022-09-13 |
 <!-- douban ends -->
 
 </td>
