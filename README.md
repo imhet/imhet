@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-生命中两个最重要的日子就是你出生的那一天和你懂得生存的意义的那一天。
+什么叫做救自己呢？就是忠实自己的感觉，认真做每一件事，不要烦，不要放弃，不要敷衍。哪怕写文章时标点符号弄清楚，不要有错别字——这就是我所谓的自己救自己。我们都得一步一步救自己。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/1296703/' target='_blank'>楢山节考</a> | 2022-11-05 |
 | 看过 <a href='http://movie.douban.com/subject/30409439/' target='_blank'>兹山鱼谱</a> | 2022-10-31 |
 | 看过 <a href='http://movie.douban.com/subject/2997052/' target='_blank'>吾栖之肤</a> | 2022-10-30 |
 | 读过 <a href='https://book.douban.com/subject/34813209/' target='_blank'>蝲蛄吟唱的地方</a> | 2022-10-26 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35026474/' target='_blank'>卡拉马佐夫兄弟</a> | 2022-10-14 |
 | 看过 <a href='http://movie.douban.com/subject/27121221/' target='_blank'>飞狐外传</a> | 2022-10-09 |
 | 读过 <a href='https://book.douban.com/subject/26425831/' target='_blank'>斯通纳</a> | 2022-09-25 |
-| 读过 <a href='https://book.douban.com/subject/1084257/' target='_blank'>别闹了，费曼先生</a> | 2022-09-18 |
 <!-- douban ends -->
 
 </td>
