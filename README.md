@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我要再和生活死磕几年。要么我就毁灭，要么我就注定铸就辉煌。如果有一天，你发现我在平庸面前低了头，请向我开炮。
+闲暇是人生的精华，除此之外，人的整个一生就只是辛苦和劳作而已。凡夫俗子只关心如何打发时间，而略具才华的人却考虑如何利用时间。头脑思想狭隘的人容易受到无聊的侵袭，其原因就是他们的智力纯粹服务于他们的意欲，是意欲的工具。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,9 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/30371563/' target='_blank'>侠探简不知</a> | 2022-11-26 |
+| 读过 <a href='https://book.douban.com/subject/4864832/' target='_blank'>为什么学生不喜欢上学?</a> | 2022-11-25 |
+| 读过 <a href='https://book.douban.com/subject/35041685/' target='_blank'>人体简史</a> | 2022-11-25 |
 | 看过 <a href='http://movie.douban.com/subject/1296703/' target='_blank'>楢山节考</a> | 2022-11-05 |
 | 看过 <a href='http://movie.douban.com/subject/30409439/' target='_blank'>兹山鱼谱</a> | 2022-10-31 |
 | 看过 <a href='http://movie.douban.com/subject/2997052/' target='_blank'>吾栖之肤</a> | 2022-10-30 |
@@ -25,9 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想读 <a href='https://book.douban.com/subject/1320282/' target='_blank'>什么是数学</a> | 2022-10-22 |
 | 读过 <a href='https://book.douban.com/subject/34906442/' target='_blank'>肥胖代码</a> | 2022-10-22 |
 | 看过 <a href='http://movie.douban.com/subject/20444535/' target='_blank'>遇见王沥川</a> | 2022-10-19 |
-| 读过 <a href='https://book.douban.com/subject/35026474/' target='_blank'>卡拉马佐夫兄弟</a> | 2022-10-14 |
-| 看过 <a href='http://movie.douban.com/subject/27121221/' target='_blank'>飞狐外传</a> | 2022-10-09 |
-| 读过 <a href='https://book.douban.com/subject/26425831/' target='_blank'>斯通纳</a> | 2022-09-25 |
 <!-- douban ends -->
 
 </td>
