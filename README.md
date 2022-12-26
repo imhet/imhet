@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-不要忘记人生是要战斗到死。
+无论明日，有多落魄，至少今天，没有蹉跎。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/36071759/' target='_blank'>创造</a> | 2022-12-26 |
 | 看过 <a href='http://movie.douban.com/subject/35230876/' target='_blank'>沼泽深处的女孩</a> | 2022-12-20 |
 | 读过 <a href='https://book.douban.com/subject/4713685/' target='_blank'>重新认识你自己</a> | 2022-12-13 |
 | 读过 <a href='https://book.douban.com/subject/1101606/' target='_blank'>聪明人的圣经</a> | 2022-12-12 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/1296703/' target='_blank'>楢山节考</a> | 2022-11-05 |
 | 看过 <a href='http://movie.douban.com/subject/30409439/' target='_blank'>兹山鱼谱</a> | 2022-10-31 |
 | 看过 <a href='http://movie.douban.com/subject/2997052/' target='_blank'>吾栖之肤</a> | 2022-10-30 |
-| 读过 <a href='https://book.douban.com/subject/34813209/' target='_blank'>蝲蛄吟唱的地方</a> | 2022-10-26 |
 <!-- douban ends -->
 
 </td>
