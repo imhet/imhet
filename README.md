@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-爱情就像在海滩上捡贝壳，不要捡最大的， 也不要捡最漂亮的，要捡就捡自己最喜欢的，最重要的是捡到了自己喜欢的 就永远不要再去海边了。
+孤独是半身浸江，秋水生凉。寂寞是全身如林，寒意渐深。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/34937822/' target='_blank'>功夫兔与菜包狗 第二季</a> | 2022-12-31 |
 | 读过 <a href='https://book.douban.com/subject/36071759/' target='_blank'>创造</a> | 2022-12-26 |
 | 看过 <a href='http://movie.douban.com/subject/35230876/' target='_blank'>沼泽深处的女孩</a> | 2022-12-20 |
 | 读过 <a href='https://book.douban.com/subject/4713685/' target='_blank'>重新认识你自己</a> | 2022-12-13 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35041685/' target='_blank'>人体简史</a> | 2022-11-25 |
 | 看过 <a href='http://movie.douban.com/subject/1296703/' target='_blank'>楢山节考</a> | 2022-11-05 |
 | 看过 <a href='http://movie.douban.com/subject/30409439/' target='_blank'>兹山鱼谱</a> | 2022-10-31 |
-| 看过 <a href='http://movie.douban.com/subject/2997052/' target='_blank'>吾栖之肤</a> | 2022-10-30 |
 <!-- douban ends -->
 
 </td>
