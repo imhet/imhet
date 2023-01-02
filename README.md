@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-孤独是半身浸江，秋水生凉。寂寞是全身如林，寒意渐深。
+你要批评指点四周的风景，你首先要爬上屋顶。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,9 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/30371751/' target='_blank'>伍六七之最强发型师</a> | 2023-01-02 |
+| 看过 <a href='http://movie.douban.com/subject/27624762/' target='_blank'>伍六七</a> | 2023-01-01 |
+| 看过 <a href='http://movie.douban.com/subject/35161255/' target='_blank'>伍六七之玄武国篇</a> | 2023-01-01 |
 | 看过 <a href='http://movie.douban.com/subject/34937822/' target='_blank'>功夫兔与菜包狗 第二季</a> | 2022-12-31 |
 | 读过 <a href='https://book.douban.com/subject/36071759/' target='_blank'>创造</a> | 2022-12-26 |
 | 看过 <a href='http://movie.douban.com/subject/35230876/' target='_blank'>沼泽深处的女孩</a> | 2022-12-20 |
@@ -25,9 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/1101606/' target='_blank'>聪明人的圣经</a> | 2022-12-12 |
 | 看过 <a href='http://movie.douban.com/subject/30371563/' target='_blank'>侠探简不知</a> | 2022-11-26 |
 | 读过 <a href='https://book.douban.com/subject/4864832/' target='_blank'>为什么学生不喜欢上学?</a> | 2022-11-25 |
-| 读过 <a href='https://book.douban.com/subject/35041685/' target='_blank'>人体简史</a> | 2022-11-25 |
-| 看过 <a href='http://movie.douban.com/subject/1296703/' target='_blank'>楢山节考</a> | 2022-11-05 |
-| 看过 <a href='http://movie.douban.com/subject/30409439/' target='_blank'>兹山鱼谱</a> | 2022-10-31 |
 <!-- douban ends -->
 
 </td>
