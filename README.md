@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我往宇宙撒了把盐，如果三点前还睡不着，今晚就吃盐焗小星球。
+人的情绪和脑力在一天之中会有所波动。对于大多数人来说，情绪变化遵循共同的模式：高峰、低谷和反弹。这有助于塑造一种双重能力模式。早晨，在脑力高峰期间，大多数人都擅长解决“琳达问题”，即分析型的工作，这类工作需要敏锐、警觉和注意力高度集中。一天中的晚些时候，在情绪回升期，大多数人会更善于解决硬币难题，即需要较少抑制和专注的洞察力问题（只有极少数人在午间低谷时更善于解决此类问题，我将在下一章进行解释）。我们就像德梅朗的那盆含羞草，能力遵循着身体的生物钟自觉开合，不受主观控制。
 ```
 <!-- juzi ends -->
 
@@ -18,16 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-| 看过 <a href='http://movie.douban.com/subject/30371751/' target='_blank'>伍六七之最强发型师</a> | 2023-01-02 |
-| 看过 <a href='http://movie.douban.com/subject/27624762/' target='_blank'>伍六七</a> | 2023-01-01 |
-| 看过 <a href='http://movie.douban.com/subject/35161255/' target='_blank'>伍六七之玄武国篇</a> | 2023-01-01 |
-| 看过 <a href='http://movie.douban.com/subject/34937822/' target='_blank'>功夫兔与菜包狗 第二季</a> | 2022-12-31 |
-| 读过 <a href='https://book.douban.com/subject/36071759/' target='_blank'>创造</a> | 2022-12-26 |
-| 看过 <a href='http://movie.douban.com/subject/35230876/' target='_blank'>沼泽深处的女孩</a> | 2022-12-20 |
-| 读过 <a href='https://book.douban.com/subject/4713685/' target='_blank'>重新认识你自己</a> | 2022-12-13 |
-| 读过 <a href='https://book.douban.com/subject/1101606/' target='_blank'>聪明人的圣经</a> | 2022-12-12 |
-| 看过 <a href='http://movie.douban.com/subject/30371563/' target='_blank'>侠探简不知</a> | 2022-11-26 |
-| 读过 <a href='https://book.douban.com/subject/4864832/' target='_blank'>为什么学生不喜欢上学?</a> | 2022-11-25 |
+
 <!-- douban ends -->
 
 </td>
