@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-也许宇宙中最违反直觉的真理就是，你给予他人越多，你收获的就越多。这是智慧的起点。
+兴趣是最好的老师，其次是耻辱。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/4861422/' target='_blank'>怪侠一枝梅</a> | 2023-01-06 |
 | 看过 <a href='http://movie.douban.com/subject/30371751/' target='_blank'>伍六七之最强发型师</a> | 2023-01-02 |
 | 看过 <a href='http://movie.douban.com/subject/27624762/' target='_blank'>伍六七</a> | 2023-01-01 |
 | 看过 <a href='http://movie.douban.com/subject/35161255/' target='_blank'>伍六七之玄武国篇</a> | 2023-01-01 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/4713685/' target='_blank'>重新认识你自己</a> | 2022-12-13 |
 | 读过 <a href='https://book.douban.com/subject/1101606/' target='_blank'>聪明人的圣经</a> | 2022-12-12 |
 | 看过 <a href='http://movie.douban.com/subject/30371563/' target='_blank'>侠探简不知</a> | 2022-11-26 |
-| 读过 <a href='https://book.douban.com/subject/4864832/' target='_blank'>为什么学生不喜欢上学?</a> | 2022-11-25 |
 <!-- douban ends -->
 
 </td>
