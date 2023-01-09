@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-做了好事受到指责而仍坚持下去，这才是奋斗者的本色。
+宁可食无肉，不可居无竹；无肉令人瘦，无竹令人俗；人瘦尚可肥，士俗不可医。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/25726259/' target='_blank'>风骚律师 第一季</a> | 2023-01-08 |
 | 看过 <a href='http://movie.douban.com/subject/4861422/' target='_blank'>怪侠一枝梅</a> | 2023-01-06 |
 | 看过 <a href='http://movie.douban.com/subject/30371751/' target='_blank'>伍六七之最强发型师</a> | 2023-01-02 |
 | 看过 <a href='http://movie.douban.com/subject/27624762/' target='_blank'>伍六七</a> | 2023-01-01 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35230876/' target='_blank'>沼泽深处的女孩</a> | 2022-12-20 |
 | 读过 <a href='https://book.douban.com/subject/4713685/' target='_blank'>重新认识你自己</a> | 2022-12-13 |
 | 读过 <a href='https://book.douban.com/subject/1101606/' target='_blank'>聪明人的圣经</a> | 2022-12-12 |
-| 看过 <a href='http://movie.douban.com/subject/30371563/' target='_blank'>侠探简不知</a> | 2022-11-26 |
 <!-- douban ends -->
 
 </td>
