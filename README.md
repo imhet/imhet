@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你要藏好软弱，世界大雨滂沱，万物苟且而活，无人为你背负更多。
+大张旗鼓的离开其实都是试探，真正的离开是没有告别的，从来扯着嗓门喊着要走的人，都是最后自己把摔了一地的玻璃碎片，闷头弯腰一片一片拾了起来。而真正想离开的人，只是挑了一个风和日丽的下午，裹了件最常穿的大衣，出了门，然后就再也没有回来过。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/25976733/' target='_blank'>风骚律师 第二季</a> | 2023-01-10 |
 | 看过 <a href='http://movie.douban.com/subject/25726259/' target='_blank'>风骚律师 第一季</a> | 2023-01-08 |
 | 看过 <a href='http://movie.douban.com/subject/4861422/' target='_blank'>怪侠一枝梅</a> | 2023-01-06 |
 | 看过 <a href='http://movie.douban.com/subject/30371751/' target='_blank'>伍六七之最强发型师</a> | 2023-01-02 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/36071759/' target='_blank'>创造</a> | 2022-12-26 |
 | 看过 <a href='http://movie.douban.com/subject/35230876/' target='_blank'>沼泽深处的女孩</a> | 2022-12-20 |
 | 读过 <a href='https://book.douban.com/subject/4713685/' target='_blank'>重新认识你自己</a> | 2022-12-13 |
-| 读过 <a href='https://book.douban.com/subject/1101606/' target='_blank'>聪明人的圣经</a> | 2022-12-12 |
 <!-- douban ends -->
 
 </td>
