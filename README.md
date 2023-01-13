@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-勇敢地面对眼前的难题，全力以赴，逐一解决。将意识集中于迈出去的每一步，同时，还要以尽可能长的眼光去看待问题，尽可能远地去眺望风景。
+凡我所遇到的人，都有胜过我的地方，我就学他那些好的地方。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/34501169/' target='_blank'>简读中国史</a> | 2023-01-13 |
 | 看过 <a href='http://movie.douban.com/subject/26748847/' target='_blank'>风骚律师 第三季</a> | 2023-01-12 |
 | 看过 <a href='http://movie.douban.com/subject/25976733/' target='_blank'>风骚律师 第二季</a> | 2023-01-10 |
 | 看过 <a href='http://movie.douban.com/subject/25726259/' target='_blank'>风骚律师 第一季</a> | 2023-01-08 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35161255/' target='_blank'>伍六七之玄武国篇</a> | 2023-01-01 |
 | 看过 <a href='http://movie.douban.com/subject/34937822/' target='_blank'>功夫兔与菜包狗 第二季</a> | 2022-12-31 |
 | 读过 <a href='https://book.douban.com/subject/36071759/' target='_blank'>创造</a> | 2022-12-26 |
-| 看过 <a href='http://movie.douban.com/subject/35230876/' target='_blank'>沼泽深处的女孩</a> | 2022-12-20 |
 <!-- douban ends -->
 
 </td>
