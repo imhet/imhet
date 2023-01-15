@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人生就像射箭，梦想就像箭靶子，如果没有箭靶子，你每天的拉弓就毫无意义。
+多少人曾爱慕你年轻时的容颜，可是谁能承受岁月无情的变迁。
 ```
 <!-- juzi ends -->
 
@@ -18,16 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 玩过 <a href='http://www.douban.com/game/26553654/' target='_blank'>大唐豪侠</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/11611393/' target='_blank'>荒野大镖客 Red Dead Redemption</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/10729903/' target='_blank'>暗黑破坏神3 Diablo III</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/26368772/' target='_blank'>文明5：美丽新世界 Sid Meier's Civilization V: Brave New World</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/10735290/' target='_blank'>上古卷轴5：天际 The Elder Scrolls V: Skyrim</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/10751017/' target='_blank'>冒险岛Online 메이플스토리</a> | 2023-01-15 |
 | 读过 <a href='https://book.douban.com/subject/34501169/' target='_blank'>简读中国史</a> | 2023-01-13 |
 | 看过 <a href='http://movie.douban.com/subject/26748847/' target='_blank'>风骚律师 第三季</a> | 2023-01-12 |
 | 看过 <a href='http://movie.douban.com/subject/25976733/' target='_blank'>风骚律师 第二季</a> | 2023-01-10 |
 | 看过 <a href='http://movie.douban.com/subject/25726259/' target='_blank'>风骚律师 第一季</a> | 2023-01-08 |
-| 看过 <a href='http://movie.douban.com/subject/4861422/' target='_blank'>怪侠一枝梅</a> | 2023-01-06 |
-| 看过 <a href='http://movie.douban.com/subject/30371751/' target='_blank'>伍六七之最强发型师</a> | 2023-01-02 |
-| 看过 <a href='http://movie.douban.com/subject/27624762/' target='_blank'>伍六七</a> | 2023-01-01 |
-| 看过 <a href='http://movie.douban.com/subject/35161255/' target='_blank'>伍六七之玄武国篇</a> | 2023-01-01 |
-| 看过 <a href='http://movie.douban.com/subject/34937822/' target='_blank'>功夫兔与菜包狗 第二季</a> | 2022-12-31 |
-| 读过 <a href='https://book.douban.com/subject/36071759/' target='_blank'>创造</a> | 2022-12-26 |
 <!-- douban ends -->
 
 </td>
