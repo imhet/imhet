@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-多少人曾爱慕你年轻时的容颜，可是谁能承受岁月无情的变迁。
+善于倾听是一种超能力。倾听你所喜欢的人时，要不时地追问「还有吗」，直到他们没有更多东西可讲。
 ```
 <!-- juzi ends -->
 
@@ -18,16 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-| 玩过 <a href='http://www.douban.com/game/26553654/' target='_blank'>大唐豪侠</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/11611393/' target='_blank'>荒野大镖客 Red Dead Redemption</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/10729903/' target='_blank'>暗黑破坏神3 Diablo III</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/26368772/' target='_blank'>文明5：美丽新世界 Sid Meier's Civilization V: Brave New World</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/10735290/' target='_blank'>上古卷轴5：天际 The Elder Scrolls V: Skyrim</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/10751017/' target='_blank'>冒险岛Online 메이플스토리</a> | 2023-01-15 |
-| 读过 <a href='https://book.douban.com/subject/34501169/' target='_blank'>简读中国史</a> | 2023-01-13 |
-| 看过 <a href='http://movie.douban.com/subject/26748847/' target='_blank'>风骚律师 第三季</a> | 2023-01-12 |
-| 看过 <a href='http://movie.douban.com/subject/25976733/' target='_blank'>风骚律师 第二季</a> | 2023-01-10 |
-| 看过 <a href='http://movie.douban.com/subject/25726259/' target='_blank'>风骚律师 第一季</a> | 2023-01-08 |
+| 玩过 <a href='http://www.douban.com/game/10745252/' target='_blank'>轩辕剑外传 汉之云 軒轅劍外傳 漢之雲</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/10734171/' target='_blank'>仙剑奇侠传四 仙劍奇俠傳四</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/10754121/' target='_blank'>流星蝴蝶剑 Meteor Butterfly And a Blade</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/10757158/' target='_blank'>地下城与勇士 던전앤파이터</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/26976880/' target='_blank'>三国志11威力加强版 三國志11 with パワーアップキット</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/10795458/' target='_blank'>真三国无双3 真・三國無双3</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/26435335/' target='_blank'>丁丁历险记 The Adventures of Tintin: The Secret of the Unicorn</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/34441376/' target='_blank'>原神</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/11606515/' target='_blank'>地牢围攻2 Dungeon Siege II</a> | 2023-01-15 |
+| 玩过 <a href='http://www.douban.com/game/24741171/' target='_blank'>QQ幻想</a> | 2023-01-15 |
 <!-- douban ends -->
 
 </td>
