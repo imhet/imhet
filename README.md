@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-唯有深刻地认识事物，才能对任何世界的复杂性有了解和体谅，才有不轻易责难和赞美的思维习惯。
+做任何事都应该设个 deadline。它可以帮你排除那些无关紧要之事，并避免追求尽善尽美，而是努力去做到与众不同。差异胜于完美。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35541399/' target='_blank'>噪声</a> | 2023-01-23 |
 | 玩过 <a href='http://www.douban.com/game/10745252/' target='_blank'>轩辕剑外传 汉之云 軒轅劍外傳 漢之雲</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/10734171/' target='_blank'>仙剑奇侠传四 仙劍奇俠傳四</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/10754121/' target='_blank'>流星蝴蝶剑 Meteor Butterfly And a Blade</a> | 2023-01-15 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 玩过 <a href='http://www.douban.com/game/26435335/' target='_blank'>丁丁历险记 The Adventures of Tintin: The Secret of the Unicorn</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/34441376/' target='_blank'>原神</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/11606515/' target='_blank'>地牢围攻2 Dungeon Siege II</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/24741171/' target='_blank'>QQ幻想</a> | 2023-01-15 |
 <!-- douban ends -->
 
 </td>
