@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-做任何事都应该设个 deadline。它可以帮你排除那些无关紧要之事，并避免追求尽善尽美，而是努力去做到与众不同。差异胜于完美。
+善于倾听是一种超能力。倾听你所喜欢的人时，要不时地追问「还有吗」，直到他们没有更多东西可讲。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,9 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/34951007/' target='_blank'>风骚律师 第六季</a> | 2023-01-25 |
+| 看过 <a href='http://movie.douban.com/subject/30285826/' target='_blank'>风骚律师 第五季</a> | 2023-01-25 |
+| 看过 <a href='http://movie.douban.com/subject/27077785/' target='_blank'>风骚律师 第四季</a> | 2023-01-25 |
 | 读过 <a href='https://book.douban.com/subject/35541399/' target='_blank'>噪声</a> | 2023-01-23 |
 | 玩过 <a href='http://www.douban.com/game/10745252/' target='_blank'>轩辕剑外传 汉之云 軒轅劍外傳 漢之雲</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/10734171/' target='_blank'>仙剑奇侠传四 仙劍奇俠傳四</a> | 2023-01-15 |
@@ -25,9 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 玩过 <a href='http://www.douban.com/game/10757158/' target='_blank'>地下城与勇士 던전앤파이터</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/26976880/' target='_blank'>三国志11威力加强版 三國志11 with パワーアップキット</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/10795458/' target='_blank'>真三国无双3 真・三國無双3</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/26435335/' target='_blank'>丁丁历险记 The Adventures of Tintin: The Secret of the Unicorn</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/34441376/' target='_blank'>原神</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/11606515/' target='_blank'>地牢围攻2 Dungeon Siege II</a> | 2023-01-15 |
 <!-- douban ends -->
 
 </td>
