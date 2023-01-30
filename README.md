@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人生的高度，不是你看清了多少事，而是你看轻了多少事。心灵的宽度，不是你认识了多少人，而是你包容了多少人。做人如山，望万物，而容万物。做人似水，能进退，而知进退。
+学会在人群中保持一定程度上的孤独，不要有什么想法就立马告诉别人。另外，对别人所说的话千万不要太过当真。不能对别人有太多的期待，无论在道德上抑或在思想上。对于别人的看法，应锻炼出一副淡漠、无动于衷的态度，因为这是培养值得称道的宽容的一个最切实可行的手段。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/26706730/' target='_blank'>肠子的小心思</a> | 2023-01-29 |
 | 看过 <a href='http://movie.douban.com/subject/34951007/' target='_blank'>风骚律师 第六季</a> | 2023-01-25 |
 | 看过 <a href='http://movie.douban.com/subject/30285826/' target='_blank'>风骚律师 第五季</a> | 2023-01-25 |
 | 看过 <a href='http://movie.douban.com/subject/27077785/' target='_blank'>风骚律师 第四季</a> | 2023-01-25 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 玩过 <a href='http://www.douban.com/game/10754121/' target='_blank'>流星蝴蝶剑 Meteor Butterfly And a Blade</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/10757158/' target='_blank'>地下城与勇士 던전앤파이터</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/26976880/' target='_blank'>三国志11威力加强版 三國志11 with パワーアップキット</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/10795458/' target='_blank'>真三国无双3 真・三國無双3</a> | 2023-01-15 |
 <!-- douban ends -->
 
 </td>
