@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/reading-shaoniankaige' target='_blank'>那个群魔乱舞的时代-读《少年凯歌》</a> | 2023-02-04 |
 | 发布 <a href='http://heyitao.com/post/reading-cxrsnzj' target='_blank'>昨日已在昨日逝</a> | 2022-12-12 |
 | 发布 <a href='http://heyitao.com/post/reading-cmrdsj' target='_blank'>你过的是你自己的生活，还是按着别人期待你的样子来生活？</a> | 2022-12-12 |
 | 发布 <a href='http://heyitao.com/post/reading-sitongna' target='_blank'>一位学者追求自我的一生 - 读《斯通纳》</a> | 2022-10-19 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-smgm' target='_blank'>如何提升睡眠质量 - 读《睡眠革命》</a> | 2021-08-14 |
 | 发布 <a href='http://heyitao.com/post/reading-hmxsqkxlys' target='_blank'>人际沟通分析入门 - 读《蛤蟆先生去看心理医生》</a> | 2021-07-11 |
 | 发布 <a href='http://heyitao.com/post/reading-neizaidongji' target='_blank'>如何自主掌控你的人生？-读《内在动机》</a> | 2021-06-27 |
-| 发布 <a href='http://heyitao.com/post/reading-xinliu' target='_blank'>如何在日常生活中达到真正的快乐？-读《心流》</a> | 2021-05-01 |
 <!-- blog ends -->
 
 </td>
