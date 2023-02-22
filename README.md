@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-普通人一生的四个阶段：心比天高的无知快乐与希望——愧不如人后的奋斗与煎熬——毫无回报的愤懑与失望——坦然的平凡和颓废。你走到哪一步了？
+孤独是半身浸江，秋水生凉。寂寞是全身如林，寒意渐深。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a> | 2023-02-22 |
 | 读过 <a href='https://book.douban.com/subject/1091203/' target='_blank'>少年凯歌</a> | 2023-02-04 |
 | 读过 <a href='https://book.douban.com/subject/26706730/' target='_blank'>肠子的小心思</a> | 2023-01-29 |
 | 看过 <a href='http://movie.douban.com/subject/34951007/' target='_blank'>风骚律师 第六季</a> | 2023-01-25 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 玩过 <a href='http://www.douban.com/game/10745252/' target='_blank'>轩辕剑外传 汉之云 軒轅劍外傳 漢之雲</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/10734171/' target='_blank'>仙剑奇侠传四 仙劍奇俠傳四</a> | 2023-01-15 |
 | 玩过 <a href='http://www.douban.com/game/10754121/' target='_blank'>流星蝴蝶剑 Meteor Butterfly And a Blade</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/10757158/' target='_blank'>地下城与勇士 던전앤파이터</a> | 2023-01-15 |
 <!-- douban ends -->
 
 </td>
