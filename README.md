@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果你只是迫切需要一份工作，那么对老板来说，你不过是又一个问题。如果你能解决老板的很多问题，那你自然能得到这份工作。要得到一份工作，需要像老板一样去想问题。
+生活是苦难的，我又划着我的断桨出发了。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/24748615/' target='_blank'>天幕红尘</a> | 2023-03-15 |
 | 看过 <a href='http://movie.douban.com/subject/3077791/' target='_blank'>在云端</a> | 2023-03-05 |
 | 看过 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a> | 2023-02-22 |
 | 读过 <a href='https://book.douban.com/subject/1091203/' target='_blank'>少年凯歌</a> | 2023-02-04 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/27077785/' target='_blank'>风骚律师 第四季</a> | 2023-01-25 |
 | 读过 <a href='https://book.douban.com/subject/35541399/' target='_blank'>噪声</a> | 2023-01-23 |
 | 玩过 <a href='http://www.douban.com/game/10745252/' target='_blank'>轩辕剑外传 汉之云 軒轅劍外傳 漢之雲</a> | 2023-01-15 |
-| 玩过 <a href='http://www.douban.com/game/10734171/' target='_blank'>仙剑奇侠传四 仙劍奇俠傳四</a> | 2023-01-15 |
 <!-- douban ends -->
 
 </td>
