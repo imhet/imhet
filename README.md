@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你的所作所为定义了你——既不是你所说的，也不是你所信的，更不是你所支持的，而是你花费时间于其上的。
+如果你因为我个子矮而取笑我的话，那么我就砍下你的头，来取消这个差距。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35674355/' target='_blank'>中国奇谭</a> | 2023-03-19 |
 | 读过 <a href='https://book.douban.com/subject/24748615/' target='_blank'>天幕红尘</a> | 2023-03-15 |
 | 看过 <a href='http://movie.douban.com/subject/3077791/' target='_blank'>在云端</a> | 2023-03-05 |
 | 看过 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a> | 2023-02-22 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/30285826/' target='_blank'>风骚律师 第五季</a> | 2023-01-25 |
 | 看过 <a href='http://movie.douban.com/subject/27077785/' target='_blank'>风骚律师 第四季</a> | 2023-01-25 |
 | 读过 <a href='https://book.douban.com/subject/35541399/' target='_blank'>噪声</a> | 2023-01-23 |
-| 玩过 <a href='http://www.douban.com/game/10745252/' target='_blank'>轩辕剑外传 汉之云 軒轅劍外傳 漢之雲</a> | 2023-01-15 |
 <!-- douban ends -->
 
 </td>
