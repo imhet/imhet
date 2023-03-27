@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-凡我所遇到的人，都有胜过我的地方，我就学他那些好的地方。
+只有在你工作堆积如山时，你才可能享受闲暇。当你无事可做时，空闲就变得一点也不有趣，因为空闲就是你的工作，而且是最耗人的工作。闲懒和吻一样，当它被盗走了之后，它的味道才是甜的。
 ```
 <!-- juzi ends -->
 
@@ -18,16 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-| 看过 <a href='http://movie.douban.com/subject/35674355/' target='_blank'>中国奇谭</a> | 2023-03-19 |
-| 读过 <a href='https://book.douban.com/subject/24748615/' target='_blank'>天幕红尘</a> | 2023-03-15 |
-| 看过 <a href='http://movie.douban.com/subject/3077791/' target='_blank'>在云端</a> | 2023-03-05 |
-| 看过 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a> | 2023-02-22 |
-| 读过 <a href='https://book.douban.com/subject/1091203/' target='_blank'>少年凯歌</a> | 2023-02-04 |
-| 读过 <a href='https://book.douban.com/subject/26706730/' target='_blank'>肠子的小心思</a> | 2023-01-29 |
-| 看过 <a href='http://movie.douban.com/subject/34951007/' target='_blank'>风骚律师 第六季</a> | 2023-01-25 |
-| 看过 <a href='http://movie.douban.com/subject/30285826/' target='_blank'>风骚律师 第五季</a> | 2023-01-25 |
-| 看过 <a href='http://movie.douban.com/subject/27077785/' target='_blank'>风骚律师 第四季</a> | 2023-01-25 |
-| 读过 <a href='https://book.douban.com/subject/35541399/' target='_blank'>噪声</a> | 2023-01-23 |
+
 <!-- douban ends -->
 
 </td>
