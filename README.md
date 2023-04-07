@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-最让人有成就感的工作有一些共同的特质，它要求我们发挥最好的水平，但要能为我们自己所掌控而不是取决于他人。要求高但毫无自主权的工作将榨干我们；有自主权但没有什么挑战的工作又让我们失望；而那些既无要求也不为我们控制的工作是最糟糕的。如果你的工作既不能提供挑战又没有自主权，而且你又没有办法让事情变得更好，那就考虑换工作吧。
+我们被迫如此认真而真诚地活着，尊重我们的生活，否认变革的可能。我们说，这是惟一的生活之道；但是，能从圆心画出多少条半径来，就有多少种生活之道。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/33422386/' target='_blank'>世界尽头的咖啡馆</a> | 2023-04-06 |
 | 看过 <a href='http://movie.douban.com/subject/35674355/' target='_blank'>中国奇谭</a> | 2023-03-19 |
 | 读过 <a href='https://book.douban.com/subject/24748615/' target='_blank'>天幕红尘</a> | 2023-03-15 |
 | 看过 <a href='http://movie.douban.com/subject/3077791/' target='_blank'>在云端</a> | 2023-03-05 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/34951007/' target='_blank'>风骚律师 第六季</a> | 2023-01-25 |
 | 看过 <a href='http://movie.douban.com/subject/30285826/' target='_blank'>风骚律师 第五季</a> | 2023-01-25 |
 | 看过 <a href='http://movie.douban.com/subject/27077785/' target='_blank'>风骚律师 第四季</a> | 2023-01-25 |
-| 读过 <a href='https://book.douban.com/subject/35541399/' target='_blank'>噪声</a> | 2023-01-23 |
 <!-- douban ends -->
 
 </td>
