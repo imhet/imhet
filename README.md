@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-微笑和沉默是两把利器，微笑解决很多问题，沉默避免很多问题。
+将来会怎么样，我根本不会考虑。要是成天想着今天，愁着明天，生活还有什么意思呢？就是事情遭到无可再遭的地步，我想总还是有路可走的。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/2347737/' target='_blank'>深夜加油站遇见苏格拉底</a> | 2023-04-19 |
 | 读过 <a href='https://book.douban.com/subject/33422386/' target='_blank'>世界尽头的咖啡馆</a> | 2023-04-06 |
 | 看过 <a href='http://movie.douban.com/subject/35674355/' target='_blank'>中国奇谭</a> | 2023-03-19 |
 | 读过 <a href='https://book.douban.com/subject/24748615/' target='_blank'>天幕红尘</a> | 2023-03-15 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/26706730/' target='_blank'>肠子的小心思</a> | 2023-01-29 |
 | 看过 <a href='http://movie.douban.com/subject/34951007/' target='_blank'>风骚律师 第六季</a> | 2023-01-25 |
 | 看过 <a href='http://movie.douban.com/subject/30285826/' target='_blank'>风骚律师 第五季</a> | 2023-01-25 |
-| 看过 <a href='http://movie.douban.com/subject/27077785/' target='_blank'>风骚律师 第四季</a> | 2023-01-25 |
 <!-- douban ends -->
 
 </td>
