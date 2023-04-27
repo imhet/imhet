@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-承认和直面自己的结局就像洗了个冷水澡一样，会让你顿时打起精神，充满动力，促使你纠正过去的错误，然后再度启程前行。这会让你更加精明，更加了解自己，变得更好。
+少年读书如隙中窥月，中年读书如庭中望月，老年读书如台上玩月，皆以阅历之浅深为所得之浅深耳。
 ```
 <!-- juzi ends -->
 
@@ -40,7 +40,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
-
+| 发布 <a href='http://heyitao.com/post/write-for-think' target='_blank'>为思考而公开写作</a> | 2023-02-06 |
+| 发布 <a href='http://heyitao.com/post/reading-shaoniankaige' target='_blank'>那个群魔乱舞的时代-读《少年凯歌》</a> | 2023-02-04 |
+| 发布 <a href='http://heyitao.com/post/reading-cxrsnzj' target='_blank'>昨日已在昨日逝</a> | 2022-12-12 |
+| 发布 <a href='http://heyitao.com/post/reading-cmrdsj' target='_blank'>你过的是你自己的生活，还是按着别人期待你的样子来生活？</a> | 2022-12-12 |
+| 发布 <a href='http://heyitao.com/post/reading-sitongna' target='_blank'>一位学者追求自我的一生 - 读《斯通纳》</a> | 2022-10-19 |
+| 发布 <a href='http://heyitao.com/post/reading-klmzfxd' target='_blank'>世界小说的巅峰《卡拉马佐夫兄弟》读书笔记</a> | 2022-10-14 |
+| 发布 <a href='http://heyitao.com/post/reading-kpbjxzf' target='_blank'>用卡片笔记法打造高效的写作系统</a> | 2022-04-22 |
+| 发布 <a href='http://heyitao.com/post/reading-xiezuozhejianshi' target='_blank'>写出我心 - 读《写作这件事》</a> | 2022-02-27 |
+| 发布 <a href='http://heyitao.com/post/reading-smgm' target='_blank'>如何提升睡眠质量 - 读《睡眠革命》</a> | 2021-08-14 |
+| 发布 <a href='http://heyitao.com/post/reading-hmxsqkxlys' target='_blank'>人际沟通分析入门 - 读《蛤蟆先生去看心理医生》</a> | 2021-07-11 |
 <!-- blog ends -->
 
 </td>
