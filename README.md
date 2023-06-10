@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-故天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，因此动心忍性，曾益其所不能。
+人们常觉得准备的阶段是在浪费时间，只有当真正机会来临，而自己没有能力把握的时候，才能觉悟自己平时没有准备才是浪费了时间。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/25819842/' target='_blank'>佛陀传</a> | 2023-06-09 |
 | 读过 <a href='https://book.douban.com/subject/34870933/' target='_blank'>人生十二法则</a> | 2023-05-26 |
 | 看过 <a href='http://movie.douban.com/subject/35588177/' target='_blank'>漫长的季节</a> | 2023-05-11 |
 | 最近 <a href='http://www.douban.com/game/26817171/' target='_blank'>在玩塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2023-05-07 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/24748615/' target='_blank'>天幕红尘</a> | 2023-03-15 |
 | 看过 <a href='http://movie.douban.com/subject/3077791/' target='_blank'>在云端</a> | 2023-03-05 |
 | 看过 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a> | 2023-02-22 |
-| 读过 <a href='https://book.douban.com/subject/1091203/' target='_blank'>少年凯歌</a> | 2023-02-04 |
 <!-- douban ends -->
 
 </td>
