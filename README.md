@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-这世上，本就没有任何一句话，可以让你醍醐灌顶。真正让你醍醐灌顶的，只能是一段经历。而那句话，只是火药仓库内划燃的一根火柴。
+如果问在人生中最重要的才能是什么？那么回答则是：第一，无所畏惧；第二，无所畏惧；第三，还是无所畏惧。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/reading-doom' target='_blank'>如何创造一个伟大的游戏？《DOOM启示录》读书笔记</a> | 2023-06-18 |
 | 发布 <a href='http://heyitao.com/post/write-for-think' target='_blank'>为思考而公开写作</a> | 2023-02-06 |
 | 发布 <a href='http://heyitao.com/post/reading-shaoniankaige' target='_blank'>那个群魔乱舞的时代-读《少年凯歌》</a> | 2023-02-04 |
 | 发布 <a href='http://heyitao.com/post/reading-cxrsnzj' target='_blank'>昨日已在昨日逝</a> | 2022-12-12 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-kpbjxzf' target='_blank'>用卡片笔记法打造高效的写作系统</a> | 2022-04-22 |
 | 发布 <a href='http://heyitao.com/post/reading-xiezuozhejianshi' target='_blank'>写出我心 - 读《写作这件事》</a> | 2022-02-27 |
 | 发布 <a href='http://heyitao.com/post/reading-smgm' target='_blank'>如何提升睡眠质量 - 读《睡眠革命》</a> | 2021-08-14 |
-| 发布 <a href='http://heyitao.com/post/reading-hmxsqkxlys' target='_blank'>人际沟通分析入门 - 读《蛤蟆先生去看心理医生》</a> | 2021-07-11 |
 <!-- blog ends -->
 
 </td>
