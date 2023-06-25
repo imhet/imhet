@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人之所以会撒谎，是为了隐藏内心的脆弱，保护那些不可取代的东西，逃避那些挣脱不了的痛苦。
+你在广告公司干的活大多只是日常的例行公事。要是干得不错，你会得到一步步的升迁。但是只有在出现突出的时机的时候，你才会有最可贵的机会。诀窍是重大时机出现的时候你要能识别它、抓住它。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/34941536/' target='_blank'>宇宙探索编辑部</a> | 2023-06-24 |
 | 读过 <a href='https://book.douban.com/subject/26642310/' target='_blank'>DOOM启世录</a> | 2023-06-17 |
 | 读过 <a href='https://book.douban.com/subject/25819842/' target='_blank'>佛陀传</a> | 2023-06-09 |
 | 读过 <a href='https://book.douban.com/subject/34870933/' target='_blank'>人生十二法则</a> | 2023-05-26 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/33422386/' target='_blank'>世界尽头的咖啡馆</a> | 2023-04-06 |
 | 看过 <a href='http://movie.douban.com/subject/35674355/' target='_blank'>中国奇谭</a> | 2023-03-19 |
 | 读过 <a href='https://book.douban.com/subject/24748615/' target='_blank'>天幕红尘</a> | 2023-03-15 |
-| 看过 <a href='http://movie.douban.com/subject/3077791/' target='_blank'>在云端</a> | 2023-03-05 |
 <!-- douban ends -->
 
 </td>
