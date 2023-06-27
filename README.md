@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我能抵抗一切，除了诱惑。
+凡所有相，皆是虚妄。若见诸相非相，则见如来。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/25930025/' target='_blank'>只是为了好玩</a> | 2023-06-26 |
 | 看过 <a href='http://movie.douban.com/subject/34941536/' target='_blank'>宇宙探索编辑部</a> | 2023-06-24 |
 | 读过 <a href='https://book.douban.com/subject/26642310/' target='_blank'>DOOM启世录</a> | 2023-06-17 |
 | 读过 <a href='https://book.douban.com/subject/25819842/' target='_blank'>佛陀传</a> | 2023-06-09 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/2347737/' target='_blank'>深夜加油站遇见苏格拉底</a> | 2023-04-19 |
 | 读过 <a href='https://book.douban.com/subject/33422386/' target='_blank'>世界尽头的咖啡馆</a> | 2023-04-06 |
 | 看过 <a href='http://movie.douban.com/subject/35674355/' target='_blank'>中国奇谭</a> | 2023-03-19 |
-| 读过 <a href='https://book.douban.com/subject/24748615/' target='_blank'>天幕红尘</a> | 2023-03-15 |
 <!-- douban ends -->
 
 </td>
