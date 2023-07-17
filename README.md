@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-不要忘记人生是要战斗到死。
+痛苦本身不是财富，对痛苦的反思才是。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/33440045/' target='_blank'>高效休息法</a> | 2023-07-16 |
 | 读过 <a href='https://book.douban.com/subject/36093214/' target='_blank'>四千周</a> | 2023-07-05 |
 | 读过 <a href='https://book.douban.com/subject/25930025/' target='_blank'>只是为了好玩</a> | 2023-06-26 |
 | 看过 <a href='http://movie.douban.com/subject/34941536/' target='_blank'>宇宙探索编辑部</a> | 2023-06-24 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35588177/' target='_blank'>漫长的季节</a> | 2023-05-11 |
 | 最近 <a href='http://www.douban.com/game/26817171/' target='_blank'>在玩塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2023-05-07 |
 | 读过 <a href='https://book.douban.com/subject/2347737/' target='_blank'>深夜加油站遇见苏格拉底</a> | 2023-04-19 |
-| 读过 <a href='https://book.douban.com/subject/33422386/' target='_blank'>世界尽头的咖啡馆</a> | 2023-04-06 |
 <!-- douban ends -->
 
 </td>
