@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-爱情就像在海滩上捡贝壳，不要捡最大的， 也不要捡最漂亮的，要捡就捡自己最喜欢的，最重要的是捡到了自己喜欢的 就永远不要再去海边了。
+小时候以为最浪漫的事，是一个人走很远的路去看另一个人，现在明白最浪漫的事，是一个人不管走多远的路，心里想的念的都是同一个人。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35662223/' target='_blank'>去有风的地方</a> | 2023-07-23 |
 | 读过 <a href='https://book.douban.com/subject/33440045/' target='_blank'>高效休息法</a> | 2023-07-16 |
 | 读过 <a href='https://book.douban.com/subject/36093214/' target='_blank'>四千周</a> | 2023-07-05 |
 | 读过 <a href='https://book.douban.com/subject/25930025/' target='_blank'>只是为了好玩</a> | 2023-06-26 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/34870933/' target='_blank'>人生十二法则</a> | 2023-05-26 |
 | 看过 <a href='http://movie.douban.com/subject/35588177/' target='_blank'>漫长的季节</a> | 2023-05-11 |
 | 最近 <a href='http://www.douban.com/game/26817171/' target='_blank'>在玩塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2023-05-07 |
-| 读过 <a href='https://book.douban.com/subject/2347737/' target='_blank'>深夜加油站遇见苏格拉底</a> | 2023-04-19 |
 <!-- douban ends -->
 
 </td>
