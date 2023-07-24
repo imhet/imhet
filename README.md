@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-小时候以为最浪漫的事，是一个人走很远的路去看另一个人，现在明白最浪漫的事，是一个人不管走多远的路，心里想的念的都是同一个人。
+天下只有两种人。比如一串葡萄到手，一种人挑好的吃，另一种人把最好的留到最后吃。照例第一种人应该乐观，因为他每吃一颗都是吃剩的葡萄里最好的；第二种人应该悲观，因为他每吃一颗都是吃剩的葡萄里最坏的。不过事实却适得其反，缘故是第二种人还有希望，第一种人只有回忆。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,8 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-002' target='_blank'>涛然自得周刊（第02期）：去有风的地方找回初心</a> | 2023-07-23 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-001' target='_blank'>涛然自得周刊（第01期）：重启</a> | 2023-07-16 |
 | 发布 <a href='http://heyitao.com/post/reading-doom' target='_blank'>如何创造一个伟大的游戏？《DOOM启示录》读书笔记</a> | 2023-06-18 |
 | 发布 <a href='http://heyitao.com/post/write-for-think' target='_blank'>为思考而公开写作</a> | 2023-02-06 |
 | 发布 <a href='http://heyitao.com/post/reading-shaoniankaige' target='_blank'>那个群魔乱舞的时代-读《少年凯歌》</a> | 2023-02-04 |
@@ -48,8 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-sitongna' target='_blank'>一位学者追求自我的一生 - 读《斯通纳》</a> | 2022-10-19 |
 | 发布 <a href='http://heyitao.com/post/reading-klmzfxd' target='_blank'>世界小说的巅峰《卡拉马佐夫兄弟》读书笔记</a> | 2022-10-14 |
 | 发布 <a href='http://heyitao.com/post/reading-kpbjxzf' target='_blank'>用卡片笔记法打造高效的写作系统</a> | 2022-04-22 |
-| 发布 <a href='http://heyitao.com/post/reading-xiezuozhejianshi' target='_blank'>写出我心 - 读《写作这件事》</a> | 2022-02-27 |
-| 发布 <a href='http://heyitao.com/post/reading-smgm' target='_blank'>如何提升睡眠质量 - 读《睡眠革命》</a> | 2021-08-14 |
 <!-- blog ends -->
 
 </td>
