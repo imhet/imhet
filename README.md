@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-要么庸俗，要么孤独。
+年轻的时候以为不读书不足以了解人生，直到后来才发现如果不了解人生，是读不懂书的。读书的意义大概就是用生活所感去读书，用读书所得去生活吧。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/36035676/' target='_blank'>长安三万里</a> | 2023-07-29 |
 | 看过 <a href='http://movie.douban.com/subject/35662223/' target='_blank'>去有风的地方</a> | 2023-07-23 |
 | 读过 <a href='https://book.douban.com/subject/33440045/' target='_blank'>高效休息法</a> | 2023-07-16 |
 | 读过 <a href='https://book.douban.com/subject/36093214/' target='_blank'>四千周</a> | 2023-07-05 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/25819842/' target='_blank'>佛陀传</a> | 2023-06-09 |
 | 读过 <a href='https://book.douban.com/subject/34870933/' target='_blank'>人生十二法则</a> | 2023-05-26 |
 | 看过 <a href='http://movie.douban.com/subject/35588177/' target='_blank'>漫长的季节</a> | 2023-05-11 |
-| 最近 <a href='http://www.douban.com/game/26817171/' target='_blank'>在玩塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2023-05-07 |
 <!-- douban ends -->
 
 </td>
