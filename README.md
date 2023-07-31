@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-年轻的时候以为不读书不足以了解人生，直到后来才发现如果不了解人生，是读不懂书的。读书的意义大概就是用生活所感去读书，用读书所得去生活吧。
+年轻时，你希望成为大明星。随着年龄的增长，你的目标降低了一些，希望打动别人，在这个世界上留下印记。后来，你就会想，只要熬过去了，有几个人记得你的名字，就已经在这个世界上留下了印记。你没必要去影响整个世界，还是好好享受生活为好。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-003' target='_blank'>涛然自得周刊（第03期）：莫愁前路无知己</a> | 2023-07-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-002' target='_blank'>涛然自得周刊（第02期）：去有风的地方找回初心</a> | 2023-07-23 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-001' target='_blank'>涛然自得周刊（第01期）：重启</a> | 2023-07-16 |
 | 发布 <a href='http://heyitao.com/post/reading-doom' target='_blank'>如何创造一个伟大的游戏？《DOOM启示录》读书笔记</a> | 2023-06-18 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-cmrdsj' target='_blank'>你过的是你自己的生活，还是按着别人期待你的样子来生活？</a> | 2022-12-12 |
 | 发布 <a href='http://heyitao.com/post/reading-sitongna' target='_blank'>一位学者追求自我的一生 - 读《斯通纳》</a> | 2022-10-19 |
 | 发布 <a href='http://heyitao.com/post/reading-klmzfxd' target='_blank'>世界小说的巅峰《卡拉马佐夫兄弟》读书笔记</a> | 2022-10-14 |
-| 发布 <a href='http://heyitao.com/post/reading-kpbjxzf' target='_blank'>用卡片笔记法打造高效的写作系统</a> | 2022-04-22 |
 <!-- blog ends -->
 
 </td>
