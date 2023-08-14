@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-在一回首间，才忽然发现，原来，我一生的种种努力，不过只为了周遭的人对我满意而已。为了搏得他人的称许与微笑，我战战兢兢地将自己套入所有的模式所有的桎梏。走到途中才忽然发现，我只剩下一副模糊的面目，和一条不能回头的路。
+金钱的作用被高估了。真正的创新很少需要大量资金，否则大公司将垄断创新。相反，几乎所有的突破都是由那些缺乏钱的人实现的，正是因为他们资源有限，才被迫进行创新，依靠自己的热情、毅力和独创性来寻找新的方法。资源不足是创新的优势。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-004' target='_blank'>涛然自得周刊（第04期）：中世纪女性的悲歌</a> | 2023-08-13 |
 | 发布 <a href='http://heyitao.com/post/novel-ysscrjh' target='_blank'>当印刷术传入江湖</a> | 2023-08-05 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-003' target='_blank'>涛然自得周刊（第03期）：莫愁前路无知己</a> | 2023-07-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-002' target='_blank'>涛然自得周刊（第02期）：去有风的地方找回初心</a> | 2023-07-23 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/reading-shaoniankaige' target='_blank'>那个群魔乱舞的时代-读《少年凯歌》</a> | 2023-02-04 |
 | 发布 <a href='http://heyitao.com/post/reading-cxrsnzj' target='_blank'>昨日已在昨日逝</a> | 2022-12-12 |
 | 发布 <a href='http://heyitao.com/post/reading-cmrdsj' target='_blank'>你过的是你自己的生活，还是按着别人期待你的样子来生活？</a> | 2022-12-12 |
-| 发布 <a href='http://heyitao.com/post/reading-sitongna' target='_blank'>一位学者追求自我的一生 - 读《斯通纳》</a> | 2022-10-19 |
 <!-- blog ends -->
 
 </td>
