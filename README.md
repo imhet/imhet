@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-每个人都忙着赶路，或忙着寻找什么，或忙着赶上别人，其实，更多时候，他们只是在忙着追赶自己。
+我从未拥有过你一秒钟，心里却失去过你千万次。
 ```
 <!-- juzi ends -->
 
@@ -23,7 +23,11 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/36035676/' target='_blank'>长安三万里</a> | 2023-07-29 |
 | 看过 <a href='http://movie.douban.com/subject/35662223/' target='_blank'>去有风的地方</a> | 2023-07-23 |
 | 读过 <a href='https://book.douban.com/subject/33440045/' target='_blank'>高效休息法</a> | 2023-07-16 |
+| 读过 <a href='https://book.douban.com/subject/36093214/' target='_blank'>四千周</a> | 2023-07-05 |
+| 读过 <a href='https://book.douban.com/subject/25930025/' target='_blank'>只是为了好玩</a> | 2023-06-26 |
 | 看过 <a href='http://movie.douban.com/subject/34941536/' target='_blank'>宇宙探索编辑部</a> | 2023-06-24 |
+| 读过 <a href='https://book.douban.com/subject/26642310/' target='_blank'>DOOM启世录</a> | 2023-06-17 |
+| 读过 <a href='https://book.douban.com/subject/25819842/' target='_blank'>佛陀传</a> | 2023-06-09 |
 <!-- douban ends -->
 
 </td>
