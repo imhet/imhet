@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-首先他们会忽略你，接着他们会嘲笑你，然后他们会打你，最后他们会输给你。
+努力不一定成功，但不努力一定很轻松。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-005' target='_blank'>涛然自得周刊（第05期）：蝲蛄吟唱的地方</a> | 2023-08-19 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-004' target='_blank'>涛然自得周刊（第04期）：中世纪女性的悲歌</a> | 2023-08-13 |
 | 发布 <a href='http://heyitao.com/post/novel-ysscrjh' target='_blank'>当印刷术传入江湖</a> | 2023-08-05 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-003' target='_blank'>涛然自得周刊（第03期）：莫愁前路无知己</a> | 2023-07-30 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/write-for-think' target='_blank'>为思考而公开写作</a> | 2023-02-06 |
 | 发布 <a href='http://heyitao.com/post/reading-shaoniankaige' target='_blank'>那个群魔乱舞的时代-读《少年凯歌》</a> | 2023-02-04 |
 | 发布 <a href='http://heyitao.com/post/reading-cxrsnzj' target='_blank'>昨日已在昨日逝</a> | 2022-12-12 |
-| 发布 <a href='http://heyitao.com/post/reading-cmrdsj' target='_blank'>你过的是你自己的生活，还是按着别人期待你的样子来生活？</a> | 2022-12-12 |
 <!-- blog ends -->
 
 </td>
