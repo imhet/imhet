@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人生不是走斜坡，你持续走就可以走到巅峰；人生像走阶梯，每一阶有每一阶的难点，学物理有物理的难点，学漫画有漫画的难点，你没有克服难点，再怎么努力都是原地跳。所以当你克服难点，你跳上去就不会下来了。
+不乱于心，不困于情。不畏将来，不念过往。如此，安好。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/34998019/' target='_blank'>秋园</a> | 2023-08-21 |
 | 看过 <a href='http://movie.douban.com/subject/26642033/' target='_blank'>小黄人大眼萌：神偷奶爸前传</a> | 2023-08-05 |
 | 看过 <a href='http://movie.douban.com/subject/34658290/' target='_blank'>最后的决斗</a> | 2023-08-05 |
 | 看过 <a href='http://movie.douban.com/subject/36035676/' target='_blank'>长安三万里</a> | 2023-07-29 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/25930025/' target='_blank'>只是为了好玩</a> | 2023-06-26 |
 | 看过 <a href='http://movie.douban.com/subject/34941536/' target='_blank'>宇宙探索编辑部</a> | 2023-06-24 |
 | 读过 <a href='https://book.douban.com/subject/26642310/' target='_blank'>DOOM启世录</a> | 2023-06-17 |
-| 读过 <a href='https://book.douban.com/subject/25819842/' target='_blank'>佛陀传</a> | 2023-06-09 |
 <!-- douban ends -->
 
 </td>
