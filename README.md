@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-勤奋工作，满怀感谢之心，思善行善，真挚地反省，严格地自律，在日常生活中不懈地磨炼心志、提升人格。换句话说，全力以赴去做好上述理所当然的事情，这就是人活着的意义之所在。我认为，除此之外，人生再无别的意义。
+为了让我们对自己的工作满意，我们有必要给自己从事的工作赋予意义。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/36413459/' target='_blank'>10x Is Easier Than 2x</a> | 2023-08-30 |
 | 读过 <a href='https://book.douban.com/subject/34998019/' target='_blank'>秋园</a> | 2023-08-21 |
 | 看过 <a href='http://movie.douban.com/subject/26642033/' target='_blank'>小黄人大眼萌：神偷奶爸前传</a> | 2023-08-05 |
 | 看过 <a href='http://movie.douban.com/subject/34658290/' target='_blank'>最后的决斗</a> | 2023-08-05 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/36093214/' target='_blank'>四千周</a> | 2023-07-05 |
 | 读过 <a href='https://book.douban.com/subject/25930025/' target='_blank'>只是为了好玩</a> | 2023-06-26 |
 | 看过 <a href='http://movie.douban.com/subject/34941536/' target='_blank'>宇宙探索编辑部</a> | 2023-06-24 |
-| 读过 <a href='https://book.douban.com/subject/26642310/' target='_blank'>DOOM启世录</a> | 2023-06-17 |
 <!-- douban ends -->
 
 </td>
