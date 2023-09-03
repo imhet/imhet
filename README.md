@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-成功只有一个 - 按照自己的方式，去度过人生。
+也许宇宙中最违反直觉的真理就是，你给予他人越多，你收获的就越多。这是智慧的起点。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第07期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第06期）：韩版苏东坡的突围</a> | 2023-08-27 |
 | 发布 <a href='http://heyitao.com/post/choose-unpopular-major' target='_blank'>当年选择冷门专业的你现在怎么样了</a> | 2023-08-23 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-005' target='_blank'>涛然自得周刊（第05期）：蝲蛄吟唱的地方</a> | 2023-08-19 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-002' target='_blank'>涛然自得周刊（第02期）：去有风的地方找回初心</a> | 2023-07-23 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-001' target='_blank'>涛然自得周刊（第01期）：重启</a> | 2023-07-16 |
 | 发布 <a href='http://heyitao.com/post/reading-doom' target='_blank'>如何创造一个伟大的游戏？《DOOM启示录》读书笔记</a> | 2023-06-18 |
-| 发布 <a href='http://heyitao.com/post/write-for-think' target='_blank'>为思考而公开写作</a> | 2023-02-06 |
 <!-- blog ends -->
 
 </td>
