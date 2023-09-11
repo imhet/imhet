@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-或许有一天你鼓起勇气，把心中的一切和盘托出，结果只落得让别人看笑话，因为他们压根儿不懂你在说什么，也不知道你为什么觉得事情那么重要，说着说着，几乎要哭了出来。我想普天下最糟的事，莫过于怀着满腔心事与秘密，却非无人可诉，而是没有人听得懂。
+道德用于自律时，好过一切法律；道德用于律人时，坏过一切私刑。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-008' target='_blank'>涛然自得周刊（第 8 期）：希望就在云后面，走不动就往前看</a> | 2023-09-10 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第07期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第06期）：韩版苏东坡的突围</a> | 2023-08-27 |
 | 发布 <a href='http://heyitao.com/post/choose-unpopular-major' target='_blank'>当年选择冷门专业的你现在怎么样了</a> | 2023-08-23 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-003' target='_blank'>涛然自得周刊（第03期）：莫愁前路无知己</a> | 2023-07-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-002' target='_blank'>涛然自得周刊（第02期）：去有风的地方找回初心</a> | 2023-07-23 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-001' target='_blank'>涛然自得周刊（第01期）：重启</a> | 2023-07-16 |
-| 发布 <a href='http://heyitao.com/post/reading-doom' target='_blank'>如何创造一个伟大的游戏？《DOOM启示录》读书笔记</a> | 2023-06-18 |
 <!-- blog ends -->
 
 </td>
