@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我们提倡“三个凡是”：凡是用户提的问题，一定要追根述源，找到问题的原因，从用户的角度想解决的方案；凡是负面的信息，即使是对手的枪稿，也要找到可以改进产品的启发点；凡是竞争对手的产品，都必然有学习借鉴的优点。
+真正的狼性，不在于吼叫和撕咬，而在于围猎前的隐忍。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-009' target='_blank'>涛然自得周刊（第 9 期）：孤筏重洋</a> | 2023-09-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-008' target='_blank'>涛然自得周刊（第 8 期）：希望就在云后面，走不动就往前看</a> | 2023-09-10 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第07期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第06期）：韩版苏东坡的突围</a> | 2023-08-27 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/novel-ysscrjh' target='_blank'>当印刷术传入江湖</a> | 2023-08-05 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-003' target='_blank'>涛然自得周刊（第03期）：莫愁前路无知己</a> | 2023-07-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-002' target='_blank'>涛然自得周刊（第02期）：去有风的地方找回初心</a> | 2023-07-23 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-001' target='_blank'>涛然自得周刊（第01期）：重启</a> | 2023-07-16 |
 <!-- blog ends -->
 
 </td>
