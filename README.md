@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-于是我们艰难地前行，像小船逆流而上，不断地被推回到过去。
+最让人有成就感的工作有一些共同的特质，它要求我们发挥最好的水平，但要能为我们自己所掌控而不是取决于他人。要求高但毫无自主权的工作将榨干我们；有自主权但没有什么挑战的工作又让我们失望；而那些既无要求也不为我们控制的工作是最糟糕的。如果你的工作既不能提供挑战又没有自主权，而且你又没有办法让事情变得更好，那就考虑换工作吧。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-010' target='_blank'>涛然自得周刊（第 10 期）：搬到海岛生活是一种什么体验</a> | 2023-09-23 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-009' target='_blank'>涛然自得周刊（第 9 期）：孤筏重洋</a> | 2023-09-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-008' target='_blank'>涛然自得周刊（第 8 期）：希望就在云后面，走不动就往前看</a> | 2023-09-10 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第07期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-004' target='_blank'>涛然自得周刊（第04期）：中世纪女性的悲歌</a> | 2023-08-13 |
 | 发布 <a href='http://heyitao.com/post/novel-ysscrjh' target='_blank'>当印刷术传入江湖</a> | 2023-08-05 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-003' target='_blank'>涛然自得周刊（第03期）：莫愁前路无知己</a> | 2023-07-30 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-002' target='_blank'>涛然自得周刊（第02期）：去有风的地方找回初心</a> | 2023-07-23 |
 <!-- blog ends -->
 
 </td>
