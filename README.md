@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人的情绪和脑力在一天之中会有所波动。对于大多数人来说，情绪变化遵循共同的模式：高峰、低谷和反弹。这有助于塑造一种双重能力模式。早晨，在脑力高峰期间，大多数人都擅长解决“琳达问题”，即分析型的工作，这类工作需要敏锐、警觉和注意力高度集中。一天中的晚些时候，在情绪回升期，大多数人会更善于解决硬币难题，即需要较少抑制和专注的洞察力问题（只有极少数人在午间低谷时更善于解决此类问题，我将在下一章进行解释）。我们就像德梅朗的那盆含羞草，能力遵循着身体的生物钟自觉开合，不受主观控制。
+在你成为领导者之前，成功的全部就是自我成长；当你成了领导者，成功的全部就变成帮助他人成长。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/1175396/' target='_blank'>跳出盒子</a> | 2023-09-25 |
 | 读过 <a href='https://book.douban.com/subject/36413459/' target='_blank'>10x Is Easier Than 2x</a> | 2023-08-30 |
 | 读过 <a href='https://book.douban.com/subject/34998019/' target='_blank'>秋园</a> | 2023-08-21 |
 | 看过 <a href='http://movie.douban.com/subject/26642033/' target='_blank'>小黄人大眼萌：神偷奶爸前传</a> | 2023-08-05 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/33440045/' target='_blank'>高效休息法</a> | 2023-07-16 |
 | 读过 <a href='https://book.douban.com/subject/36093214/' target='_blank'>四千周</a> | 2023-07-05 |
 | 读过 <a href='https://book.douban.com/subject/25930025/' target='_blank'>只是为了好玩</a> | 2023-06-26 |
-| 看过 <a href='http://movie.douban.com/subject/34941536/' target='_blank'>宇宙探索编辑部</a> | 2023-06-24 |
 <!-- douban ends -->
 
 </td>
