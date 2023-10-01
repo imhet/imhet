@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-成熟的人做该做的事，而非只做喜欢的事。
+勇敢地面对眼前的难题，全力以赴，逐一解决。将意识集中于迈出去的每一步，同时，还要以尽可能长的眼光去看待问题，尽可能远地去眺望风景。
 ```
 <!-- juzi ends -->
 
@@ -40,7 +40,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
-
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-011' target='_blank'>涛然自得周刊（第 11 期）：我们为什么总是忍不住买买买</a> | 2023-09-30 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-010' target='_blank'>涛然自得周刊（第 10 期）：搬到海岛生活是一种什么体验</a> | 2023-09-23 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-009' target='_blank'>涛然自得周刊（第 9 期）：孤筏重洋</a> | 2023-09-16 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-008' target='_blank'>涛然自得周刊（第 8 期）：希望就在云后面，走不动就往前看</a> | 2023-09-10 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第07期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第06期）：韩版苏东坡的突围</a> | 2023-08-27 |
+| 发布 <a href='http://heyitao.com/post/choose-unpopular-major' target='_blank'>当年选择冷门专业的你现在怎么样了</a> | 2023-08-23 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-005' target='_blank'>涛然自得周刊（第05期）：蝲蛄吟唱的地方</a> | 2023-08-19 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-004' target='_blank'>涛然自得周刊（第04期）：中世纪女性的悲歌</a> | 2023-08-13 |
+| 发布 <a href='http://heyitao.com/post/novel-ysscrjh' target='_blank'>当印刷术传入江湖</a> | 2023-08-05 |
 <!-- blog ends -->
 
 </td>
