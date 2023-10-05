@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-这世上，本就没有任何一句话，可以让你醍醐灌顶。真正让你醍醐灌顶的，只能是一段经历。而那句话，只是火药仓库内划燃的一根火柴。
+最让人有成就感的工作有一些共同的特质，它要求我们发挥最好的水平，但要能为我们自己所掌控而不是取决于他人。要求高但毫无自主权的工作将榨干我们；有自主权但没有什么挑战的工作又让我们失望；而那些既无要求也不为我们控制的工作是最糟糕的。如果你的工作既不能提供挑战又没有自主权，而且你又没有办法让事情变得更好，那就考虑换工作吧。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a> | 2023-10-05 |
 | 读过 <a href='https://book.douban.com/subject/1175396/' target='_blank'>跳出盒子</a> | 2023-09-25 |
 | 读过 <a href='https://book.douban.com/subject/36413459/' target='_blank'>10x Is Easier Than 2x</a> | 2023-08-30 |
 | 读过 <a href='https://book.douban.com/subject/34998019/' target='_blank'>秋园</a> | 2023-08-21 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35662223/' target='_blank'>去有风的地方</a> | 2023-07-23 |
 | 读过 <a href='https://book.douban.com/subject/33440045/' target='_blank'>高效休息法</a> | 2023-07-16 |
 | 读过 <a href='https://book.douban.com/subject/36093214/' target='_blank'>四千周</a> | 2023-07-05 |
-| 读过 <a href='https://book.douban.com/subject/25930025/' target='_blank'>只是为了好玩</a> | 2023-06-26 |
 <!-- douban ends -->
 
 </td>
