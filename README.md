@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-谁想看清尘世就应当同它保持必要的距离。
+你既可以专注于服务你的客户或听众，也可以专注于打败你的竞争对手。两者都行得通。但专注于服务你的客户会让你走得更远。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/36314870/' target='_blank'>厌女</a> | 2023-10-10 |
 | 看过 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a> | 2023-10-05 |
 | 读过 <a href='https://book.douban.com/subject/1175396/' target='_blank'>跳出盒子</a> | 2023-09-25 |
 | 读过 <a href='https://book.douban.com/subject/36413459/' target='_blank'>10x Is Easier Than 2x</a> | 2023-08-30 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/36035676/' target='_blank'>长安三万里</a> | 2023-07-29 |
 | 看过 <a href='http://movie.douban.com/subject/35662223/' target='_blank'>去有风的地方</a> | 2023-07-23 |
 | 读过 <a href='https://book.douban.com/subject/33440045/' target='_blank'>高效休息法</a> | 2023-07-16 |
-| 读过 <a href='https://book.douban.com/subject/36093214/' target='_blank'>四千周</a> | 2023-07-05 |
 <!-- douban ends -->
 
 </td>
