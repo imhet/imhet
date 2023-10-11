@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你既可以专注于服务你的客户或听众，也可以专注于打败你的竞争对手。两者都行得通。但专注于服务你的客户会让你走得更远。
+当你愿意就一个问题深入七层时，总能找到你想要的答案。如果你求教的第一层人不知道，那么就问问他们应该去找谁。如此追索下去。到第七层时，通常都会如愿以偿。
 ```
 <!-- juzi ends -->
 
@@ -45,11 +45,11 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-010' target='_blank'>涛然自得周刊（第 10 期）：搬到海岛生活是一种什么体验</a> | 2023-09-23 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-009' target='_blank'>涛然自得周刊（第 9 期）：孤筏重洋</a> | 2023-09-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-008' target='_blank'>涛然自得周刊（第 8 期）：希望就在云后面，走不动就往前看</a> | 2023-09-10 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第07期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第06期）：韩版苏东坡的突围</a> | 2023-08-27 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第 7 期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第 6 期）：韩版苏东坡的突围</a> | 2023-08-27 |
 | 发布 <a href='http://heyitao.com/post/choose-unpopular-major' target='_blank'>当年选择冷门专业的你现在怎么样了</a> | 2023-08-23 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-005' target='_blank'>涛然自得周刊（第05期）：蝲蛄吟唱的地方</a> | 2023-08-19 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-004' target='_blank'>涛然自得周刊（第04期）：中世纪女性的悲歌</a> | 2023-08-13 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-005' target='_blank'>涛然自得周刊（第 5 期）：蝲蛄吟唱的地方</a> | 2023-08-19 |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-004' target='_blank'>涛然自得周刊（第 4 期）：中世纪女性的悲歌</a> | 2023-08-13 |
 <!-- blog ends -->
 
 </td>
