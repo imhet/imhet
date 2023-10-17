@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-在一回首间，才忽然发现，原来，我一生的种种努力，不过只为了周遭的人对我满意而已。为了搏得他人的称许与微笑，我战战兢兢地将自己套入所有的模式所有的桎梏。走到途中才忽然发现，我只剩下一副模糊的面目，和一条不能回头的路。
+人在年轻的时候想成为任何人，除了自己。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-013' target='_blank'>涛然自得周刊（第 13 期）：1200年前的缅北往事</a> | 2023-10-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-012' target='_blank'>涛然自得周刊（第 12 期）：一念心清净，莲花处处开</a> | 2023-10-08 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-011' target='_blank'>涛然自得周刊（第 11 期）：我们为什么总是忍不住买买买</a> | 2023-09-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-010' target='_blank'>涛然自得周刊（第 10 期）：搬到海岛生活是一种什么体验</a> | 2023-09-23 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第 6 期）：韩版苏东坡的突围</a> | 2023-08-27 |
 | 发布 <a href='http://heyitao.com/post/choose-unpopular-major' target='_blank'>当年选择冷门专业的你现在怎么样了</a> | 2023-08-23 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-005' target='_blank'>涛然自得周刊（第 5 期）：蝲蛄吟唱的地方</a> | 2023-08-19 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-004' target='_blank'>涛然自得周刊（第 4 期）：中世纪女性的悲歌</a> | 2023-08-13 |
 <!-- blog ends -->
 
 </td>
