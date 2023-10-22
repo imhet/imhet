@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-在一回首间，才忽然发现，原来，我一生的种种努力，不过只为了周遭的人对我满意而已。为了搏得他人的称许与微笑，我战战兢兢地将自己套入所有的模式所有的桎梏。走到途中才忽然发现，我只剩下一副模糊的面目，和一条不能回头的路。
+培善自信的方法，那就是做你所怕做的事，去获得一次成功经验的记录。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/36415996/' target='_blank'>金钱心理学</a> | 2023-10-21 |
 | 读过 <a href='https://book.douban.com/subject/36314870/' target='_blank'>厌女</a> | 2023-10-10 |
 | 看过 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a> | 2023-10-05 |
 | 读过 <a href='https://book.douban.com/subject/1175396/' target='_blank'>跳出盒子</a> | 2023-09-25 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/34658290/' target='_blank'>最后的决斗</a> | 2023-08-05 |
 | 看过 <a href='http://movie.douban.com/subject/36035676/' target='_blank'>长安三万里</a> | 2023-07-29 |
 | 看过 <a href='http://movie.douban.com/subject/35662223/' target='_blank'>去有风的地方</a> | 2023-07-23 |
-| 读过 <a href='https://book.douban.com/subject/33440045/' target='_blank'>高效休息法</a> | 2023-07-16 |
 <!-- douban ends -->
 
 </td>
