@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-培善自信的方法，那就是做你所怕做的事，去获得一次成功经验的记录。
+如果你因为我个子矮而取笑我的话，那么我就砍下你的头，来取消这个差距。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-014' target='_blank'>涛然自得周刊（第 14 期）：古龙风格探案剧《侠探简不知》</a> | 2023-10-22 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-013' target='_blank'>涛然自得周刊（第 13 期）：1200年前的缅北往事</a> | 2023-10-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-012' target='_blank'>涛然自得周刊（第 12 期）：一念心清净，莲花处处开</a> | 2023-10-08 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-011' target='_blank'>涛然自得周刊（第 11 期）：我们为什么总是忍不住买买买</a> | 2023-09-30 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第 7 期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第 6 期）：韩版苏东坡的突围</a> | 2023-08-27 |
 | 发布 <a href='http://heyitao.com/post/choose-unpopular-major' target='_blank'>当年选择冷门专业的你现在怎么样了</a> | 2023-08-23 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-005' target='_blank'>涛然自得周刊（第 5 期）：蝲蛄吟唱的地方</a> | 2023-08-19 |
 <!-- blog ends -->
 
 </td>
