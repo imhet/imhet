@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-凡所有相，皆是虚妄。若见诸相非相，则见如来。
+人生不是走斜坡，你持续走就可以走到巅峰；人生像走阶梯，每一阶有每一阶的难点，学物理有物理的难点，学漫画有漫画的难点，你没有克服难点，再怎么努力都是原地跳。所以当你克服难点，你跳上去就不会下来了。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-015' target='_blank'>涛然自得周刊 No.15 ：繁城之下无净土</a> | 2023-10-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-014' target='_blank'>涛然自得周刊（第 14 期）：古龙风格探案剧《侠探简不知》</a> | 2023-10-22 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-013' target='_blank'>涛然自得周刊（第 13 期）：1200年前的缅北往事</a> | 2023-10-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-012' target='_blank'>涛然自得周刊（第 12 期）：一念心清净，莲花处处开</a> | 2023-10-08 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-008' target='_blank'>涛然自得周刊（第 8 期）：希望就在云后面，走不动就往前看</a> | 2023-09-10 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第 7 期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第 6 期）：韩版苏东坡的突围</a> | 2023-08-27 |
-| 发布 <a href='http://heyitao.com/post/choose-unpopular-major' target='_blank'>当年选择冷门专业的你现在怎么样了</a> | 2023-08-23 |
 <!-- blog ends -->
 
 </td>
