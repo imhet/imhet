@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人生不是走斜坡，你持续走就可以走到巅峰；人生像走阶梯，每一阶有每一阶的难点，学物理有物理的难点，学漫画有漫画的难点，你没有克服难点，再怎么努力都是原地跳。所以当你克服难点，你跳上去就不会下来了。
+我相信一万小时定律，我从来不相信天上掉馅饼的灵感和坐等的成就。做一个自由又自律的人，靠势必实现的决心认真地活着。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/36193112/' target='_blank'>盐镇</a> | 2023-10-31 |
 | 看过 <a href='http://movie.douban.com/subject/35725842/' target='_blank'>繁城之下</a> | 2023-10-26 |
 | 读过 <a href='https://book.douban.com/subject/36415996/' target='_blank'>金钱心理学</a> | 2023-10-21 |
 | 读过 <a href='https://book.douban.com/subject/36314870/' target='_blank'>厌女</a> | 2023-10-10 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/34998019/' target='_blank'>秋园</a> | 2023-08-21 |
 | 看过 <a href='http://movie.douban.com/subject/26642033/' target='_blank'>小黄人大眼萌：神偷奶爸前传</a> | 2023-08-05 |
 | 看过 <a href='http://movie.douban.com/subject/34658290/' target='_blank'>最后的决斗</a> | 2023-08-05 |
-| 看过 <a href='http://movie.douban.com/subject/36035676/' target='_blank'>长安三万里</a> | 2023-07-29 |
 <!-- douban ends -->
 
 </td>
