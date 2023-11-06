@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果快乐太难，那我祝你平安。
+虽然我们互相笑着说回头见，但我们都心知肚明，分离即永别。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/35556905/' target='_blank'>小镇奇谈</a> | 2023-11-05 |
 | 读过 <a href='https://book.douban.com/subject/36193112/' target='_blank'>盐镇</a> | 2023-10-31 |
 | 看过 <a href='http://movie.douban.com/subject/35725842/' target='_blank'>繁城之下</a> | 2023-10-26 |
 | 读过 <a href='https://book.douban.com/subject/36415996/' target='_blank'>金钱心理学</a> | 2023-10-21 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/36413459/' target='_blank'>10x Is Easier Than 2x</a> | 2023-08-30 |
 | 读过 <a href='https://book.douban.com/subject/34998019/' target='_blank'>秋园</a> | 2023-08-21 |
 | 看过 <a href='http://movie.douban.com/subject/26642033/' target='_blank'>小黄人大眼萌：神偷奶爸前传</a> | 2023-08-05 |
-| 看过 <a href='http://movie.douban.com/subject/34658290/' target='_blank'>最后的决斗</a> | 2023-08-05 |
 <!-- douban ends -->
 
 </td>
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-016' target='_blank'>涛然自得周刊 No.16 ：努力是没有用的</a> | 2023-11-05 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-015' target='_blank'>涛然自得周刊 No.15 ：繁城之下无净土</a> | 2023-10-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-014' target='_blank'>涛然自得周刊（第 14 期）：古龙风格探案剧《侠探简不知》</a> | 2023-10-22 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-013' target='_blank'>涛然自得周刊（第 13 期）：1200年前的缅北往事</a> | 2023-10-16 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-009' target='_blank'>涛然自得周刊（第 9 期）：孤筏重洋</a> | 2023-09-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-008' target='_blank'>涛然自得周刊（第 8 期）：希望就在云后面，走不动就往前看</a> | 2023-09-10 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-007' target='_blank'>涛然自得周刊（第 7 期）：近代高僧虚云法师的一生</a> | 2023-09-02 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-006' target='_blank'>涛然自得周刊（第 6 期）：韩版苏东坡的突围</a> | 2023-08-27 |
 <!-- blog ends -->
 
 </td>
