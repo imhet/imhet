@@ -58,4 +58,4 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 </table>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=imhet.imhet)
+[![Page Views Count](https://badges.toozhao.com/badges/01HG0ZMWVAHYZ149GQ6Z5JYVF5/green.svg)](https://badges.toozhao.com/stats/01HG0ZMWVAHYZ149GQ6Z5JYVF5 "Get your own page views count badge on badges.toozhao.com")
