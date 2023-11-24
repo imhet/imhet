@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-成熟的人做该做的事，而非只做喜欢的事。
+不乱于心，不困于情。不畏将来，不念过往。如此，安好。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-018' target='_blank'>涛然自得周刊 No.18 ：职场中被忽视的秘密武器</a> | 2023-11-22 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-017' target='_blank'>涛然自得周刊 No.17 ：如何超过大多数人</a> | 2023-11-13 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-016' target='_blank'>涛然自得周刊 No.16 ：努力是没有用的</a> | 2023-11-05 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-015' target='_blank'>涛然自得周刊 No.15 ：繁城之下无净土</a> | 2023-10-30 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-011' target='_blank'>涛然自得周刊 No.11 ：我们为什么总是忍不住买买买</a> | 2023-09-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-010' target='_blank'>涛然自得周刊 No.10 ：搬到海岛生活是一种什么体验</a> | 2023-09-23 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-009' target='_blank'>涛然自得周刊 No.9：孤筏重洋</a> | 2023-09-16 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-008' target='_blank'>涛然自得周刊 No.8 ：希望就在云后面，走不动就往前看</a> | 2023-09-10 |
 <!-- blog ends -->
 
 </td>
