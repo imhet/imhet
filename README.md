@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-高阶层人士首先需要具备良好的硬件，能保证软件如信息输入能力、存储能力、整合能力的最大化运作。产出能力也必须一流，最好是别人从未创造、生产出的产品。
+你在广告公司干的活大多只是日常的例行公事。要是干得不错，你会得到一步步的升迁。但是只有在出现突出的时机的时候，你才会有最可贵的机会。诀窍是重大时机出现的时候你要能识别它、抓住它。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/36242339/' target='_blank'>最优解人生</a> | 2023-11-29 |
 | 读过 <a href='https://book.douban.com/subject/35556905/' target='_blank'>小镇奇谈</a> | 2023-11-05 |
 | 读过 <a href='https://book.douban.com/subject/36193112/' target='_blank'>盐镇</a> | 2023-10-31 |
 | 看过 <a href='http://movie.douban.com/subject/35725842/' target='_blank'>繁城之下</a> | 2023-10-26 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/1175396/' target='_blank'>跳出盒子</a> | 2023-09-25 |
 | 读过 <a href='https://book.douban.com/subject/36413459/' target='_blank'>10x Is Easier Than 2x</a> | 2023-08-30 |
 | 读过 <a href='https://book.douban.com/subject/34998019/' target='_blank'>秋园</a> | 2023-08-21 |
-| 看过 <a href='http://movie.douban.com/subject/26642033/' target='_blank'>小黄人大眼萌：神偷奶爸前传</a> | 2023-08-05 |
 <!-- douban ends -->
 
 </td>
