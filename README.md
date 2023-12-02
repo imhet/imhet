@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-唯有深刻地认识事物，才能对任何世界的复杂性有了解和体谅，才有不轻易责难和赞美的思维习惯。
+深思者虑远，登高者望远，轻履者行远。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-019' target='_blank'>涛然自得周刊 No.19 ：如何创作杰出的作品</a> | 2023-12-01 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-018' target='_blank'>涛然自得周刊 No.18 ：职场中被忽视的秘密武器</a> | 2023-11-22 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-017' target='_blank'>涛然自得周刊 No.17 ：如何超过大多数人</a> | 2023-11-13 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-016' target='_blank'>涛然自得周刊 No.16 ：努力是没有用的</a> | 2023-11-05 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-012' target='_blank'>涛然自得周刊 No.12 ：一念心清净，莲花处处开</a> | 2023-10-08 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-011' target='_blank'>涛然自得周刊 No.11 ：我们为什么总是忍不住买买买</a> | 2023-09-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-010' target='_blank'>涛然自得周刊 No.10 ：搬到海岛生活是一种什么体验</a> | 2023-09-23 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-009' target='_blank'>涛然自得周刊 No.9：孤筏重洋</a> | 2023-09-16 |
 <!-- blog ends -->
 
 </td>
