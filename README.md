@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-培善自信的方法，那就是做你所怕做的事，去获得一次成功经验的记录。
+把你的生活想象成两条高速公路：一条路上代表着你擅长的事情，另一条代表着你真正喜欢做的事情。现在，想象一下这两条高速公路交叉的情景。你的幸福与你的能力实现了交叉，没错，这个交叉点，就是你构建职业生涯最理想的地方。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-021' target='_blank'>涛然自得周刊 No.21 ：如何浪费时间</a> | 2023-12-21 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-020' target='_blank'>涛然自得周刊 No.20 ：成为前5%的人</a> | 2023-12-11 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-019' target='_blank'>涛然自得周刊 No.19 ：如何创作杰出的作品</a> | 2023-12-01 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-018' target='_blank'>涛然自得周刊 No.18 ：职场中被忽视的秘密武器</a> | 2023-11-22 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-014' target='_blank'>涛然自得周刊 No.14 ：古龙风格探案剧《侠探简不知》</a> | 2023-10-22 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-013' target='_blank'>涛然自得周刊 No.13 ：1200年前的缅北往事</a> | 2023-10-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-012' target='_blank'>涛然自得周刊 No.12 ：一念心清净，莲花处处开</a> | 2023-10-08 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-011' target='_blank'>涛然自得周刊 No.11 ：我们为什么总是忍不住买买买</a> | 2023-09-30 |
 <!-- blog ends -->
 
 </td>
