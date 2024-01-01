@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-承认和直面自己的结局就像洗了个冷水澡一样，会让你顿时打起精神，充满动力，促使你纠正过去的错误，然后再度启程前行。这会让你更加精明，更加了解自己，变得更好。
+这短短的一生，我们最终都会失去。你不妨大胆一些，爱一个人，攀一座山，追一个梦。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/my-2023' target='_blank'>我的2023难忘瞬间</a> | 2023-12-31 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-021' target='_blank'>涛然自得周刊 No.21 ：如何浪费时间</a> | 2023-12-21 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-020' target='_blank'>涛然自得周刊 No.20 ：成为前5%的人</a> | 2023-12-11 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-019' target='_blank'>涛然自得周刊 No.19 ：如何创作杰出的作品</a> | 2023-12-01 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-015' target='_blank'>涛然自得周刊 No.15 ：繁城之下无净土</a> | 2023-10-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-014' target='_blank'>涛然自得周刊 No.14 ：古龙风格探案剧《侠探简不知》</a> | 2023-10-22 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-013' target='_blank'>涛然自得周刊 No.13 ：1200年前的缅北往事</a> | 2023-10-16 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-012' target='_blank'>涛然自得周刊 No.12 ：一念心清净，莲花处处开</a> | 2023-10-08 |
 <!-- blog ends -->
 
 </td>
