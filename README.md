@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-将来会怎么样，我根本不会考虑。要是成天想着今天，愁着明天，生活还有什么意思呢？就是事情遭到无可再遭的地步，我想总还是有路可走的。
+如今我走到人生十字路口，我知道哪条路是对的，毫无例外，我就知道，但我从不走，为什么？因为他妈的太苦了！
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-022' target='_blank'>涛然自得周刊 No.22 ：不要围观他人的生活</a> | 2024-01-03 |
 | 发布 <a href='http://heyitao.com/post/my-2023' target='_blank'>我的2023难忘瞬间</a> | 2023-12-31 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-021' target='_blank'>涛然自得周刊 No.21 ：如何浪费时间</a> | 2023-12-21 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-020' target='_blank'>涛然自得周刊 No.20 ：成为前5%的人</a> | 2023-12-11 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-016' target='_blank'>涛然自得周刊 No.16 ：努力是没有用的</a> | 2023-11-05 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-015' target='_blank'>涛然自得周刊 No.15 ：繁城之下无净土</a> | 2023-10-30 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-014' target='_blank'>涛然自得周刊 No.14 ：古龙风格探案剧《侠探简不知》</a> | 2023-10-22 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-013' target='_blank'>涛然自得周刊 No.13 ：1200年前的缅北往事</a> | 2023-10-16 |
 <!-- blog ends -->
 
 </td>
