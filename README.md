@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-手里有把锤子，看什么都是钉子。
+缺点和缺陷，如果一一去数，势将没完没了。可是优点肯定也有一些。我们只能凭着手头现有的东西去面对世界。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/1683659/' target='_blank'>边荒传说</a> | 2024-01-18 |
 | 读过 <a href='https://book.douban.com/subject/35431378/' target='_blank'>创作者</a> | 2023-12-06 |
 | 读过 <a href='https://book.douban.com/subject/36242339/' target='_blank'>最优解人生</a> | 2023-11-29 |
 | 读过 <a href='https://book.douban.com/subject/35556905/' target='_blank'>小镇奇谈</a> | 2023-11-05 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/36314870/' target='_blank'>厌女</a> | 2023-10-10 |
 | 看过 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a> | 2023-10-05 |
 | 读过 <a href='https://book.douban.com/subject/1175396/' target='_blank'>跳出盒子</a> | 2023-09-25 |
-| 读过 <a href='https://book.douban.com/subject/36413459/' target='_blank'>10x Is Easier Than 2x</a> | 2023-08-30 |
 <!-- douban ends -->
 
 </td>
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-023' target='_blank'>涛然自得周刊 No.23 ：为什么伟大往往来自边缘</a> | 2024-01-18 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-022' target='_blank'>涛然自得周刊 No.22 ：不要围观他人的生活</a> | 2024-01-03 |
 | 发布 <a href='http://heyitao.com/post/my-2023' target='_blank'>我的2023难忘瞬间</a> | 2023-12-31 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-021' target='_blank'>涛然自得周刊 No.21 ：如何浪费时间</a> | 2023-12-21 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-017' target='_blank'>涛然自得周刊 No.17 ：如何超过大多数人</a> | 2023-11-13 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-016' target='_blank'>涛然自得周刊 No.16 ：努力是没有用的</a> | 2023-11-05 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-015' target='_blank'>涛然自得周刊 No.15 ：繁城之下无净土</a> | 2023-10-30 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-014' target='_blank'>涛然自得周刊 No.14 ：古龙风格探案剧《侠探简不知》</a> | 2023-10-22 |
 <!-- blog ends -->
 
 </td>
