@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-深思者虑远，登高者望远，轻履者行远。
+真实的、永恒的、最高级的快乐，只能从三样东西中取得：工作、自我克制和爱。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/36150423/' target='_blank'>我在北京送快递</a> | 2024-01-30 |
 | 读过 <a href='https://book.douban.com/subject/1683659/' target='_blank'>边荒传说</a> | 2024-01-18 |
 | 读过 <a href='https://book.douban.com/subject/35431378/' target='_blank'>创作者</a> | 2023-12-06 |
 | 读过 <a href='https://book.douban.com/subject/36242339/' target='_blank'>最优解人生</a> | 2023-11-29 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/36415996/' target='_blank'>金钱心理学</a> | 2023-10-21 |
 | 读过 <a href='https://book.douban.com/subject/36314870/' target='_blank'>厌女</a> | 2023-10-10 |
 | 看过 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a> | 2023-10-05 |
-| 读过 <a href='https://book.douban.com/subject/1175396/' target='_blank'>跳出盒子</a> | 2023-09-25 |
 <!-- douban ends -->
 
 </td>
