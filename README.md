@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-错过就错过了，不必遗憾，也不必期待圆满。不要去打扰那些连回话都带着敷衍的人。认识就够了，何必谈余生，当你什么都不再期待，不再奢望的时候，或许一切都会如期而至，很庆幸一路都是自己撑过来的，所以少了谁的陪伴都无关紧要。希望你永远明朗坦荡，永远有诗有远方，能哭能笑能尽欢。
+为什么每个人年轻时都会颓废堕落一段时间？因为现实否定了我们内心的世界观。
 ```
 <!-- juzi ends -->
 
@@ -18,7 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-
+| 看过 <a href='http://movie.douban.com/subject/34874646/' target='_blank'>繁花</a> | 2024-02-13 |
+| 看过 <a href='http://movie.douban.com/subject/36369452/' target='_blank'>飞驰人生2</a> | 2024-02-11 |
+| 读过 <a href='https://book.douban.com/subject/36150423/' target='_blank'>我在北京送快递</a> | 2024-01-30 |
+| 读过 <a href='https://book.douban.com/subject/1683659/' target='_blank'>边荒传说</a> | 2024-01-18 |
+| 读过 <a href='https://book.douban.com/subject/35431378/' target='_blank'>创作者</a> | 2023-12-06 |
+| 读过 <a href='https://book.douban.com/subject/36242339/' target='_blank'>最优解人生</a> | 2023-11-29 |
+| 读过 <a href='https://book.douban.com/subject/35556905/' target='_blank'>小镇奇谈</a> | 2023-11-05 |
+| 读过 <a href='https://book.douban.com/subject/36193112/' target='_blank'>盐镇</a> | 2023-10-31 |
+| 看过 <a href='http://movie.douban.com/subject/35725842/' target='_blank'>繁城之下</a> | 2023-10-26 |
+| 读过 <a href='https://book.douban.com/subject/36415996/' target='_blank'>金钱心理学</a> | 2023-10-21 |
 <!-- douban ends -->
 
 </td>
