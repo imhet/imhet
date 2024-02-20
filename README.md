@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-又一天过去了。今天过得怎么样，梦想是不是更远了？
+培善自信的方法，那就是做你所怕做的事，去获得一次成功经验的记录。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35712815/' target='_blank'>我有一个朋友</a> | 2024-02-20 |
 | 看过 <a href='http://movie.douban.com/subject/34874646/' target='_blank'>繁花</a> | 2024-02-13 |
 | 看过 <a href='http://movie.douban.com/subject/36369452/' target='_blank'>飞驰人生2</a> | 2024-02-11 |
 | 读过 <a href='https://book.douban.com/subject/36150423/' target='_blank'>我在北京送快递</a> | 2024-01-30 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35556905/' target='_blank'>小镇奇谈</a> | 2023-11-05 |
 | 读过 <a href='https://book.douban.com/subject/36193112/' target='_blank'>盐镇</a> | 2023-10-31 |
 | 看过 <a href='http://movie.douban.com/subject/35725842/' target='_blank'>繁城之下</a> | 2023-10-26 |
-| 读过 <a href='https://book.douban.com/subject/36415996/' target='_blank'>金钱心理学</a> | 2023-10-21 |
 <!-- douban ends -->
 
 </td>
