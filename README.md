@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-慢慢来，比较快。
+努力不一定成功，但不努力一定很轻松。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/34442557/' target='_blank'>股权战争</a> | 2024-03-12 |
 | 看过 <a href='http://movie.douban.com/subject/35712815/' target='_blank'>我有一个朋友</a> | 2024-02-20 |
 | 看过 <a href='http://movie.douban.com/subject/34874646/' target='_blank'>繁花</a> | 2024-02-13 |
 | 看过 <a href='http://movie.douban.com/subject/36369452/' target='_blank'>飞驰人生2</a> | 2024-02-11 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/36242339/' target='_blank'>最优解人生</a> | 2023-11-29 |
 | 读过 <a href='https://book.douban.com/subject/35556905/' target='_blank'>小镇奇谈</a> | 2023-11-05 |
 | 读过 <a href='https://book.douban.com/subject/36193112/' target='_blank'>盐镇</a> | 2023-10-31 |
-| 看过 <a href='http://movie.douban.com/subject/35725842/' target='_blank'>繁城之下</a> | 2023-10-26 |
 <!-- douban ends -->
 
 </td>
