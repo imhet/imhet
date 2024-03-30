@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-一个男人若是能活六十年，至少有十年光阴是白白浪费了的。这十年中，起码有五年是在等女人换衣服。还有五年，是在等女人脱衣服。
+年轻时，你希望成为大明星。随着年龄的增长，你的目标降低了一些，希望打动别人，在这个世界上留下印记。后来，你就会想，只要熬过去了，有几个人记得你的名字，就已经在这个世界上留下了印记。你没必要去影响整个世界，还是好好享受生活为好。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/4323275/' target='_blank'>哲学的慰藉</a> | 2024-03-29 |
 | 读过 <a href='https://book.douban.com/subject/34442557/' target='_blank'>股权战争</a> | 2024-03-12 |
 | 看过 <a href='http://movie.douban.com/subject/35712815/' target='_blank'>我有一个朋友</a> | 2024-02-20 |
 | 看过 <a href='http://movie.douban.com/subject/34874646/' target='_blank'>繁花</a> | 2024-02-13 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35431378/' target='_blank'>创作者</a> | 2023-12-06 |
 | 读过 <a href='https://book.douban.com/subject/36242339/' target='_blank'>最优解人生</a> | 2023-11-29 |
 | 读过 <a href='https://book.douban.com/subject/35556905/' target='_blank'>小镇奇谈</a> | 2023-11-05 |
-| 读过 <a href='https://book.douban.com/subject/36193112/' target='_blank'>盐镇</a> | 2023-10-31 |
 <!-- douban ends -->
 
 </td>
