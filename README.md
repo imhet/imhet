@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果文明是要我们卑躬屈膝，那我就让你们看见野蛮的骄傲!
+不要担心自己问的问题听起来很傻。99% 的情况下，其他人都有和你一样的问题，只不过羞于问出口而已。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> | 2024-04-06 |
 | 读过 <a href='https://book.douban.com/subject/4323275/' target='_blank'>哲学的慰藉</a> | 2024-03-29 |
 | 读过 <a href='https://book.douban.com/subject/34442557/' target='_blank'>股权战争</a> | 2024-03-12 |
 | 看过 <a href='http://movie.douban.com/subject/35712815/' target='_blank'>我有一个朋友</a> | 2024-02-20 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/1683659/' target='_blank'>边荒传说</a> | 2024-01-18 |
 | 读过 <a href='https://book.douban.com/subject/35431378/' target='_blank'>创作者</a> | 2023-12-06 |
 | 读过 <a href='https://book.douban.com/subject/36242339/' target='_blank'>最优解人生</a> | 2023-11-29 |
-| 读过 <a href='https://book.douban.com/subject/35556905/' target='_blank'>小镇奇谈</a> | 2023-11-05 |
 <!-- douban ends -->
 
 </td>
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-025' target='_blank'>涛然自得周刊 No.25 ：我们的好奇心是如何消失的</a> | 2024-04-06 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-024' target='_blank'>涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机</a> | 2024-02-03 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-023' target='_blank'>涛然自得周刊 No.23 ：为什么伟大往往来自边缘</a> | 2024-01-18 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-022' target='_blank'>涛然自得周刊 No.22 ：不要围观他人的生活</a> | 2024-01-03 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-019' target='_blank'>涛然自得周刊 No.19 ：如何创作杰出的作品</a> | 2023-12-01 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-018' target='_blank'>涛然自得周刊 No.18 ：职场中被忽视的秘密武器</a> | 2023-11-22 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-017' target='_blank'>涛然自得周刊 No.17 ：如何超过大多数人</a> | 2023-11-13 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-016' target='_blank'>涛然自得周刊 No.16 ：努力是没有用的</a> | 2023-11-05 |
 <!-- blog ends -->
 
 </td>
