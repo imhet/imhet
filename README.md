@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你要批评指点四周的风景，你首先要爬上屋顶。
+我总是努力写零外部依赖的代码，多年以后依然可以运行。这是人类对抗熵的战争中， 我所做出的一点贡献。
 ```
 <!-- juzi ends -->
 
@@ -18,16 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 想看 <a href='http://movie.douban.com/subject/10527210/' target='_blank'>大清盐商</a> | 2024-04-21 |
+| 想看 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-04-21 |
+| 想看 <a href='http://movie.douban.com/subject/2341884/' target='_blank'>东周列国·春秋篇</a> | 2024-04-21 |
+| 想看 <a href='http://movie.douban.com/subject/26761328/' target='_blank'>天盛长歌</a> | 2024-04-21 |
+| 想看 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-04-21 |
+| 看过 <a href='http://movie.douban.com/subject/35284451/' target='_blank'>少年歌行</a> | 2024-04-21 |
 | 看过 <a href='http://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> | 2024-04-06 |
 | 读过 <a href='https://book.douban.com/subject/4323275/' target='_blank'>哲学的慰藉</a> | 2024-03-29 |
 | 读过 <a href='https://book.douban.com/subject/34442557/' target='_blank'>股权战争</a> | 2024-03-12 |
 | 看过 <a href='http://movie.douban.com/subject/35712815/' target='_blank'>我有一个朋友</a> | 2024-02-20 |
-| 看过 <a href='http://movie.douban.com/subject/34874646/' target='_blank'>繁花</a> | 2024-02-13 |
-| 看过 <a href='http://movie.douban.com/subject/36369452/' target='_blank'>飞驰人生2</a> | 2024-02-11 |
-| 读过 <a href='https://book.douban.com/subject/36150423/' target='_blank'>我在北京送快递</a> | 2024-01-30 |
-| 读过 <a href='https://book.douban.com/subject/1683659/' target='_blank'>边荒传说</a> | 2024-01-18 |
-| 读过 <a href='https://book.douban.com/subject/35431378/' target='_blank'>创作者</a> | 2023-12-06 |
-| 读过 <a href='https://book.douban.com/subject/36242339/' target='_blank'>最优解人生</a> | 2023-11-29 |
 <!-- douban ends -->
 
 </td>
