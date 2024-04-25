@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-错过就错过了，不必遗憾，也不必期待圆满。不要去打扰那些连回话都带着敷衍的人。认识就够了，何必谈余生，当你什么都不再期待，不再奢望的时候，或许一切都会如期而至，很庆幸一路都是自己撑过来的，所以少了谁的陪伴都无关紧要。希望你永远明朗坦荡，永远有诗有远方，能哭能笑能尽欢。
+道德用于自律时，好过一切法律；道德用于律人时，坏过一切私刑。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/27073878/' target='_blank'>爱的进化论</a> | 2024-04-25 |
 | 看过 <a href='http://movie.douban.com/subject/34940879/' target='_blank'>年少日记</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/10527210/' target='_blank'>大清盐商</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-04-21 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35284451/' target='_blank'>少年歌行</a> | 2024-04-21 |
 | 看过 <a href='http://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> | 2024-04-06 |
 | 读过 <a href='https://book.douban.com/subject/4323275/' target='_blank'>哲学的慰藉</a> | 2024-03-29 |
-| 读过 <a href='https://book.douban.com/subject/34442557/' target='_blank'>股权战争</a> | 2024-03-12 |
 <!-- douban ends -->
 
 </td>
