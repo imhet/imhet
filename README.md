@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-努力不一定成功，但不努力一定很轻松。
+所有漂泊的人生都梦想着平静、童年、杜鹃花，正如所有平静的人生都幻想伏特加、乐队和醉生梦死。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/34905537/' target='_blank'>好的婚姻，要守护财产和爱</a> | 2024-04-28 |
 | 读过 <a href='https://book.douban.com/subject/27073878/' target='_blank'>爱的进化论</a> | 2024-04-25 |
 | 看过 <a href='http://movie.douban.com/subject/34940879/' target='_blank'>年少日记</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/10527210/' target='_blank'>大清盐商</a> | 2024-04-21 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想看 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-04-21 |
 | 看过 <a href='http://movie.douban.com/subject/35284451/' target='_blank'>少年歌行</a> | 2024-04-21 |
 | 看过 <a href='http://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> | 2024-04-06 |
-| 读过 <a href='https://book.douban.com/subject/4323275/' target='_blank'>哲学的慰藉</a> | 2024-03-29 |
 <!-- douban ends -->
 
 </td>
