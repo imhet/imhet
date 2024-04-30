@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-所有漂泊的人生都梦想着平静、童年、杜鹃花，正如所有平静的人生都幻想伏特加、乐队和醉生梦死。
+故天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，因此动心忍性，曾益其所不能。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/30426829/' target='_blank'>少年游之一寸相思</a> | 2024-04-29 |
 | 读过 <a href='https://book.douban.com/subject/34905537/' target='_blank'>好的婚姻，要守护财产和爱</a> | 2024-04-28 |
 | 读过 <a href='https://book.douban.com/subject/27073878/' target='_blank'>爱的进化论</a> | 2024-04-25 |
 | 看过 <a href='http://movie.douban.com/subject/34940879/' target='_blank'>年少日记</a> | 2024-04-21 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想看 <a href='http://movie.douban.com/subject/26761328/' target='_blank'>天盛长歌</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-04-21 |
 | 看过 <a href='http://movie.douban.com/subject/35284451/' target='_blank'>少年歌行</a> | 2024-04-21 |
-| 看过 <a href='http://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> | 2024-04-06 |
 <!-- douban ends -->
 
 </td>
