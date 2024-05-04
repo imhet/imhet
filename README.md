@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你问我对产品的直觉从哪里来？终究可以归结为品位。重点是让自己接触人类的精华，努力将之融入你在做的事情里。毕加索曾说过，“好的艺术家懂得复制，伟大的艺术家则擅长偷窃”，而我们不羞于窃取伟大的想法。
+江南有杨柳、桃花，有燕子、金鱼……汉人中有的是英俊勇武的少年，倜傥潇洒的少年……但这个美丽的姑娘就像古高昌国人那样固执：“那些都是很好很好的，可是我偏偏不喜欢。”
 ```
 <!-- juzi ends -->
 
@@ -18,12 +18,12 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-05-03 |
 | 看过 <a href='http://movie.douban.com/subject/30426829/' target='_blank'>少年游之一寸相思</a> | 2024-04-29 |
 | 读过 <a href='https://book.douban.com/subject/34905537/' target='_blank'>好的婚姻，要守护财产和爱</a> | 2024-04-28 |
 | 读过 <a href='https://book.douban.com/subject/27073878/' target='_blank'>爱的进化论</a> | 2024-04-25 |
 | 看过 <a href='http://movie.douban.com/subject/34940879/' target='_blank'>年少日记</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/10527210/' target='_blank'>大清盐商</a> | 2024-04-21 |
-| 想看 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/2341884/' target='_blank'>东周列国·春秋篇</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/26761328/' target='_blank'>天盛长歌</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-04-21 |
