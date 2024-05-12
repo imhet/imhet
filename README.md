@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我其实并不孤僻，甚至可以说开朗活泼。但大多时候我很懒，懒得经营一个关系。还有一些时候，就是爱自由，觉得任何一种关系都会束缚自己，当然最主要的，还是知音难寻，我老觉得自己跟大多数人交往总是只能拿出自己的一个维度，很难找到一个像我一样兴趣一望无际的人。
+金钱的作用被高估了。真正的创新很少需要大量资金，否则大公司将垄断创新。相反，几乎所有的突破都是由那些缺乏钱的人实现的，正是因为他们资源有限，才被迫进行创新，依靠自己的热情、毅力和独创性来寻找新的方法。资源不足是创新的优势。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/5390091/' target='_blank'>人皮论语</a> | 2024-05-11 |
 | 看过 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-05-03 |
 | 看过 <a href='http://movie.douban.com/subject/30426829/' target='_blank'>少年游之一寸相思</a> | 2024-04-29 |
 | 读过 <a href='https://book.douban.com/subject/34905537/' target='_blank'>好的婚姻，要守护财产和爱</a> | 2024-04-28 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想看 <a href='http://movie.douban.com/subject/2341884/' target='_blank'>东周列国·春秋篇</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/26761328/' target='_blank'>天盛长歌</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-04-21 |
-| 看过 <a href='http://movie.douban.com/subject/35284451/' target='_blank'>少年歌行</a> | 2024-04-21 |
 <!-- douban ends -->
 
 </td>
