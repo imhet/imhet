@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-人生就像射箭，梦想就像箭靶子，如果没有箭靶子，你每天的拉弓就毫无意义。
+跑步时浮上脑际的思绪，很像天际的云朵，形状各异，大小不同。它们飘然而来，又飘然而去。然而天空犹自是天空，一成不变。云朵不过是匆匆过客，它穿过天空，来了去了。唯有天空留存下来。所谓天空，是既在又不在的东西，既是实体又不是实体。对于天空这种广漠容器般的存在状态，我们唯有照单收下，全盘接受。
 ```
 <!-- juzi ends -->
 
@@ -18,7 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-
+| 读过 <a href='https://book.douban.com/subject/5390091/' target='_blank'>人皮论语</a> | 2024-05-11 |
+| 看过 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-05-03 |
+| 看过 <a href='http://movie.douban.com/subject/30426829/' target='_blank'>少年游之一寸相思</a> | 2024-04-29 |
+| 读过 <a href='https://book.douban.com/subject/34905537/' target='_blank'>好的婚姻，要守护财产和爱</a> | 2024-04-28 |
+| 读过 <a href='https://book.douban.com/subject/27073878/' target='_blank'>爱的进化论</a> | 2024-04-25 |
+| 看过 <a href='http://movie.douban.com/subject/34940879/' target='_blank'>年少日记</a> | 2024-04-21 |
+| 想看 <a href='http://movie.douban.com/subject/10527210/' target='_blank'>大清盐商</a> | 2024-04-21 |
+| 想看 <a href='http://movie.douban.com/subject/2341884/' target='_blank'>东周列国·春秋篇</a> | 2024-04-21 |
+| 想看 <a href='http://movie.douban.com/subject/26761328/' target='_blank'>天盛长歌</a> | 2024-04-21 |
+| 想看 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-04-21 |
 <!-- douban ends -->
 
 </td>
