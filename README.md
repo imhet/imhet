@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我慢慢地、慢慢地了解到，所谓父女母子一场，只不过意味着，你和他的缘分就是今生今世不断地在目送他的背影渐行渐远。你站在小路的这一端，看着他逐渐消失在小路转弯的地方，而且，他用背影默默告诉你：不必追。
+除了过度专注于已知知识以外，人性还有另一个弱点：习惯于学习精确的东西，而不是总体的东西。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/26265745/' target='_blank'>清明上河图密码</a> | 2024-05-28 |
 | 读过 <a href='https://book.douban.com/subject/5390091/' target='_blank'>人皮论语</a> | 2024-05-11 |
 | 看过 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-05-03 |
 | 看过 <a href='http://movie.douban.com/subject/30426829/' target='_blank'>少年游之一寸相思</a> | 2024-04-29 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想看 <a href='http://movie.douban.com/subject/10527210/' target='_blank'>大清盐商</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/2341884/' target='_blank'>东周列国·春秋篇</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/26761328/' target='_blank'>天盛长歌</a> | 2024-04-21 |
-| 想看 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-04-21 |
 <!-- douban ends -->
 
 </td>
