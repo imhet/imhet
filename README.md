@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-极端的行为来源于虚荣，平庸的行为来源于习惯，狭隘的行为来源于恐惧。这样来寻找原因一般不会出错。
+生命中两个最重要的日子就是你出生的那一天和你懂得生存的意义的那一天。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/1883755/' target='_blank'>聪明的一休</a> | 2024-06-09 |
 | 看过 <a href='http://movie.douban.com/subject/34937650/' target='_blank'>庆余年 第二季</a> | 2024-06-05 |
 | 读过 <a href='https://book.douban.com/subject/26265745/' target='_blank'>清明上河图密码</a> | 2024-05-28 |
 | 读过 <a href='https://book.douban.com/subject/5390091/' target='_blank'>人皮论语</a> | 2024-05-11 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/27073878/' target='_blank'>爱的进化论</a> | 2024-04-25 |
 | 看过 <a href='http://movie.douban.com/subject/34940879/' target='_blank'>年少日记</a> | 2024-04-21 |
 | 想看 <a href='http://movie.douban.com/subject/10527210/' target='_blank'>大清盐商</a> | 2024-04-21 |
-| 想看 <a href='http://movie.douban.com/subject/2341884/' target='_blank'>东周列国·春秋篇</a> | 2024-04-21 |
 <!-- douban ends -->
 
 </td>
