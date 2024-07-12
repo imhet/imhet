@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你知道他们不是坏人。他们只是没受过教育，不谙世故，没出过远门，不道德，不文明。外加愚蠢。
+如果快乐太难，那我祝你平安。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 想看 <a href='http://movie.douban.com/subject/36774001/' target='_blank'>逆行人生</a> | 2024-07-11 |
 | 想看 <a href='http://movie.douban.com/subject/2381059/' target='_blank'>上海沧桑</a> | 2024-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/1883755/' target='_blank'>聪明的一休</a> | 2024-06-09 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-05-03 |
 | 看过 <a href='http://movie.douban.com/subject/30426829/' target='_blank'>少年游之一寸相思</a> | 2024-04-29 |
 | 读过 <a href='https://book.douban.com/subject/34905537/' target='_blank'>好的婚姻，要守护财产和爱</a> | 2024-04-28 |
-| 读过 <a href='https://book.douban.com/subject/27073878/' target='_blank'>爱的进化论</a> | 2024-04-25 |
 <!-- douban ends -->
 
 </td>
