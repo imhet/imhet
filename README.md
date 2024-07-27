@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-努力不一定成功，但不努力一定很轻松。
+人生成功的秘籍在于做减法，而做减法的关键在于能够跳出一般人的思维定式，找到那些其实无关紧要的事情，然后下定决心把那些事情放弃掉。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 想读 <a href='https://book.douban.com/subject/36234931/' target='_blank'>开窍</a> | 2024-07-26 |
 | 看过 <a href='http://movie.douban.com/subject/35656028/' target='_blank'>天行健</a> | 2024-07-19 |
 | 想看 <a href='http://movie.douban.com/subject/36774001/' target='_blank'>逆行人生</a> | 2024-07-11 |
 | 想看 <a href='http://movie.douban.com/subject/2381059/' target='_blank'>上海沧桑</a> | 2024-06-23 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/26265745/' target='_blank'>清明上河图密码</a> | 2024-05-28 |
 | 读过 <a href='https://book.douban.com/subject/5390091/' target='_blank'>人皮论语</a> | 2024-05-11 |
 | 看过 <a href='http://movie.douban.com/subject/5905773/' target='_blank'>七种武器之孔雀翎</a> | 2024-05-03 |
-| 看过 <a href='http://movie.douban.com/subject/30426829/' target='_blank'>少年游之一寸相思</a> | 2024-04-29 |
 <!-- douban ends -->
 
 </td>
