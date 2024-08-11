@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-少年读书如隙中窥月，中年读书如庭中望月，老年读书如台上玩月，皆以阅历之浅深为所得之浅深耳。
+杜鹃不啼，想要它啼，何如？织田信长：杀之不足惜。丰臣秀吉：诱之自然啼。德川家康却说：待之莫须急。
 ```
 <!-- juzi ends -->
 
@@ -18,10 +18,10 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/36774001/' target='_blank'>逆行人生</a> | 2024-08-10 |
 | 看过 <a href='http://movie.douban.com/subject/26957900/' target='_blank'>死侍与金刚狼</a> | 2024-07-27 |
 | 想读 <a href='https://book.douban.com/subject/36234931/' target='_blank'>开窍</a> | 2024-07-26 |
 | 看过 <a href='http://movie.douban.com/subject/35656028/' target='_blank'>天行健</a> | 2024-07-19 |
-| 想看 <a href='http://movie.douban.com/subject/36774001/' target='_blank'>逆行人生</a> | 2024-07-11 |
 | 想看 <a href='http://movie.douban.com/subject/2381059/' target='_blank'>上海沧桑</a> | 2024-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/1883755/' target='_blank'>聪明的一休</a> | 2024-06-09 |
