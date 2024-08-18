@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我能抵抗一切，除了诱惑。
+小时候以为最浪漫的事，是一个人走很远的路去看另一个人，现在明白最浪漫的事，是一个人不管走多远的路，心里想的念的都是同一个人。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,8 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/30435124/' target='_blank'>白蛇2：青蛇劫起</a> | 2024-08-17 |
+| 看过 <a href='http://movie.douban.com/subject/36463483/' target='_blank'>白蛇：浮生</a> | 2024-08-17 |
 | 读过 <a href='https://book.douban.com/subject/35048531/' target='_blank'>第二座山</a> | 2024-08-15 |
 | 看过 <a href='http://movie.douban.com/subject/36774001/' target='_blank'>逆行人生</a> | 2024-08-10 |
 | 看过 <a href='http://movie.douban.com/subject/26957900/' target='_blank'>死侍与金刚狼</a> | 2024-07-27 |
@@ -26,8 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想看 <a href='http://movie.douban.com/subject/2381059/' target='_blank'>上海沧桑</a> | 2024-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/1883755/' target='_blank'>聪明的一休</a> | 2024-06-09 |
-| 看过 <a href='http://movie.douban.com/subject/34937650/' target='_blank'>庆余年 第二季</a> | 2024-06-05 |
-| 读过 <a href='https://book.douban.com/subject/26265745/' target='_blank'>清明上河图密码</a> | 2024-05-28 |
 <!-- douban ends -->
 
 </td>
