@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-手里有把锤子，看什么都是钉子。
+爱情的反讽之一，你越不喜欢一个人，你越能够信心百倍、轻而易举地吸引他，强烈的欲望使人丧失了爱情游戏中必不可少的一种漫不经心，你如被人吸引，就会产生自卑情结，因为我们总是把最完美的品质赋予我们深爱的人。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 想看 <a href='http://movie.douban.com/subject/2240641/' target='_blank'>大唐情史</a> | 2024-09-05 |
 | 看过 <a href='http://movie.douban.com/subject/30435124/' target='_blank'>白蛇2：青蛇劫起</a> | 2024-08-17 |
 | 看过 <a href='http://movie.douban.com/subject/36463483/' target='_blank'>白蛇：浮生</a> | 2024-08-17 |
 | 读过 <a href='https://book.douban.com/subject/35048531/' target='_blank'>第二座山</a> | 2024-08-15 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35656028/' target='_blank'>天行健</a> | 2024-07-19 |
 | 想看 <a href='http://movie.douban.com/subject/2381059/' target='_blank'>上海沧桑</a> | 2024-06-23 |
 | 看过 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-06-23 |
-| 看过 <a href='http://movie.douban.com/subject/1883755/' target='_blank'>聪明的一休</a> | 2024-06-09 |
 <!-- douban ends -->
 
 </td>
