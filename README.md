@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-如果打算爱一个人，你要想清楚，是否愿意为了他，放弃如上帝般自由的心灵，从此心甘情愿有了羁绊。
+我从未拥有过你一秒钟，心里却失去过你千万次。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/1418519/' target='_blank'>铁拳男人</a> | 2024-09-08 |
 | 想看 <a href='http://movie.douban.com/subject/2240641/' target='_blank'>大唐情史</a> | 2024-09-05 |
 | 看过 <a href='http://movie.douban.com/subject/30435124/' target='_blank'>白蛇2：青蛇劫起</a> | 2024-08-17 |
 | 看过 <a href='http://movie.douban.com/subject/36463483/' target='_blank'>白蛇：浮生</a> | 2024-08-17 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想读 <a href='https://book.douban.com/subject/36234931/' target='_blank'>开窍</a> | 2024-07-26 |
 | 看过 <a href='http://movie.douban.com/subject/35656028/' target='_blank'>天行健</a> | 2024-07-19 |
 | 想看 <a href='http://movie.douban.com/subject/2381059/' target='_blank'>上海沧桑</a> | 2024-06-23 |
-| 看过 <a href='http://movie.douban.com/subject/2239292/' target='_blank'>大宋提刑官</a> | 2024-06-23 |
 <!-- douban ends -->
 
 </td>
