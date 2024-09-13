@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-娶了红玫瑰，久而久之，红玫瑰就变成墙上的一抹蚊子血，白玫瑰还是床前明月光；娶了白玫瑰，白玫瑰就是衣服上的一粒饭渣子，红的还是心口上的一颗朱砂痣。
+物品要用才有价值，是为断。物品在此时当下，应出现在需要它的地方，是为舍。物品处于恰当的位置，才能展现美感，是为离。断绝不需要的东西，舍弃多余的废物，脱离对物品的执着，是为断舍离。通过不断重复断和舍，最后达到离。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/30218046/' target='_blank'>A Philosophy of Software Design</a> | 2024-09-12 |
 | 看过 <a href='http://movie.douban.com/subject/1418519/' target='_blank'>铁拳男人</a> | 2024-09-08 |
 | 想看 <a href='http://movie.douban.com/subject/2240641/' target='_blank'>大唐情史</a> | 2024-09-05 |
 | 看过 <a href='http://movie.douban.com/subject/30435124/' target='_blank'>白蛇2：青蛇劫起</a> | 2024-08-17 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/26957900/' target='_blank'>死侍与金刚狼</a> | 2024-07-27 |
 | 想读 <a href='https://book.douban.com/subject/36234931/' target='_blank'>开窍</a> | 2024-07-26 |
 | 看过 <a href='http://movie.douban.com/subject/35656028/' target='_blank'>天行健</a> | 2024-07-19 |
-| 想看 <a href='http://movie.douban.com/subject/2381059/' target='_blank'>上海沧桑</a> | 2024-06-23 |
 <!-- douban ends -->
 
 </td>
