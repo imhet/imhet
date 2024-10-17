@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-歌者的歌、舞者的舞、剑客的剑、文人的笔、英雄的壮志，都是这样子。只要是不死，就不能放弃。
+我要再和生活死磕几年。要么我就毁灭，要么我就注定铸就辉煌。如果有一天，你发现我在平庸面前低了头，请向我开炮。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/30125030/' target='_blank'>天生有罪</a> | 2024-10-16 |
 | 看过 <a href='http://movie.douban.com/subject/26297251/' target='_blank'>少林问道</a> | 2024-09-13 |
 | 读过 <a href='https://book.douban.com/subject/30218046/' target='_blank'>A Philosophy of Software Design</a> | 2024-09-12 |
 | 看过 <a href='http://movie.douban.com/subject/1418519/' target='_blank'>铁拳男人</a> | 2024-09-08 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35048531/' target='_blank'>第二座山</a> | 2024-08-15 |
 | 看过 <a href='http://movie.douban.com/subject/36774001/' target='_blank'>逆行人生</a> | 2024-08-10 |
 | 看过 <a href='http://movie.douban.com/subject/26957900/' target='_blank'>死侍与金刚狼</a> | 2024-07-27 |
-| 想读 <a href='https://book.douban.com/subject/36234931/' target='_blank'>开窍</a> | 2024-07-26 |
 <!-- douban ends -->
 
 </td>
