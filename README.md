@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-你们必须努力寻找自己的声音，因为你越迟开始寻找，找到的可能性就越小。梭罗说“大多数人都生活在平静的绝望中。”别陷入这种境地 ，冲出来！
+生活的最佳状态是冷冷清清的风风火火。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35725856/' target='_blank'>尘封十三载</a> | 2024-10-27 |
 | 读过 <a href='https://book.douban.com/subject/30125030/' target='_blank'>天生有罪</a> | 2024-10-16 |
 | 看过 <a href='http://movie.douban.com/subject/26297251/' target='_blank'>少林问道</a> | 2024-09-13 |
 | 读过 <a href='https://book.douban.com/subject/30218046/' target='_blank'>A Philosophy of Software Design</a> | 2024-09-12 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/36463483/' target='_blank'>白蛇：浮生</a> | 2024-08-17 |
 | 读过 <a href='https://book.douban.com/subject/35048531/' target='_blank'>第二座山</a> | 2024-08-15 |
 | 看过 <a href='http://movie.douban.com/subject/36774001/' target='_blank'>逆行人生</a> | 2024-08-10 |
-| 看过 <a href='http://movie.douban.com/subject/26957900/' target='_blank'>死侍与金刚狼</a> | 2024-07-27 |
 <!-- douban ends -->
 
 </td>
