@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。
+首先他们会忽略你，接着他们会嘲笑你，然后他们会打你，最后他们会输给你。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35235151/' target='_blank'>唐朝诡事录</a> | 2024-12-23 |
 | 看过 <a href='http://movie.douban.com/subject/35725856/' target='_blank'>尘封十三载</a> | 2024-10-27 |
 | 读过 <a href='https://book.douban.com/subject/30125030/' target='_blank'>天生有罪</a> | 2024-10-16 |
 | 看过 <a href='http://movie.douban.com/subject/26297251/' target='_blank'>少林问道</a> | 2024-09-13 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/30435124/' target='_blank'>白蛇2：青蛇劫起</a> | 2024-08-17 |
 | 看过 <a href='http://movie.douban.com/subject/36463483/' target='_blank'>白蛇：浮生</a> | 2024-08-17 |
 | 读过 <a href='https://book.douban.com/subject/35048531/' target='_blank'>第二座山</a> | 2024-08-15 |
-| 看过 <a href='http://movie.douban.com/subject/36774001/' target='_blank'>逆行人生</a> | 2024-08-10 |
 <!-- douban ends -->
 
 </td>
