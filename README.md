@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-对亲近的人挑剔是本能，但克服本能，做到对亲近的人不挑剔则是一种教养。
+做了好事受到指责而仍坚持下去，这才是奋斗者的本色。
 ```
 <!-- juzi ends -->
 
@@ -18,7 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-
+| 看过 <a href='http://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> | 2025-01-04 |
+| 看过 <a href='http://movie.douban.com/subject/35235151/' target='_blank'>唐朝诡事录</a> | 2024-12-23 |
+| 看过 <a href='http://movie.douban.com/subject/35725856/' target='_blank'>尘封十三载</a> | 2024-10-27 |
+| 读过 <a href='https://book.douban.com/subject/30125030/' target='_blank'>天生有罪</a> | 2024-10-16 |
+| 看过 <a href='http://movie.douban.com/subject/26297251/' target='_blank'>少林问道</a> | 2024-09-13 |
+| 读过 <a href='https://book.douban.com/subject/30218046/' target='_blank'>A Philosophy of Software Design</a> | 2024-09-12 |
+| 看过 <a href='http://movie.douban.com/subject/1418519/' target='_blank'>铁拳男人</a> | 2024-09-08 |
+| 想看 <a href='http://movie.douban.com/subject/2240641/' target='_blank'>大唐情史</a> | 2024-09-05 |
+| 看过 <a href='http://movie.douban.com/subject/30435124/' target='_blank'>白蛇2：青蛇劫起</a> | 2024-08-17 |
+| 看过 <a href='http://movie.douban.com/subject/36463483/' target='_blank'>白蛇：浮生</a> | 2024-08-17 |
 <!-- douban ends -->
 
 </td>
