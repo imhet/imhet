@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-真实的、永恒的、最高级的快乐，只能从三样东西中取得：工作、自我克制和爱。
+不乱于心，不困于情。不畏将来，不念过往。如此，安好。
 ```
 <!-- juzi ends -->
 
@@ -40,6 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
+| 发布 <a href='http://heyitao.com/post/my-2024' target='_blank'>我的2024难忘时刻</a> | 2025-01-13 |
 | 发布 <a href='http://heyitao.com/post/new-macbook-pro-m4-pro' target='_blank'>鸟枪换炮，再也没有拖延的借口了！</a> | 2024-11-16 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-025' target='_blank'>涛然自得周刊 No.25 ：我们的好奇心是如何消失的</a> | 2024-04-06 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-024' target='_blank'>涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机</a> | 2024-02-03 |
@@ -49,7 +50,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-021' target='_blank'>涛然自得周刊 No.21 ：如何浪费时间</a> | 2023-12-21 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-020' target='_blank'>涛然自得周刊 No.20 ：成为前5%的人</a> | 2023-12-11 |
 | 发布 <a href='http://heyitao.com/post/beyond-code-weekly-019' target='_blank'>涛然自得周刊 No.19 ：如何创作杰出的作品</a> | 2023-12-01 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-018' target='_blank'>涛然自得周刊 No.18 ：职场中被忽视的秘密武器</a> | 2023-11-22 |
 <!-- blog ends -->
 
 </td>
