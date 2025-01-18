@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我从来没有想到原来婚姻是这么复杂，还以为一个人做的好就行了，可是两个人在一起，单是自己做的好是不够的。
+你身边的都同你疏远了，其实这就是你周围扩大的开始。如果你的亲近都离远了，那么你的旷远已经在星空下开展得广大。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/35956190/' target='_blank'>走走停停</a> | 2025-01-18 |
 | 看过 <a href='http://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> | 2025-01-04 |
 | 看过 <a href='http://movie.douban.com/subject/35235151/' target='_blank'>唐朝诡事录</a> | 2024-12-23 |
 | 看过 <a href='http://movie.douban.com/subject/35725856/' target='_blank'>尘封十三载</a> | 2024-10-27 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/1418519/' target='_blank'>铁拳男人</a> | 2024-09-08 |
 | 想看 <a href='http://movie.douban.com/subject/2240641/' target='_blank'>大唐情史</a> | 2024-09-05 |
 | 看过 <a href='http://movie.douban.com/subject/30435124/' target='_blank'>白蛇2：青蛇劫起</a> | 2024-08-17 |
-| 看过 <a href='http://movie.douban.com/subject/36463483/' target='_blank'>白蛇：浮生</a> | 2024-08-17 |
 <!-- douban ends -->
 
 </td>
