@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-我其实并不孤僻，甚至可以说开朗活泼。但大多时候我很懒，懒得经营一个关系。还有一些时候，就是爱自由，觉得任何一种关系都会束缚自己，当然最主要的，还是知音难寻，我老觉得自己跟大多数人交往总是只能拿出自己的一个维度，很难找到一个像我一样兴趣一望无际的人。
+谁想看清尘世就应当同它保持必要的距离。
 ```
 <!-- juzi ends -->
 
@@ -18,16 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-| 看过 <a href='http://movie.douban.com/subject/35725869/' target='_blank'>年会不能停！</a> | 2025-01-24 |
-| 看过 <a href='http://movie.douban.com/subject/36097760/' target='_blank'>边水往事</a> | 2025-01-23 |
-| 看过 <a href='http://movie.douban.com/subject/35956190/' target='_blank'>走走停停</a> | 2025-01-18 |
-| 看过 <a href='http://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> | 2025-01-04 |
-| 看过 <a href='http://movie.douban.com/subject/35235151/' target='_blank'>唐朝诡事录</a> | 2024-12-23 |
-| 看过 <a href='http://movie.douban.com/subject/35725856/' target='_blank'>尘封十三载</a> | 2024-10-27 |
-| 读过 <a href='https://book.douban.com/subject/30125030/' target='_blank'>天生有罪</a> | 2024-10-16 |
-| 看过 <a href='http://movie.douban.com/subject/26297251/' target='_blank'>少林问道</a> | 2024-09-13 |
-| 读过 <a href='https://book.douban.com/subject/30218046/' target='_blank'>A Philosophy of Software Design</a> | 2024-09-12 |
-| 看过 <a href='http://movie.douban.com/subject/1418519/' target='_blank'>铁拳男人</a> | 2024-09-08 |
+| 想看 <a href='http://movie.douban.com/subject/3230459/' target='_blank'>李米的猜想</a> | 2025-01-25 |
+| 想看 <a href='http://movie.douban.com/subject/1293708/' target='_blank'>她比烟花寂寞</a> | 2025-01-25 |
+| 想看 <a href='http://movie.douban.com/subject/36587974/' target='_blank'>出走的决心</a> | 2025-01-25 |
+| 看过 <a href='http://movie.douban.com/subject/35457272/' target='_blank'>保你平安</a> | 2025-01-25 |
+| 想看 <a href='http://movie.douban.com/subject/35068230/' target='_blank'>吉祥如意</a> | 2025-01-24 |
+| 想看 <a href='http://movie.douban.com/subject/30340038/' target='_blank'>吉祥</a> | 2025-01-24 |
+| 想看 <a href='http://movie.douban.com/subject/4004731/' target='_blank'>海洋天堂</a> | 2025-01-24 |
+| 想看 <a href='http://movie.douban.com/subject/1300275/' target='_blank'>大开眼戒</a> | 2025-01-24 |
+| 想看 <a href='http://movie.douban.com/subject/24745500/' target='_blank'>绣春刀</a> | 2025-01-24 |
+| 想看 <a href='http://movie.douban.com/subject/1291858/' target='_blank'>鬼子来了</a> | 2025-01-24 |
 <!-- douban ends -->
 
 </td>
