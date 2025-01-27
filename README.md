@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-道德用于自律时，好过一切法律；道德用于律人时，坏过一切私刑。
+孤独是半身浸江，秋水生凉。寂寞是全身如林，寒意渐深。
 ```
 <!-- juzi ends -->
 
@@ -18,16 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-| 看过 <a href='http://movie.douban.com/subject/36587974/' target='_blank'>出走的决心</a> | 2025-01-26 |
-| 想看 <a href='http://movie.douban.com/subject/3230459/' target='_blank'>李米的猜想</a> | 2025-01-25 |
-| 想看 <a href='http://movie.douban.com/subject/1293708/' target='_blank'>她比烟花寂寞</a> | 2025-01-25 |
-| 看过 <a href='http://movie.douban.com/subject/35457272/' target='_blank'>保你平安</a> | 2025-01-25 |
-| 想看 <a href='http://movie.douban.com/subject/35068230/' target='_blank'>吉祥如意</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/30340038/' target='_blank'>吉祥</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/4004731/' target='_blank'>海洋天堂</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/1300275/' target='_blank'>大开眼戒</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/24745500/' target='_blank'>绣春刀</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/1291858/' target='_blank'>鬼子来了</a> | 2025-01-24 |
+
 <!-- douban ends -->
 
 </td>
