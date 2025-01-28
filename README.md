@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-孤独是半身浸江，秋水生凉。寂寞是全身如林，寒意渐深。
+最让人有成就感的工作有一些共同的特质，它要求我们发挥最好的水平，但要能为我们自己所掌控而不是取决于他人。要求高但毫无自主权的工作将榨干我们；有自主权但没有什么挑战的工作又让我们失望；而那些既无要求也不为我们控制的工作是最糟糕的。如果你的工作既不能提供挑战又没有自主权，而且你又没有办法让事情变得更好，那就考虑换工作吧。
 ```
 <!-- juzi ends -->
 
@@ -18,7 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-
+| 看过 <a href='http://movie.douban.com/subject/24745500/' target='_blank'>绣春刀</a> | 2025-01-28 |
+| 看过 <a href='http://movie.douban.com/subject/36154853/' target='_blank'>好东西</a> | 2025-01-27 |
+| 看过 <a href='http://movie.douban.com/subject/36587974/' target='_blank'>出走的决心</a> | 2025-01-26 |
+| 想看 <a href='http://movie.douban.com/subject/3230459/' target='_blank'>李米的猜想</a> | 2025-01-25 |
+| 想看 <a href='http://movie.douban.com/subject/1293708/' target='_blank'>她比烟花寂寞</a> | 2025-01-25 |
+| 看过 <a href='http://movie.douban.com/subject/35457272/' target='_blank'>保你平安</a> | 2025-01-25 |
+| 想看 <a href='http://movie.douban.com/subject/35068230/' target='_blank'>吉祥如意</a> | 2025-01-24 |
+| 想看 <a href='http://movie.douban.com/subject/30340038/' target='_blank'>吉祥</a> | 2025-01-24 |
+| 想看 <a href='http://movie.douban.com/subject/4004731/' target='_blank'>海洋天堂</a> | 2025-01-24 |
+| 想看 <a href='http://movie.douban.com/subject/1300275/' target='_blank'>大开眼戒</a> | 2025-01-24 |
 <!-- douban ends -->
 
 </td>
