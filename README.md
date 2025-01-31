@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-于是我们艰难地前行，像小船逆流而上，不断地被推回到过去。
+物品要用才有价值，是为断。物品在此时当下，应出现在需要它的地方，是为舍。物品处于恰当的位置，才能展现美感，是为离。断绝不需要的东西，舍弃多余的废物，脱离对物品的执着，是为断舍离。通过不断重复断和舍，最后达到离。
 ```
 <!-- juzi ends -->
 
@@ -18,16 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-| 看过 <a href='http://movie.douban.com/subject/36653918/' target='_blank'>抓娃娃</a> | 2025-01-29 |
-| 看过 <a href='http://movie.douban.com/subject/24745500/' target='_blank'>绣春刀</a> | 2025-01-28 |
-| 看过 <a href='http://movie.douban.com/subject/36154853/' target='_blank'>好东西</a> | 2025-01-27 |
-| 看过 <a href='http://movie.douban.com/subject/36587974/' target='_blank'>出走的决心</a> | 2025-01-26 |
-| 想看 <a href='http://movie.douban.com/subject/3230459/' target='_blank'>李米的猜想</a> | 2025-01-25 |
-| 想看 <a href='http://movie.douban.com/subject/1293708/' target='_blank'>她比烟花寂寞</a> | 2025-01-25 |
-| 看过 <a href='http://movie.douban.com/subject/35457272/' target='_blank'>保你平安</a> | 2025-01-25 |
-| 想看 <a href='http://movie.douban.com/subject/35068230/' target='_blank'>吉祥如意</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/30340038/' target='_blank'>吉祥</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/4004731/' target='_blank'>海洋天堂</a> | 2025-01-24 |
+
 <!-- douban ends -->
 
 </td>
