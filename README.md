@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-学习文史知识目的在于“温故”，有文史修养的人生活在从过去到现代一个漫长的时间段里。学习科学知识目的在于“知新”，有科学知识的人可以预见将来，他生活在从现在到广阔无垠的未来。假如你什么都不学习，那就只能生活在现时现世的一个小圈子里，狭窄得很。
+时间杠杆：将自己的时间做成好产品，无限复制；资本杠杆：能够撬动远超自身的资源，以小博大；婚姻杠杆：通过感情这种莫测的工具，捷径逆袭。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='http://movie.douban.com/subject/36289423/' target='_blank'>射雕英雄传：侠之大者</a> | 2025-02-02 |
 | 看过 <a href='http://movie.douban.com/subject/36653918/' target='_blank'>抓娃娃</a> | 2025-01-29 |
 | 看过 <a href='http://movie.douban.com/subject/24745500/' target='_blank'>绣春刀</a> | 2025-01-28 |
 | 看过 <a href='http://movie.douban.com/subject/36154853/' target='_blank'>好东西</a> | 2025-01-27 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='http://movie.douban.com/subject/35457272/' target='_blank'>保你平安</a> | 2025-01-25 |
 | 想看 <a href='http://movie.douban.com/subject/35068230/' target='_blank'>吉祥如意</a> | 2025-01-24 |
 | 想看 <a href='http://movie.douban.com/subject/30340038/' target='_blank'>吉祥</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/4004731/' target='_blank'>海洋天堂</a> | 2025-01-24 |
 <!-- douban ends -->
 
 </td>
