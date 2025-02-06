@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-不要在电话上答应任何请求或提议。所谓的紧急不过是个假象。
+金钱的作用被高估了。真正的创新很少需要大量资金，否则大公司将垄断创新。相反，几乎所有的突破都是由那些缺乏钱的人实现的，正是因为他们资源有限，才被迫进行创新，依靠自己的热情、毅力和独创性来寻找新的方法。资源不足是创新的优势。
 ```
 <!-- juzi ends -->
 
@@ -18,6 +18,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 想读 <a href='https://book.douban.com/subject/36296679/' target='_blank'>空洞的心</a> | 2025-02-05 |
 | 看过 <a href='http://movie.douban.com/subject/36289423/' target='_blank'>射雕英雄传：侠之大者</a> | 2025-02-02 |
 | 看过 <a href='http://movie.douban.com/subject/36653918/' target='_blank'>抓娃娃</a> | 2025-01-29 |
 | 看过 <a href='http://movie.douban.com/subject/24745500/' target='_blank'>绣春刀</a> | 2025-01-28 |
@@ -27,7 +28,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 想看 <a href='http://movie.douban.com/subject/1293708/' target='_blank'>她比烟花寂寞</a> | 2025-01-25 |
 | 看过 <a href='http://movie.douban.com/subject/35457272/' target='_blank'>保你平安</a> | 2025-01-25 |
 | 想看 <a href='http://movie.douban.com/subject/35068230/' target='_blank'>吉祥如意</a> | 2025-01-24 |
-| 想看 <a href='http://movie.douban.com/subject/30340038/' target='_blank'>吉祥</a> | 2025-01-24 |
 <!-- douban ends -->
 
 </td>
