@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-市场营销最核心的内容，即合适的产品、合适的渠道、合适的价格、合适的宣传信息和合适的营销团队。市场营销最核心的内容一直以来就是这样，从未改变。
+有些年轻人，一毕业就到某些大型国企和机关中工作。每天没什么事儿，就是吃饭喝酒，福利好得不得了。人生还没有奋斗过就开始养老，自己的理想被丢在一旁，用民脂民膏来享受特权。对于这样的年轻人，我只想问你们四个字：哪投简历？
 ```
 <!-- juzi ends -->
 
@@ -18,7 +18,16 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
-
+| 想读 <a href='https://book.douban.com/subject/36296679/' target='_blank'>空洞的心</a> | 2025-02-05 |
+| 看过 <a href='http://movie.douban.com/subject/36289423/' target='_blank'>射雕英雄传：侠之大者</a> | 2025-02-02 |
+| 看过 <a href='http://movie.douban.com/subject/36653918/' target='_blank'>抓娃娃</a> | 2025-01-29 |
+| 看过 <a href='http://movie.douban.com/subject/24745500/' target='_blank'>绣春刀</a> | 2025-01-28 |
+| 看过 <a href='http://movie.douban.com/subject/36154853/' target='_blank'>好东西</a> | 2025-01-27 |
+| 看过 <a href='http://movie.douban.com/subject/36587974/' target='_blank'>出走的决心</a> | 2025-01-26 |
+| 想看 <a href='http://movie.douban.com/subject/3230459/' target='_blank'>李米的猜想</a> | 2025-01-25 |
+| 想看 <a href='http://movie.douban.com/subject/1293708/' target='_blank'>她比烟花寂寞</a> | 2025-01-25 |
+| 看过 <a href='http://movie.douban.com/subject/35457272/' target='_blank'>保你平安</a> | 2025-01-25 |
+| 想看 <a href='http://movie.douban.com/subject/35068230/' target='_blank'>吉祥如意</a> | 2025-01-24 |
 <!-- douban ends -->
 
 </td>
