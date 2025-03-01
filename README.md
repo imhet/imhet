@@ -4,7 +4,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 <!-- juzi starts -->
 ```
-假如蚂蚁真的是一天到晚忙个不停，又怎么还有时间去四处野餐呢？
+闲暇是人生的精华，除此之外，人的整个一生就只是辛苦和劳作而已。凡夫俗子只关心如何打发时间，而略具才华的人却考虑如何利用时间。头脑思想狭隘的人容易受到无聊的侵袭，其原因就是他们的智力纯粹服务于他们的意欲，是意欲的工具。
 ```
 <!-- juzi ends -->
 
@@ -40,16 +40,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- blog starts -->
 | | |
  |:------------- | -------------: |
-| 发布 <a href='http://heyitao.com/post/my-2024' target='_blank'>我的2024难忘时刻</a> | 2025-01-13 |
-| 发布 <a href='http://heyitao.com/post/new-macbook-pro-m4-pro' target='_blank'>鸟枪换炮，再也没有拖延的借口了！</a> | 2024-11-16 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-025' target='_blank'>涛然自得周刊 No.25 ：我们的好奇心是如何消失的</a> | 2024-04-06 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-024' target='_blank'>涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机</a> | 2024-02-03 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-023' target='_blank'>涛然自得周刊 No.23 ：为什么伟大往往来自边缘</a> | 2024-01-18 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-022' target='_blank'>涛然自得周刊 No.22 ：不要围观他人的生活</a> | 2024-01-03 |
-| 发布 <a href='http://heyitao.com/post/my-2023' target='_blank'>我的2023难忘瞬间</a> | 2023-12-31 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-021' target='_blank'>涛然自得周刊 No.21 ：如何浪费时间</a> | 2023-12-21 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-020' target='_blank'>涛然自得周刊 No.20 ：成为前5%的人</a> | 2023-12-11 |
-| 发布 <a href='http://heyitao.com/post/beyond-code-weekly-019' target='_blank'>涛然自得周刊 No.19 ：如何创作杰出的作品</a> | 2023-12-01 |
+
 <!-- blog ends -->
 
 </td>
