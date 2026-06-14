@@ -99,3 +99,21 @@ python -c "import random; lines = open('src/juzi.txt', 'r', encoding='utf-8').re
 - 需要设置 `GH_TOKEN` 环境变量（用于 GitHub GraphQL API）
 - 豆瓣 RSS 可能需要 SSL 验证绕过（`make_ssl_unverify()`）
 - 时区处理：豆瓣时间戳 +8 小时转为北京时间
+
+### 容错机制
+
+每个数据源独立处理，单个失败不影响其他源更新：
+- 豆瓣 RSS 获取失败 → 跳过豆瓣更新，保留原数据
+- 博客 RSS 获取失败 → 跳过博客更新，保留原数据
+- 每日一句获取失败 → 跳过句子更新，保留原数据
+
+## README 组成
+
+### 动态更新部分
+- 每日一句：从 `src/juzi.txt` 随机选择
+- 豆瓣动态：最近 10 条观影/读书记录
+- 博客文章：最近 10 篇文章
+
+### 静态部分
+- 访问计数：使用 [hits.dwyl.com](https://hits.dwyl.com) 服务
+  - 2026-06 从 badges.toozhao.com 迁移（原服务已停止运营）
