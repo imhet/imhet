@@ -98,7 +98,7 @@ if __name__ == "__main__":
     # 每日一句
     try:
         juzi_update = fetch_random_juzi(real_root / "src" / "juzi.txt")
-        rewritten = replace_chunk(readme_contents, "juzi", "```\n" + juzi_update + "\n```")
+        rewritten = replace_chunk(readme_contents, "juzi", "> " + juzi_update)
         print(f"✓ 每日一句更新成功")
     except Exception as e:
         print(f"✗ 每日一句更新失败: {e}")

@@ -3,9 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-```
-最容易令人感到温暖和惊喜的是陌生人，因为你对他没有期望。最容易令人感到心寒和悲哀的是亲人，因为你爱他们。
-```
+> 最容易令人感到温暖和惊喜的是陌生人，因为你对他没有期望。最容易令人感到心寒和悲哀的是亲人，因为你爱他们。
 <!-- juzi ends -->
 
 
