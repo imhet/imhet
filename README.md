@@ -56,4 +56,4 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 
 </table>
 
-[![Hits](https://hits.dwyl.com/imhet/imhet.svg?style=flat-square)](http://hits.dwyl.com/imhet/imhet)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=imhet.imhet)

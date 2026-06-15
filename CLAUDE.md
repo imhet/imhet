@@ -115,5 +115,6 @@ python -c "import random; lines = open('src/juzi.txt', 'r', encoding='utf-8').re
 - 博客文章：最近 10 篇文章
 
 ### 静态部分
-- 访问计数：使用 [hits.dwyl.com](https://hits.dwyl.com) 服务
+- 访问计数：使用 [visitor-badge.laobi.icu](https://visitor-badge.laobi.icu) 服务
   - 2026-06 从 badges.toozhao.com 迁移（原服务已停止运营）
+  - 2026-06 从 hits.dwyl.com 迁移（国内访问不稳定）
