@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 在你成为领导者之前，成功的全部就是自我成长；当你成了领导者，成功的全部就变成帮助他人成长。
+> 凡所有相，皆是虚妄。若见诸相非相，则见如来。
 <!-- juzi ends -->
 
 
