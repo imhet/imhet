@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 凡所有相，皆是虚妄。若见诸相非相，则见如来。
+> 你越有兴趣了解他人，他人就会发现你越有趣。要成为有趣的人，先要对别人感兴趣。
 <!-- juzi ends -->
 
 
