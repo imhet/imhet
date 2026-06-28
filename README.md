@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 当危机和灾难来袭时，别错过他们。没有问题，就没有进步。
+> 世界上最困难的事情是知道如何做一件事，然后看着别人做错而不加评论。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/10781865/' target='_blank'>斯巴达克斯：诅咒者之战 第三季</a> | 2026-06-28 |
 | 看过 <a href='https://movie.douban.com/subject/6017331/' target='_blank'>斯巴达克斯：复仇 第二季</a> | 2026-06-24 |
 | 看过 <a href='https://movie.douban.com/subject/3754940/' target='_blank'>斯巴达克斯：血与沙 第一季</a> | 2026-06-22 |
 | 看过 <a href='https://movie.douban.com/subject/36877245/' target='_blank'>火遮眼</a> | 2026-06-20 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/27664846/' target='_blank'>行尸走肉 第九季</a> | 2026-06-04 |
 | 看过 <a href='https://movie.douban.com/subject/26842605/' target='_blank'>行尸走肉 第八季</a> | 2026-06-02 |
 | 看过 <a href='https://movie.douban.com/subject/26654811/' target='_blank'>行尸走肉 第七季</a> | 2026-05-30 |
-| 看过 <a href='https://movie.douban.com/subject/26101081/' target='_blank'>行尸走肉 第六季</a> | 2026-05-27 |
 <!-- douban ends -->
 
 </td>
