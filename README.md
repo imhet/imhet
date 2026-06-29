@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 世界上最困难的事情是知道如何做一件事，然后看着别人做错而不加评论。
+> 人最宝贵的是生命，生命对人来说只有一次。人的一生应当这样度过：当他回首往事时，不会因为碌碌无为，虚度年华而悔恨，也不会因为为人卑劣，生活庸俗而愧疚。
 <!-- juzi ends -->
 
 
