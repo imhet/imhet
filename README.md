@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 永远不要用信用卡去透支。唯一可接受的透支或负债，应该用来获取那些极可能增值的事物。绝大多数事物在你买下它的那一刻起就开始贬值了。别为那些没有未来的事物而透支。
+> 除了过度专注于已知知识以外，人性还有另一个弱点：习惯于学习精确的东西，而不是总体的东西。
 <!-- juzi ends -->
 
 
