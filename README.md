@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 除了过度专注于已知知识以外，人性还有另一个弱点：习惯于学习精确的东西，而不是总体的东西。
+> 江南有杨柳、桃花，有燕子、金鱼……汉人中有的是英俊勇武的少年，倜傥潇洒的少年……但这个美丽的姑娘就像古高昌国人那样固执：“那些都是很好很好的，可是我偏偏不喜欢。”
 <!-- juzi ends -->
 
 
