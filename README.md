@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 江南有杨柳、桃花，有燕子、金鱼……汉人中有的是英俊勇武的少年，倜傥潇洒的少年……但这个美丽的姑娘就像古高昌国人那样固执：“那些都是很好很好的，可是我偏偏不喜欢。”
+> 生活是苦难的，我又划着我的断桨出发了。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/35603727/' target='_blank'>猫猫的奇幻漂流</a> | 2026-07-06 |
 | 看过 <a href='https://movie.douban.com/subject/10781865/' target='_blank'>斯巴达克斯：诅咒者之战 第三季</a> | 2026-06-28 |
 | 看过 <a href='https://movie.douban.com/subject/6017331/' target='_blank'>斯巴达克斯：复仇 第二季</a> | 2026-06-24 |
 | 看过 <a href='https://movie.douban.com/subject/3754940/' target='_blank'>斯巴达克斯：血与沙 第一季</a> | 2026-06-22 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/30337857/' target='_blank'>行尸走肉 第十季</a> | 2026-06-07 |
 | 看过 <a href='https://movie.douban.com/subject/27664846/' target='_blank'>行尸走肉 第九季</a> | 2026-06-04 |
 | 看过 <a href='https://movie.douban.com/subject/26842605/' target='_blank'>行尸走肉 第八季</a> | 2026-06-02 |
-| 看过 <a href='https://movie.douban.com/subject/26654811/' target='_blank'>行尸走肉 第七季</a> | 2026-05-30 |
 <!-- douban ends -->
 
 </td>
