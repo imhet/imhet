@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 对未来的真正慷慨，是把一切献给现在。
+> 宽容不是道德，而是认识。唯有深刻地认识事物，才能对人和世界的复杂性了解和体谅，才有不轻易责难和赞美的思维习惯。
 <!-- juzi ends -->
 
 
