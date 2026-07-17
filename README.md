@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 杜鹃不啼，想要它啼，何如？织田信长：杀之不足惜。丰臣秀吉：诱之自然啼。德川家康却说：待之莫须急。
+> 悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。
 <!-- juzi ends -->
 
 
