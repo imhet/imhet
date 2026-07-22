@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 你之所以比父母强，是因为站在他们的肩上。
+> 微笑和沉默是两把利器，微笑解决很多问题，沉默避免很多问题。
 <!-- juzi ends -->
 
 
