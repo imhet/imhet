@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 很多时候，我们在重组自己的偏见时，还以为自己是在思考；在重复以往的错误时，还以为是在坚持梦想；在消极荒废时，还以为是在放松；在伤害别人自尊时，还以为是直率；在故步自封时，还以为是在坚守；在随便放弃时，还以为是在选择；在喝得酩酊大醉时，还以为是豪爽；在不思进取时，还以为是低调。
+> 学习文史知识目的在于“温故”，有文史修养的人生活在从过去到现代一个漫长的时间段里。学习科学知识目的在于“知新”，有科学知识的人可以预见将来，他生活在从现在到广阔无垠的未来。假如你什么都不学习，那就只能生活在现时现世的一个小圈子里，狭窄得很。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,8 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/35882587/' target='_blank'>爱爱内含光</a> | 2026-07-25 |
+| 读过 <a href='https://book.douban.com/subject/35219052/' target='_blank'>铁血残明</a> | 2026-07-24 |
 | 看过 <a href='https://movie.douban.com/subject/35603727/' target='_blank'>猫猫的奇幻漂流</a> | 2026-07-06 |
 | 看过 <a href='https://movie.douban.com/subject/10781865/' target='_blank'>斯巴达克斯：诅咒者之战 第三季</a> | 2026-06-28 |
 | 看过 <a href='https://movie.douban.com/subject/6017331/' target='_blank'>斯巴达克斯：复仇 第二季</a> | 2026-06-24 |
@@ -24,8 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/34849936/' target='_blank'>行尸走肉 第十一季</a> | 2026-06-11 |
 | 想看 <a href='https://movie.douban.com/subject/36916000/' target='_blank'>诺曼底72小时</a> | 2026-06-09 |
 | 看过 <a href='https://movie.douban.com/subject/30337857/' target='_blank'>行尸走肉 第十季</a> | 2026-06-07 |
-| 看过 <a href='https://movie.douban.com/subject/27664846/' target='_blank'>行尸走肉 第九季</a> | 2026-06-04 |
-| 看过 <a href='https://movie.douban.com/subject/26842605/' target='_blank'>行尸走肉 第八季</a> | 2026-06-02 |
 <!-- douban ends -->
 
 </td>
