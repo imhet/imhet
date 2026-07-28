@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 深思者虑远，登高者望远，轻履者行远。
+> 成年之后，许多人和事让我领教和懂得沉默的力量，亲密的弊端，不轻易寄希望和依赖于他人的快活，距离的优点，界限的重要，还有，适时给我一盆冷水，让我保持清醒的头脑。
 <!-- juzi ends -->
 
 
