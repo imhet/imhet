@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 你身边的都同你疏远了，其实这就是你周围扩大的开始。如果你的亲近都离远了，那么你的旷远已经在星空下开展得广大。
+> 穷人在为钱而工作，富人让钱为他们工作。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 玩过 <a href='http://www.douban.com/game/26817171/' target='_blank'>塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2026-08-01 |
 | 看过 <a href='https://movie.douban.com/subject/35882587/' target='_blank'>爱爱内含光</a> | 2026-07-25 |
 | 读过 <a href='https://book.douban.com/subject/35219052/' target='_blank'>铁血残明</a> | 2026-07-24 |
 | 看过 <a href='https://movie.douban.com/subject/35603727/' target='_blank'>猫猫的奇幻漂流</a> | 2026-07-06 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/36877245/' target='_blank'>火遮眼</a> | 2026-06-20 |
 | 看过 <a href='https://movie.douban.com/subject/34849936/' target='_blank'>行尸走肉 第十一季</a> | 2026-06-11 |
 | 想看 <a href='https://movie.douban.com/subject/36916000/' target='_blank'>诺曼底72小时</a> | 2026-06-09 |
-| 看过 <a href='https://movie.douban.com/subject/30337857/' target='_blank'>行尸走肉 第十季</a> | 2026-06-07 |
 <!-- douban ends -->
 
 </td>
