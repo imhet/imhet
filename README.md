@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 穷人在为钱而工作，富人让钱为他们工作。
+> 不乱于心，不困于情。不畏将来，不念过往。如此，安好。
 <!-- juzi ends -->
 
 
