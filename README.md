@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 人之所以会撒谎，是为了隐藏内心的脆弱，保护那些不可取代的东西，逃避那些挣脱不了的痛苦。
+> 爱欲之人，犹如执炬，逆风而行，必有烧手之患。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/37833272/' target='_blank'>咸的玩笑</a> | 2026-08-09 |
 | 读过 <a href='https://book.douban.com/subject/35383720/' target='_blank'>晚明</a> | 2026-08-01 |
 | 玩过 <a href='http://www.douban.com/game/26817171/' target='_blank'>塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2026-08-01 |
 | 看过 <a href='https://movie.douban.com/subject/35882587/' target='_blank'>爱爱内含光</a> | 2026-07-25 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/6017331/' target='_blank'>斯巴达克斯：复仇 第二季</a> | 2026-06-24 |
 | 看过 <a href='https://movie.douban.com/subject/3754940/' target='_blank'>斯巴达克斯：血与沙 第一季</a> | 2026-06-22 |
 | 看过 <a href='https://movie.douban.com/subject/36877245/' target='_blank'>火遮眼</a> | 2026-06-20 |
-| 看过 <a href='https://movie.douban.com/subject/34849936/' target='_blank'>行尸走肉 第十一季</a> | 2026-06-11 |
 <!-- douban ends -->
 
 </td>
