@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 你的所作所为定义了你——既不是你所说的，也不是你所信的，更不是你所支持的，而是你花费时间于其上的。
+> 我去旅行，是因为我决定了要去，并不是因为对风景的兴趣。
 <!-- juzi ends -->
 
 
