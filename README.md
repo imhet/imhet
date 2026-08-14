@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 不要忘记人生是要战斗到死。
+> 一个人至少拥有一个梦想，有一个理由去坚强。心若没有栖息的地方，到哪里都是在流浪。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/27179803/' target='_blank'>婴齐传</a> | 2026-08-13 |
 | 读过 <a href='https://book.douban.com/subject/37833272/' target='_blank'>咸的玩笑</a> | 2026-08-09 |
 | 读过 <a href='https://book.douban.com/subject/35383720/' target='_blank'>晚明</a> | 2026-08-01 |
 | 玩过 <a href='http://www.douban.com/game/26817171/' target='_blank'>塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2026-08-01 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/10781865/' target='_blank'>斯巴达克斯：诅咒者之战 第三季</a> | 2026-06-28 |
 | 看过 <a href='https://movie.douban.com/subject/6017331/' target='_blank'>斯巴达克斯：复仇 第二季</a> | 2026-06-24 |
 | 看过 <a href='https://movie.douban.com/subject/3754940/' target='_blank'>斯巴达克斯：血与沙 第一季</a> | 2026-06-22 |
-| 看过 <a href='https://movie.douban.com/subject/36877245/' target='_blank'>火遮眼</a> | 2026-06-20 |
 <!-- douban ends -->
 
 </td>
