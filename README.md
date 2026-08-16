@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 为什么这个中间点会让人泄气？一种解释是，可能是因为未能实现理想的失望。人在二三十岁时踌躇满志，对未来无比憧憬；之后，现实就像屋顶漏雨，慢慢改变人们的生活。只有一个人会成为CEO，却不会是你；很多婚姻破碎了，而你的就是其中之一；你赚的钱只够还房子的贷款，拥有英超球队的梦想越来越远。然而，我们并不会一直停留在这一情绪低谷中，因为随着时间的流逝，我们会调整自己的期望，认识到当下生活的种种美好。总之，人之所以会经历中年的心理低潮，是因为人们的预期出了问题。年轻时，人往往好高骛远；上了年纪，对未来又太过悲观。
+> 你要批评指点四周的风景，你首先要爬上屋顶。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/36448279/' target='_blank'>罗小黑战记2</a> | 2026-08-16 |
 | 读过 <a href='https://book.douban.com/subject/27179803/' target='_blank'>婴齐传</a> | 2026-08-13 |
 | 读过 <a href='https://book.douban.com/subject/37833272/' target='_blank'>咸的玩笑</a> | 2026-08-09 |
 | 读过 <a href='https://book.douban.com/subject/35383720/' target='_blank'>晚明</a> | 2026-08-01 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/35603727/' target='_blank'>猫猫的奇幻漂流</a> | 2026-07-06 |
 | 看过 <a href='https://movie.douban.com/subject/10781865/' target='_blank'>斯巴达克斯：诅咒者之战 第三季</a> | 2026-06-28 |
 | 看过 <a href='https://movie.douban.com/subject/6017331/' target='_blank'>斯巴达克斯：复仇 第二季</a> | 2026-06-24 |
-| 看过 <a href='https://movie.douban.com/subject/3754940/' target='_blank'>斯巴达克斯：血与沙 第一季</a> | 2026-06-22 |
 <!-- douban ends -->
 
 </td>
