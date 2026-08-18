@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 人们常觉得准备的阶段是在浪费时间，只有当真正机会来临，而自己没有能力把握的时候，才能觉悟自己平时没有准备才是浪费了时间。
+> 错过就错过了，不必遗憾，也不必期待圆满。不要去打扰那些连回话都带着敷衍的人。认识就够了，何必谈余生，当你什么都不再期待，不再奢望的时候，或许一切都会如期而至，很庆幸一路都是自己撑过来的，所以少了谁的陪伴都无关紧要。希望你永远明朗坦荡，永远有诗有远方，能哭能笑能尽欢。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/2058844/' target='_blank'>赌徒陈汤</a> | 2026-08-18 |
 | 看过 <a href='https://movie.douban.com/subject/36448279/' target='_blank'>罗小黑战记2</a> | 2026-08-16 |
 | 读过 <a href='https://book.douban.com/subject/27179803/' target='_blank'>婴齐传</a> | 2026-08-13 |
 | 读过 <a href='https://book.douban.com/subject/37833272/' target='_blank'>咸的玩笑</a> | 2026-08-09 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35219052/' target='_blank'>铁血残明</a> | 2026-07-24 |
 | 看过 <a href='https://movie.douban.com/subject/35603727/' target='_blank'>猫猫的奇幻漂流</a> | 2026-07-06 |
 | 看过 <a href='https://movie.douban.com/subject/10781865/' target='_blank'>斯巴达克斯：诅咒者之战 第三季</a> | 2026-06-28 |
-| 看过 <a href='https://movie.douban.com/subject/6017331/' target='_blank'>斯巴达克斯：复仇 第二季</a> | 2026-06-24 |
 <!-- douban ends -->
 
 </td>
