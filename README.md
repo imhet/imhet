@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 除了过度专注于已知知识以外，人性还有另一个弱点：习惯于学习精确的东西，而不是总体的东西。
+> 为了让我们对自己的工作满意，我们有必要给自己从事的工作赋予意义。
 <!-- juzi ends -->
 
 
