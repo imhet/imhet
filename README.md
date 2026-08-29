@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 也许宇宙中最违反直觉的真理就是，你给予他人越多，你收获的就越多。这是智慧的起点。
+> 任何真实之物都源于虚构之意。想象是宇宙中最强大的力量，也是你能够日益精进的能力。生命中可以因不知众人所知而获益的能力，仅此一项。
 <!-- juzi ends -->
 
 
