@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 慢慢来，比较快。
+> 普通人一生的四个阶段：心比天高的无知快乐与希望——愧不如人后的奋斗与煎熬——毫无回报的愤懑与失望——坦然的平凡和颓废。你走到哪一步了？
 <!-- juzi ends -->
 
 
