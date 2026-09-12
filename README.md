@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 你在广告公司干的活大多只是日常的例行公事。要是干得不错，你会得到一步步的升迁。但是只有在出现突出的时机的时候，你才会有最可贵的机会。诀窍是重大时机出现的时候你要能识别它、抓住它。
+> 做任何事都应该设个 deadline。它可以帮你排除那些无关紧要之事，并避免追求尽善尽美，而是努力去做到与众不同。差异胜于完美。
 <!-- juzi ends -->
 
 
