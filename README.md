@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 做任何事都应该设个 deadline。它可以帮你排除那些无关紧要之事，并避免追求尽善尽美，而是努力去做到与众不同。差异胜于完美。
+> 爱情就像在海滩上捡贝壳，不要捡最大的， 也不要捡最漂亮的，要捡就捡自己最喜欢的，最重要的是捡到了自己喜欢的 就永远不要再去海边了。
 <!-- juzi ends -->
 
 
