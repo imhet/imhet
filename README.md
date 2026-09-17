@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 从来如此，便对么？
+> 什么叫做救自己呢？就是忠实自己的感觉，认真做每一件事，不要烦，不要放弃，不要敷衍。哪怕写文章时标点符号弄清楚，不要有错别字——这就是我所谓的自己救自己。我们都得一步一步救自己。
 <!-- juzi ends -->
 
 
