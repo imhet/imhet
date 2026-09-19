@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 宽容不是道德，而是认识。唯有深刻地认识事物，才能对人和世界的复杂性了解和体谅，才有不轻易责难和赞美的思维习惯。
+> 如今我走到人生十字路口，我知道哪条路是对的，毫无例外，我就知道，但我从不走，为什么？因为他妈的太苦了！
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/37069689/' target='_blank'>今人不见古时玥</a> | 2026-09-18 |
 | 读过 <a href='https://book.douban.com/subject/36710597/' target='_blank'>食南之徒</a> | 2026-09-05 |
 | 读过 <a href='https://book.douban.com/subject/36736875/' target='_blank'>钦探</a> | 2026-08-27 |
 | 读过 <a href='https://book.douban.com/subject/2058844/' target='_blank'>赌徒陈汤</a> | 2026-08-18 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35383720/' target='_blank'>晚明</a> | 2026-08-01 |
 | 玩过 <a href='http://www.douban.com/game/26817171/' target='_blank'>塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2026-08-01 |
 | 看过 <a href='https://movie.douban.com/subject/35882587/' target='_blank'>爱爱内含光</a> | 2026-07-25 |
-| 读过 <a href='https://book.douban.com/subject/35219052/' target='_blank'>铁血残明</a> | 2026-07-24 |
 <!-- douban ends -->
 
 </td>
