@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 在你成为领导者之前，成功的全部就是自我成长；当你成了领导者，成功的全部就变成帮助他人成长。
+> 我没想要赢，我只是不想输。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 读过 <a href='https://book.douban.com/subject/37494478/' target='_blank'>冒姓琅琊</a> | 2026-10-04 |
 | 看过 <a href='https://movie.douban.com/subject/36189205/' target='_blank'>凡人歌</a> | 2026-09-27 |
 | 看过 <a href='https://movie.douban.com/subject/37069689/' target='_blank'>今人不见古时玥</a> | 2026-09-18 |
 | 读过 <a href='https://book.douban.com/subject/36710597/' target='_blank'>食南之徒</a> | 2026-09-05 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/27179803/' target='_blank'>婴齐传</a> | 2026-08-13 |
 | 读过 <a href='https://book.douban.com/subject/37833272/' target='_blank'>咸的玩笑</a> | 2026-08-09 |
 | 读过 <a href='https://book.douban.com/subject/35383720/' target='_blank'>晚明</a> | 2026-08-01 |
-| 玩过 <a href='http://www.douban.com/game/26817171/' target='_blank'>塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド</a> | 2026-08-01 |
 <!-- douban ends -->
 
 </td>
