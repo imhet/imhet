@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 我没想要赢，我只是不想输。
+> 又一天过去了。今天过得怎么样，梦想是不是更远了？
 <!-- juzi ends -->
 
 
