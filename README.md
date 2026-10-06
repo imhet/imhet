@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 又一天过去了。今天过得怎么样，梦想是不是更远了？
+> 小时候以为最浪漫的事，是一个人走很远的路去看另一个人，现在明白最浪漫的事，是一个人不管走多远的路，心里想的念的都是同一个人。
 <!-- juzi ends -->
 
 
