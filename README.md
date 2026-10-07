@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 小时候以为最浪漫的事，是一个人走很远的路去看另一个人，现在明白最浪漫的事，是一个人不管走多远的路，心里想的念的都是同一个人。
+> 人的认识能力是有限的，对事物的感知是相对的，所以我们的很多常识其实是经不起推敲的。因此。一个人想要活的明白，首先必须学会怀疑，其次学会独立思考，这样才不会在社会和其他人灌输给我们的错误观念中稀里糊涂地过一辈子。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/36452545/' target='_blank'>功夫女足</a> | 2026-10-07 |
 | 读过 <a href='https://book.douban.com/subject/37494478/' target='_blank'>冒姓琅琊</a> | 2026-10-04 |
 | 看过 <a href='https://movie.douban.com/subject/36189205/' target='_blank'>凡人歌</a> | 2026-09-27 |
 | 看过 <a href='https://movie.douban.com/subject/37069689/' target='_blank'>今人不见古时玥</a> | 2026-09-18 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/36448279/' target='_blank'>罗小黑战记2</a> | 2026-08-16 |
 | 读过 <a href='https://book.douban.com/subject/27179803/' target='_blank'>婴齐传</a> | 2026-08-13 |
 | 读过 <a href='https://book.douban.com/subject/37833272/' target='_blank'>咸的玩笑</a> | 2026-08-09 |
-| 读过 <a href='https://book.douban.com/subject/35383720/' target='_blank'>晚明</a> | 2026-08-01 |
 <!-- douban ends -->
 
 </td>
