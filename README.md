@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 人的认识能力是有限的，对事物的感知是相对的，所以我们的很多常识其实是经不起推敲的。因此。一个人想要活的明白，首先必须学会怀疑，其次学会独立思考，这样才不会在社会和其他人灌输给我们的错误观念中稀里糊涂地过一辈子。
+> 跑步时浮上脑际的思绪，很像天际的云朵，形状各异，大小不同。它们飘然而来，又飘然而去。然而天空犹自是天空，一成不变。云朵不过是匆匆过客，它穿过天空，来了去了。唯有天空留存下来。所谓天空，是既在又不在的东西，既是实体又不是实体。对于天空这种广漠容器般的存在状态，我们唯有照单收下，全盘接受。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/37116446/' target='_blank'>给阿嬷的情书</a> | 2026-10-07 |
 | 看过 <a href='https://movie.douban.com/subject/36452545/' target='_blank'>功夫女足</a> | 2026-10-07 |
 | 读过 <a href='https://book.douban.com/subject/37494478/' target='_blank'>冒姓琅琊</a> | 2026-10-04 |
 | 看过 <a href='https://movie.douban.com/subject/36189205/' target='_blank'>凡人歌</a> | 2026-09-27 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/2058844/' target='_blank'>赌徒陈汤</a> | 2026-08-18 |
 | 看过 <a href='https://movie.douban.com/subject/36448279/' target='_blank'>罗小黑战记2</a> | 2026-08-16 |
 | 读过 <a href='https://book.douban.com/subject/27179803/' target='_blank'>婴齐传</a> | 2026-08-13 |
-| 读过 <a href='https://book.douban.com/subject/37833272/' target='_blank'>咸的玩笑</a> | 2026-08-09 |
 <!-- douban ends -->
 
 </td>
