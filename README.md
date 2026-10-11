@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 善于倾听是一种超能力。倾听你所喜欢的人时，要不时地追问「还有吗」，直到他们没有更多东西可讲。
+> 绝不要猜测别人的心里在想什么，琢磨别人的心思的人从来不是幸福的人。每个人都应该关注自己的内心的所思所想，如果连这一点都做不到，那是很可悲可叹的。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/35465011/' target='_blank'>显微镜下的大明之丝绢案</a> | 2026-10-11 |
 | 读过 <a href='https://book.douban.com/subject/35496106/' target='_blank'>一日三秋</a> | 2026-10-09 |
 | 看过 <a href='https://movie.douban.com/subject/37116446/' target='_blank'>给阿嬷的情书</a> | 2026-10-07 |
 | 看过 <a href='https://movie.douban.com/subject/36452545/' target='_blank'>功夫女足</a> | 2026-10-07 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/36710597/' target='_blank'>食南之徒</a> | 2026-09-05 |
 | 读过 <a href='https://book.douban.com/subject/36736875/' target='_blank'>钦探</a> | 2026-08-27 |
 | 读过 <a href='https://book.douban.com/subject/2058844/' target='_blank'>赌徒陈汤</a> | 2026-08-18 |
-| 看过 <a href='https://movie.douban.com/subject/36448279/' target='_blank'>罗小黑战记2</a> | 2026-08-16 |
 <!-- douban ends -->
 
 </td>
