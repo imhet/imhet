@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 真正的狼性，不在于吼叫和撕咬，而在于围猎前的隐忍。
+> 我们终其一生，就是要摆脱他人的期待，找到真正的自己。
 <!-- juzi ends -->
 
 
