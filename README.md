@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 你身边的都同你疏远了，其实这就是你周围扩大的开始。如果你的亲近都离远了，那么你的旷远已经在星空下开展得广大。
+> 在冬天的时候不断锻炼身体，沉下心来做正确的事情，春天到来的时候会更灿烂地绽放。
 <!-- juzi ends -->
 
 
