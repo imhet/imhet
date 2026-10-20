@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 在冬天的时候不断锻炼身体，沉下心来做正确的事情，春天到来的时候会更灿烂地绽放。
+> 只有在你工作堆积如山时，你才可能享受闲暇。当你无事可做时，空闲就变得一点也不有趣，因为空闲就是你的工作，而且是最耗人的工作。闲懒和吻一样，当它被盗走了之后，它的味道才是甜的。
 <!-- juzi ends -->
 
 
