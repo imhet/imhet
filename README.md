@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 想看 <a href='https://movie.douban.com/subject/1304054/' target='_blank'>天城峡疑案</a> | 2026-10-21 |
 | 看过 <a href='https://movie.douban.com/subject/35465011/' target='_blank'>显微镜下的大明之丝绢案</a> | 2026-10-11 |
 | 读过 <a href='https://book.douban.com/subject/35496106/' target='_blank'>一日三秋</a> | 2026-10-09 |
 | 看过 <a href='https://movie.douban.com/subject/37116446/' target='_blank'>给阿嬷的情书</a> | 2026-10-07 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/37069689/' target='_blank'>今人不见古时玥</a> | 2026-09-18 |
 | 读过 <a href='https://book.douban.com/subject/36710597/' target='_blank'>食南之徒</a> | 2026-09-05 |
 | 读过 <a href='https://book.douban.com/subject/36736875/' target='_blank'>钦探</a> | 2026-08-27 |
-| 读过 <a href='https://book.douban.com/subject/2058844/' target='_blank'>赌徒陈汤</a> | 2026-08-18 |
 <!-- douban ends -->
 
 </td>
