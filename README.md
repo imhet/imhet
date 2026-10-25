@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 单是聪明还不够，还应有足够的聪明以避免过分聪明。
+> 梦醒花犹存，铁甲依然在。
 <!-- juzi ends -->
 
 
