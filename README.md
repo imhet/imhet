@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 真正的男人，不会为英雄的荣誉去死，而要为心爱的人活着。
+> 也许宇宙中最违反直觉的真理就是，你给予他人越多，你收获的就越多。这是智慧的起点。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/36317421/' target='_blank'>太平年</a> | 2026-10-27 |
 | 想看 <a href='https://movie.douban.com/subject/35517044/' target='_blank'>低智商犯罪</a> | 2026-10-26 |
 | 想看 <a href='https://movie.douban.com/subject/1304054/' target='_blank'>天城峡疑案</a> | 2026-10-21 |
 | 看过 <a href='https://movie.douban.com/subject/35465011/' target='_blank'>显微镜下的大明之丝绢案</a> | 2026-10-11 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/37494478/' target='_blank'>冒姓琅琊</a> | 2026-10-04 |
 | 看过 <a href='https://movie.douban.com/subject/36189205/' target='_blank'>凡人歌</a> | 2026-09-27 |
 | 看过 <a href='https://movie.douban.com/subject/37069689/' target='_blank'>今人不见古时玥</a> | 2026-09-18 |
-| 读过 <a href='https://book.douban.com/subject/36710597/' target='_blank'>食南之徒</a> | 2026-09-05 |
 <!-- douban ends -->
 
 </td>
