@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 市场营销最核心的内容，即合适的产品、合适的渠道、合适的价格、合适的宣传信息和合适的营销团队。市场营销最核心的内容一直以来就是这样，从未改变。
+> 不要温和地走入那良夜，老年人应该燃烧着并对着日暮呼喊，怒斥、怒斥那光明的微灭。
 <!-- juzi ends -->
 
 
