@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 你瞧这些白云聚了又散，散了又聚，人生离合，亦复如此。
+> 我总是努力写零外部依赖的代码，多年以后依然可以运行。这是人类对抗熵的战争中， 我所做出的一点贡献。
 <!-- juzi ends -->
 
 
