@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 时间杠杆：将自己的时间做成好产品，无限复制；资本杠杆：能够撬动远超自身的资源，以小博大；婚姻杠杆：通过感情这种莫测的工具，捷径逆袭。
+> 生命本没有意义，你要能给他什么意义，他就有什么意义。与其终日冥想人生有何意义，不如试用此生做点有意义的事。
 <!-- juzi ends -->
 
 
