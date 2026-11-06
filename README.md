@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 你要批评指点四周的风景，你首先要爬上屋顶。
+> 无论明日，有多落魄，至少今天，没有蹉跎。
 <!-- juzi ends -->
 
 
@@ -24,7 +24,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 读过 <a href='https://book.douban.com/subject/35496106/' target='_blank'>一日三秋</a> | 2026-10-09 |
 | 看过 <a href='https://movie.douban.com/subject/37116446/' target='_blank'>给阿嬷的情书</a> | 2026-10-07 |
 | 看过 <a href='https://movie.douban.com/subject/36452545/' target='_blank'>功夫女足</a> | 2026-10-07 |
-| 读过 <a href='https://book.douban.com/subject/37494478/' target='_blank'>冒姓琅琊</a> | 2026-10-04 |
+| 读过 <a href='https://book.douban.com/subject/37494478/' target='_blank'>冒姓琅琊 第一卷</a> | 2026-10-04 |
 | 看过 <a href='https://movie.douban.com/subject/36189205/' target='_blank'>凡人歌</a> | 2026-09-27 |
 <!-- douban ends -->
 
