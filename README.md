@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 无论明日，有多落魄，至少今天，没有蹉跎。
+> 从来如此，便对么？
 <!-- juzi ends -->
 
 
