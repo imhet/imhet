@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 如果打算爱一个人，你要想清楚，是否愿意为了他，放弃如上帝般自由的心灵，从此心甘情愿有了羁绊。
+> 世界上最困难的事情是知道如何做一件事，然后看着别人做错而不加评论。
 <!-- juzi ends -->
 
 
@@ -16,6 +16,7 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 <!-- douban starts -->
 | | |
  |:------------- | -------------: |
+| 看过 <a href='https://movie.douban.com/subject/6967976/' target='_blank'>王阳明</a> | 2026-11-08 |
 | 想看 <a href='https://movie.douban.com/subject/2333676/' target='_blank'>把酒问青天</a> | 2026-11-03 |
 | 看过 <a href='https://movie.douban.com/subject/36317421/' target='_blank'>太平年</a> | 2026-10-27 |
 | 想看 <a href='https://movie.douban.com/subject/35517044/' target='_blank'>低智商犯罪</a> | 2026-10-26 |
@@ -25,7 +26,6 @@ Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享
 | 看过 <a href='https://movie.douban.com/subject/37116446/' target='_blank'>给阿嬷的情书</a> | 2026-10-07 |
 | 看过 <a href='https://movie.douban.com/subject/36452545/' target='_blank'>功夫女足</a> | 2026-10-07 |
 | 读过 <a href='https://book.douban.com/subject/37494478/' target='_blank'>冒姓琅琊 第一卷</a> | 2026-10-04 |
-| 看过 <a href='https://movie.douban.com/subject/36189205/' target='_blank'>凡人歌</a> | 2026-09-27 |
 <!-- douban ends -->
 
 </td>
