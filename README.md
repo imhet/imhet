@@ -3,7 +3,7 @@
 Hi，我是 imhet，目前在深圳某厂做 Android 开发，喜欢开源分享，以下内容通过 <a href="https://github.com/imhet/imhet/actions" target="_blank">imhet/actions</a> 每日自动更新。
 
 <!-- juzi starts -->
-> 世界上最困难的事情是知道如何做一件事，然后看着别人做错而不加评论。
+> 领导者是做对的事情，而管理者是把事情做对。
 <!-- juzi ends -->
 
 
