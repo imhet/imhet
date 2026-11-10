@@ -57,7 +57,7 @@ def fetch_douban():
 
 def fetch_blog_entries():
     try:
-        feed = feedparser.parse("https://heyitao.com/feed")
+        feed = feedparser.parse("https://heyitao.com/index.xml")
         if feed.get("bozo_exception") or not feed.get("entries"):
             print(f"博客 RSS 获取失败: {feed.get('bozo_exception', '无数据')}")
             return []
@@ -66,7 +66,9 @@ def fetch_blog_entries():
                 "action": "发布",
                 "title": entry["title"],
                 "url": entry["link"].split("#")[0],
-                "published": entry["updated"].split("T")[0],
+                "published": datetime.datetime.strptime(
+                    entry["published"], '%a, %d %b %Y %H:%M:%S %z'
+                ).date(),
             }
             for entry in feed["entries"]
         ]
