@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## 项目概述
 
 GitHub 个人主页项目，通过 GitHub Actions 每日自动更新 README.md，展示：
-- 随机句子（每日一句）
+- 每日一句（从博客抓取）
 - 豆瓣动态（最近观影/读书）
 - 博客文章更新
 
@@ -31,10 +31,10 @@ cat README.md
 python -c "import feedparser; print(feedparser.parse('https://www.douban.com/feed/people/heyitao/interests')['entries'][0])"
 
 # 测试博客 RSS 抓取
-python -c "import feedparser; print(feedparser.parse('https://heyitao.com/feed')['entries'][0])"
+python -c "import feedparser; print(feedparser.parse('https://heyitao.com/index.xml')['entries'][0])"
 
-# 测试随机句子
-python -c "import random; lines = open('src/juzi.txt', 'r', encoding='utf-8').readlines(); print(random.choice([l.strip() for l in lines if l.strip()]))"
+# 测试每日一句抓取
+python -c "import httpx, re; m = re.search(r'class=daily-quote-text>([^<]+)<', httpx.get('https://heyitao.com/').text); print(m.group(1))"
 ```
 
 ## 架构说明
@@ -49,7 +49,6 @@ python -c "import random; lines = open('src/juzi.txt', 'r', encoding='utf-8').re
 └── src/
     ├── build.py          # 主构建脚本
     ├── requirements.txt  # Python 依赖
-    ├── juzi.txt         # 句子库（每行一句）
     └── release-projects.md  # 发布项目列表
 ```
 
@@ -57,7 +56,7 @@ python -c "import random; lines = open('src/juzi.txt', 'r', encoding='utf-8').re
 
 1. **构建脚本** (`src/build.py`)：
    - 从豆瓣 RSS 和博客 RSS 抓取最新数据
-   - 从 `juzi.txt` 随机选择一句
+   - 从博客首页抓取每日一句（含作者）
    - 使用正则表达式替换 README.md 中的标记区块
 
 2. **标记区块**：
@@ -110,7 +109,7 @@ python -c "import random; lines = open('src/juzi.txt', 'r', encoding='utf-8').re
 ## README 组成
 
 ### 动态更新部分
-- 每日一句：从 `src/juzi.txt` 随机选择
+- 每日一句：从博客首页抓取当日句子（含作者）
 - 豆瓣动态：最近 10 条观影/读书记录
 - 博客文章：最近 10 篇文章
 
