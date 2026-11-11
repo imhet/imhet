@@ -5,7 +5,8 @@ import re
 import os
 import datetime
 import ssl
-import random
+
+import httpx
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -77,14 +78,17 @@ def fetch_blog_entries():
         return []
 
 
-def fetch_random_juzi(juzi_file):
-    r = []
-    with open(juzi_file, 'r', encoding="utf-8") as f:
-        result = f.readlines()
-    for s in result:
-        if s.strip():
-            r.append(s.strip())
-    return r[random.randint(0, len(r) - 1)]
+def fetch_daily_quote():
+    resp = httpx.get("https://heyitao.com/")
+    resp.raise_for_status()
+    text = re.search(r"class=daily-quote-text>([^<]+)<", resp.text)
+    if not text:
+        print("博客首页未找到每日一句区块")
+        return None
+    author = re.search(r"class=daily-quote-meta><span>([^<]+)</span>", resp.text)
+    if author:
+        return "> {} —— {}".format(text.group(1), author.group(1))
+    return "> " + text.group(1)
 
 
 if __name__ == "__main__":
@@ -99,9 +103,12 @@ if __name__ == "__main__":
 
     # 每日一句
     try:
-        juzi_update = fetch_random_juzi(real_root / "src" / "juzi.txt")
-        rewritten = replace_chunk(readme_contents, "juzi", "> " + juzi_update)
-        print(f"✓ 每日一句更新成功")
+        juzi_update = fetch_daily_quote()
+        if juzi_update:
+            rewritten = replace_chunk(readme_contents, "juzi", juzi_update)
+            print(f"✓ 每日一句更新成功")
+        else:
+            print("✗ 每日一句为空，跳过更新")
     except Exception as e:
         print(f"✗ 每日一句更新失败: {e}")
         rewritten = readme_contents
